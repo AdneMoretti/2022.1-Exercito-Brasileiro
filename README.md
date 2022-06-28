@@ -8,5 +8,5 @@ Luan Vasco | Luan-Cavalcante
 Adne Moretti | AdneMoretti
 Gabriel Moretti | MorettiGS
 Guilherme Puida | guilherme-puida
-Gustavo Martins | gustavomartins
+Gustavo Martins | gustavomartins-github
 Vitor Eduardo | vitorekr
