@@ -2,6 +2,14 @@
 
 Este repositório está destinado ao desenvolvimento da documentação do projeto da disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales, na Universidade de Brasília - FGA, durante o período 2022.1
 
+# Aplicativos Avaliados
+
+* Carteira Digital de Trânsito - Aplicativo da CNH digital.
+* Detran-DF - Aplicativo do DETRAN-DF.
+* E-Título - Aplicativo do Título de Eleitor digital.
+* Hemovida - Aplicativo de agendamento para doação de sangue no Hemocentro.
+* Exército Brasileiro - Aplicativo do Exército Brasileiro
+
 # Aplicativo Selecionado - Exército Brasileiro
 
 O aplicativo selecionado foi o "Exército Brasileiro". Tal app traz diversos conteúdos e links para os principais serviços do Exército.
@@ -20,6 +28,7 @@ Os integrantes envolvidos no projeto são:
 <img src="https://github.com/Luan-Cavalcante.png" alt="Luan Vasco" width="100">              | Luan Vasco | [@Luan-Cavalcante](https://github.com/Luan-Cavalcante) | 190111836 |
 <img src="https://github.com/guilherme-puida.png" alt="Guilherme Puida" width="100">   | Guilherme Puida | [@guilherme-puida](https://github.com/guilherme-puida) | 200019015 |
 <img src="https://github.com/vitorekr.png" alt="Vitor Eduardo" width="100">   | Vitor Eduardo | [@vitorekr](https://github.com/vitorekr) | 190118288 |
+
 
 # Rich Picture
 
