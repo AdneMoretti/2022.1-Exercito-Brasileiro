@@ -1,5 +1,3 @@
-<p align="center"><img width="240"src="assets/imagens/logo-app-ex_br"></a></p>
-
 # Aplicativo do Exército Brasileiro
 
 ## Sobre o projeto
