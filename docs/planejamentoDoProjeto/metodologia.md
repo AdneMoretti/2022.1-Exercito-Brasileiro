@@ -1,10 +1,10 @@
 # Metodologia
 
 ## Métodos Ágeis
-Os métodos ágeis se baseiam em uma abordagem incremental para a especificação, (Sommervile, Ian; ) o desenvolvimento e a entrega do software. Eles são mais adequados ao desenvolvimento de aplicativos nos quais os requisitos de sistema mudam rapidamente durante o processo de desenvolvimento (Sommerville, Ian).
+Os métodos ágeis se baseiam em uma abordagem incremental para a especificação, (Sommerville, Ian; ) o desenvolvimento e a entrega do software. Eles são mais adequados ao desenvolvimento de aplicativos nos quais os requisitos de sistema mudam rapidamente durante o processo de desenvolvimento (Sommerville, Ian).
 
 ![desenv_agil](https://user-images.githubusercontent.com/56610229/176553362-597e2271-9784-4a00-8890-7ce80a0839f5.png)
-<figcaption>Imagem 1: Principios dos métodos ágeis, retirado do livro "Engenharia de Software" de Ian Sommerville.</figcaption>
+<figcaption>Imagem 1: Princípios dos métodos ágeis, retirado do livro "Engenharia de Software" de Ian Sommerville.</figcaption>
 
 ## Scrum
 No SCRUM, o foco está no gerenciamento do desenvolvimento iterativo, ao invés das abordagens técnicas específicas da engenharia de software ágil.

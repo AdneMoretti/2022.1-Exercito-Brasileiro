@@ -1,10 +1,10 @@
 ## Cronograma de atividades
 
-### Primeira entrega - 29/03/2022
+### Primeira entrega - 29/06/2022
 Atividade(s) | Data  | Responsável |
 ------------ | ------- | ----------- | 
 Selecionar app para o projeto da disciplina | 27/06/2022 | Todos |
-Ritch Picture | 28/06/2022 | Gustavo Martins |
+Rich Picture | 28/06/2022 | Gustavo Martins |
 Definição de ferramentas e metodologias |  29/06/2022   | Todos|
 Cronograma detalhado | 29/06/2022 | Adne Moretti
 Detalhamento das Metodologias | 29/06/2022 | Vitor Eduardo
