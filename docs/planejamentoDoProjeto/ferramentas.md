@@ -29,3 +29,9 @@ O Visual Studio Code (VsCode) será utilizado para manipulação dos arquivos do
 ![image](https://user-images.githubusercontent.com/72039007/176481838-48ff573d-3f72-4dcb-a235-a0053bff3bd6.png)
 
 A ferramenta Telegram será utilizada como fonte de comunicação primária, visto a facilidade e velocidade da comunicação, além de permitir o compartilhamento de mídias de maneira eficácia e eficiência
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor |
+|--------|------|-----------|-------|
+| 0.1 | 29/06/22 | Documento Inicial | Gustavo Martins |

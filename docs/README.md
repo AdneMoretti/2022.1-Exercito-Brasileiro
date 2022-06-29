@@ -4,7 +4,7 @@ Este repositório está destinado ao desenvolvimento da documentação do projet
 
 # Aplicativo Selecionado - Exército Brasileiro
 
-O aplicaivo selecionado foi o "Exército Brasileiro". Tal app traz diversos conteúdos e links para os principais serviços do Exército.
+O aplicativo selecionado foi o "Exército Brasileiro". Tal app traz diversos conteúdos e links para os principais serviços do Exército.
 
 ![image](https://user-images.githubusercontent.com/72039007/176435212-84167340-fa0f-41c9-8ea9-c608055ec031.png)
 
@@ -47,6 +47,8 @@ Etapa | Entrega | Apresentação | Atividade(s) |
 6 | 24/08/2022 | 25/08/2022 | Pós-Rastreabilidade - Gerência II
 7 | 12/09/2022 | ------------- | Entrega da apresentação do projeto final
 
+## Histórico de Versão
 
-
-
+| Versão | Data | Descrição | Autor |
+|--------|------|-----------|-------|
+| 0.1 | 29/06/22 | Documento Inicial | Todos |
