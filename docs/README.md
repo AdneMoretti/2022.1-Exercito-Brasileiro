@@ -19,6 +19,7 @@ O aplicaivo "Exército Brasileiro" traz diversos conteúdos e links para os prin
 
 ## Rich Picture
 Uma "Rich Picture", ou "Imagem Rica", é uma ferramenta eficaz utilizada para analisar problemas e expressar suas ideias. Sendo assim, a imagem rica a seguir confere uma boa visão sobre como um individuo enterage com o aplicativo e, além disso, exibe as principais funcionalidades do sistema.
+
 ![RichPicture](https://user-images.githubusercontent.com/72039007/176434935-ff151ae6-d131-4a45-8283-5868758f2d84.jpg)
 
 ## Ferramentas
