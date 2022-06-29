@@ -1,4 +1,4 @@
-![logo](assets/imagens/logoApp.jpg ':size=20%')
+![logo](assets/imagens/logoApp.png ':size=20%')
 
 # Exército Brasileiro
 
