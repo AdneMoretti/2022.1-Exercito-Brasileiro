@@ -18,7 +18,7 @@ O aplicaivo "Exército Brasileiro" traz diversos conteúdos e links para os prin
 <img src="https://github.com/vitorekr.png" alt="Vitor Eduardo" width="100">   | Vitor Eduardo | [@vitorekr](https://github.com/vitorekr) | 190118288 |
 
 ## Rich Picture
-Uma "Rich Picture", ou "Imagem Rica", é uma ferramenta eficaz utilizada para analisar problemas e expressar suas ideias. Sendo assim, a imagem rica a seguir confere uma boa visão sobre como um individuo enterage com o aplicativo e, além disso, exibe as principais funcionalidades do sistema.
+Uma "Rich Picture", ou "Imagem Rica", é uma ferramenta eficaz utilizada para analisar problemas e expressar suas ideias. Sendo assim, a imagem rica a seguir confere uma boa visão sobre como um individuo interage com o aplicativo e, além disso, exibe as principais funcionalidades do sistema.
 
 ![RichPicture](https://user-images.githubusercontent.com/72039007/176434935-ff151ae6-d131-4a45-8283-5868758f2d84.jpg)
 
@@ -34,25 +34,16 @@ Uma "Rich Picture", ou "Imagem Rica", é uma ferramenta eficaz utilizada para an
 ## Planejamento do Projeto
 
 ## Cronograma de Atividades
-Etapa | Data | Atividade(s) |
------ | ------- | ----------
-1 | 29/06/2022  | Planejamento do Projeto, equipe, App selecionado para o projeto da disciplina, Ferramentas do projeto, cronograma das atividades, Rich Picture.
-2 | 13/072022 | Técnicas e Priorização
-3 | 20/07/2022 | Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
-4 | 03/08/2022 | Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs, NFR Framework)
-5 | 17/08/2022 | Análise de Requisitos: Verificação e Validação
-6 | 24/08/2022 | Pós-Rastreabilidade - Gerência II
-7 | 12/09/2022 | Entrega da apresentação do projeto final
+Etapa | Entrega | Apresentação | Atividade(s) |
+----- | ------- | ---------- | ----------
+1 | 29/06/2022  | 30/06/2022 | Planejamento do Projeto, equipe, App selecionado para o projeto da disciplina, Ferramentas do projeto, cronograma das atividades, Rich Picture.
+2 | 13/072022 | 14/072022 | Técnicas e Priorização
+3 | 20/07/2022 | 21/07/2022 | Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
+4 | 03/08/2022 | 04/08/2022  | Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs, NFR Framework)
+5 | 17/08/2022 | 18/08/2022 | Análise de Requisitos: Verificação e Validação
+6 | 24/08/2022 | 25/08/2022 | Pós-Rastreabilidade - Gerência II
+7 | 12/09/2022 | ------------- | Entrega da apresentação do projeto final
 
-## Cronograma de Apresentações
-Etapa | Data |
------ | ------- |
-1 | 30/06/2022  |
-2 | 14/072022 |
-3 | 21/07/2022 |
-4 | 04/08/2022 |
-5 | 18/08/2022 |
-6 | 25/08/2022 |
-7 | ------------- |
+
 
 
