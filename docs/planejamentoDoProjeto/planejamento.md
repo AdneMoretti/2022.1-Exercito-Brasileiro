@@ -1,21 +1,7 @@
 ## Planejamento do Projeto
-### Primeira entrega - 29/03/2022
-Atividade(s) | Data  | Responsável |
------------- | ------- | ----------- | 
-Selecionar app para o projeto da disciplina | 27/06/2022 | Todos |
-Ritch Picture | 28/06/2022 | Gustavo Martins |
-Definição de ferramentas e metodologias |  29/06/2022   | Todos|
-Cronograma detalhado | 29/06/2022 | Adne Moretti
-Detalhamento das Metodologias | 29/06/2022 | Vitor Eduardo
 
-<br>
+![image](https://user-images.githubusercontent.com/72039007/176550231-99ccecc2-0af8-418f-b996-35296a273f32.png)
 
-### Segunda entrega - 13/07/2022
+![image](https://user-images.githubusercontent.com/72039007/176550666-f8444e88-3a4e-4cf5-8808-3a132294a3f4.png)
 
-Atividade(s) | Data  | Responsável |
------------- | ------- | ----------- | 
-Brainstorm   | 05/07/2022 | Todos
-Introspecção | 07/07/2022 | Gustavo Martins, Vitor Eduardo
-Estudo do perfil do usuário | 07/07/2022 | Adne Moretti, Gabriel Moretti
-Definição de personas  |   10/07/2022  | Guilherme Puida, Luan Vasco
-Elicitação de requisitos| 10/07/2022 | Todos
+

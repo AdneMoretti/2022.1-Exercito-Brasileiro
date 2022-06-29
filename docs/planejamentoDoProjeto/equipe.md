@@ -8,3 +8,9 @@
 <img src="https://github.com/Luan-Cavalcante.png" alt="Luan Vasco" width="100">              | Luan Vasco | [@Luan-Cavalcante](https://github.com/Luan-Cavalcante) | 190111836 |
 <img src="https://github.com/guilherme-puida.png" alt="Guilherme Puida" width="100">   | Guilherme Puida | [@guilherme-puida](https://github.com/guilherme-puida) | 200019015 |
 <img src="https://github.com/vitorekr.png" alt="Vitor Eduardo" width="100">   | Vitor Eduardo | [@vitorekr](https://github.com/vitorekr) | 190118288 |
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor |
+|--------|------|-----------|-------|
+| 0.1 | 29/06/22 | Documento Inicial | Gustavo Martins |
