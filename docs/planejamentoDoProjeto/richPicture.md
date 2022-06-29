@@ -7,4 +7,4 @@ O Rich Picture do projeto apresenta uma visão geral do funcionamento do sistema
 
 | Versão | Data | Descrição | Autor |
 |--------|------|-----------|-------|
-| 0.1 | 29/06/22 | Documento Inicial | Gustavo Martins |
+| 0.1 | 29/06/22 | Documento Inicial: desenho do rich picture e criação da página | Gustavo Martins |
