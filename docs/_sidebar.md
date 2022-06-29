@@ -1,4 +1,4 @@
-## Planejamento do Projeto
+Planejamento do Projeto
 - [Aplicativo Selecionado](/planejamentoDoProjeto/appSelecionado.md)
 - [Equipe](/planejamentoDoProjeto/equipe.md)
 - [Rich Picture](/planejamentoDoProjeto/richPicture.md)
