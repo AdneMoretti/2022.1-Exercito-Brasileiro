@@ -1,17 +1,30 @@
 ## Cronograma de atividades
 
-Etapa | Entrega | Apresentação | Atividade(s) |
------ | ------- | ---------- | ----------
-1 | 29/06/2022  | 30/06/2022 | Planejamento do Projeto, equipe, App selecionado para o projeto da disciplina, Ferramentas do projeto, cronograma das atividades, Rich Picture.
-2 | 13/072022 | 14/072022 | Técnicas e Priorização
-3 | 20/07/2022 | 21/07/2022 | Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
-4 | 03/08/2022 | 04/08/2022  | Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs, NFR Framework)
-5 | 17/08/2022 | 18/08/2022 | Análise de Requisitos: Verificação e Validação
-6 | 24/08/2022 | 25/08/2022 | Pós-Rastreabilidade - Gerência II
-7 | 12/09/2022 | ------------- | Entrega da apresentação do projeto final
+### Primeira entrega - 29/03/2022
+Atividade(s) | Data  | Responsável |
+------------ | ------- | ----------- | 
+Selecionar app para o projeto da disciplina | 27/06/2022 | Todos |
+Ritch Picture | 28/06/2022 | Gustavo Martins |
+Definição de ferramentas e metodologias |  29/06/2022   | Todos|
+Cronograma detalhado | 29/06/2022 | Adne Moretti
+Detalhamento das Metodologias | 29/06/2022 | Vitor Eduardo
+
+<br>
+
+### Segunda entrega - 13/07/2022
+
+Atividade(s) | Data  | Responsável |
+------------ | ------- | ----------- | 
+Brainstorm   | 05/07/2022 | Todos
+Introspecção | 07/07/2022 | Gustavo Martins, Vitor Eduardo
+Estudo do perfil do usuário | 07/07/2022 | Adne Moretti, Gabriel Moretti
+Definição de personas  |   10/07/2022  | Guilherme Puida, Luan Vasco
+Elicitação de requisitos| 10/07/2022 | Todos
+
+<br>
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor |
-|--------|------|-------|-----------|
-| 0.1 | 29/06/22 | Documento Inicial | Todos | 
+| Versão | Data | Descrição | Autor | Revisão | 
+|--------|------|-------|-----------| ------- |
+| 0.1 | 29/06/22 | Documento Inicial | Adne Moretti, Gustavo Martins | Guilherme Puida| 
