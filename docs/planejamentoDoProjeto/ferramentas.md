@@ -1,6 +1,6 @@
 ## Ferramentas do Projeto
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="100">
+![image](https://user-images.githubusercontent.com/72039007/176484543-35225d6c-4a2e-464f-adac-e23c6ff5a086.png)
 
 Usaremos o github para versionamento, repositório e documentação do projeto.
 
