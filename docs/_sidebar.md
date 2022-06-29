@@ -3,5 +3,4 @@ Planejamento do Projeto
 - [Equipe](/planejamentoDoProjeto/equipe.md)
 - [Rich Picture](/planejamentoDoProjeto/richPicture.md)
 - [Ferramentas do Projeto](/planejamentoDoProjeto/ferramentas.md)
-- [Planejamento do Projeto](/planejamentoDoProjeto/planejamento.md)
 - [Cronograma de Atividades](/planejamentoDoProjeto/cronograma.md)
