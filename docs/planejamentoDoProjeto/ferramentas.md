@@ -1,6 +1,4 @@
 ## Ferramentas do Projeto
-
-## Ferramentas
 |     |     | 
 | :-: | :- |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="100"> | O Github é uma excelente ferramenta para controle de versionamento e armazenamento dos arquivos de documentação. |
