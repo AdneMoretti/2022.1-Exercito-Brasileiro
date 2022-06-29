@@ -60,4 +60,5 @@ Etapa | Entrega | Apresentação | Atividade(s) |
 
 | Versão | Data | Descrição | Autor |
 |--------|------|-----------|-------|
-| 0.1 | 29/06/22 | Documento Inicial | Todos |
+| 0.1 | 29/06/22 | Documento Inicial | Gustavo Martins |
+| 0.2 | 29/06/22 | Revisão e adição dos aplicativos | Todos |
