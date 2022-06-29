@@ -1,6 +1,6 @@
 ## Sobre o projeto
 
-Estes está destinado ao desenvolvimento da documentação do projeto da disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales, na Universidade de Brasília - Gama, durante o período 2022.1
+Este repositório está destinado ao desenvolvimento da documentação do projeto da disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales, na Universidade de Brasília - Gama, durante o período 2022.1
 
 ## Equipe
  Foto | Nome | GitHub | Matrícula |
