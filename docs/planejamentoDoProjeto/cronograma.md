@@ -28,6 +28,8 @@ Elicitação de requisitos| 10/07/2022 | Todos
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisão | 
-|--------|------|-------|-----------| ------- |
-| 0.1 | 29/06/22 | Documento Inicial | Adne Moretti, Gustavo Martins | Guilherme Puida| 
+| Versão | Data | Descrição | Autor |
+|--------|------|-------|-----------|
+| 0.1 | 29/06/22 | Documento Inicial | Adne Moretti, Gustavo Martins |
+| 0.2 | 29/06/22 | Revisão | Guilherme Puida |
+| 0.3 | 29/06/22 | Adição de uma introdução ao conteúdo da página | Gustavo Martins |
