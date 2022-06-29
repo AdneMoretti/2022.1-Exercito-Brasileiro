@@ -1,3 +1,6 @@
-- Planejamento
-
-- [Cronograma de entregas](/planejamento/cronograma.md)
+- [Planejamento do Projeto](/planejamentoDoProjeto/planejamento.md)
+- [Equipe](/planejamentoDoProjeto/equipe.md)
+- [Aplicativo Selecionado](/planejamentoDoProjeto/appSelecionado.md)
+- [Ferramentas do Projeto](/planejamentoDoProjeto/ferramentas.md)
+- [Cronograma de Atividades](/planejamentoDoProjeto/cronograma.md)
+- [Rich Picture](/planejamentoDoProjeto/richPicture.md)
