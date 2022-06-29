@@ -1,14 +1,14 @@
-## Sobre o projeto
+# Sobre o projeto
 
 Este repositório está destinado ao desenvolvimento da documentação do projeto da disciplina de Requisitos de Software, ministrada pelo professor André Barros de Sales, na Universidade de Brasília - FGA, durante o período 2022.1
 
-## Aplicativo Selecionado - Exército Brasileiro
+# Aplicativo Selecionado - Exército Brasileiro
 
 O aplicaivo selecionado foi o "Exército Brasileiro". Tal app traz diversos conteúdos e links para os principais serviços do Exército.
 
 ![image](https://user-images.githubusercontent.com/72039007/176435212-84167340-fa0f-41c9-8ea9-c608055ec031.png)
 
-## Equipe
+# Equipe
 
 Os integrantes envolvidos no projeto são:
 
@@ -21,12 +21,12 @@ Os integrantes envolvidos no projeto são:
 <img src="https://github.com/guilherme-puida.png" alt="Guilherme Puida" width="100">   | Guilherme Puida | [@guilherme-puida](https://github.com/guilherme-puida) | 200019015 |
 <img src="https://github.com/vitorekr.png" alt="Vitor Eduardo" width="100">   | Vitor Eduardo | [@vitorekr](https://github.com/vitorekr) | 190118288 |
 
-## Rich Picture
+# Rich Picture
 
 Uma "Rich Picture", ou "Imagem Rica", é uma ferramenta eficaz utilizada para analisar problemas e expressar suas ideias. Sendo assim, a imagem rica a seguir confere uma boa visão sobre como um individuo interage com o aplicativo e, além disso, exibe as principais funcionalidades do sistema.
 
 ![image](https://user-images.githubusercontent.com/72039007/176474568-a941fb62-d016-48c6-9d01-ed9feaa088dd.png)
-## Ferramentas
+# Ferramentas
 |     |     | 
 | :-: | :- |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="100"> | O Github é uma excelente ferramenta para controle de versionamento e armazenamento dos arquivos de documentação. |
@@ -35,7 +35,7 @@ Uma "Rich Picture", ou "Imagem Rica", é uma ferramenta eficaz utilizada para an
 | <img src="./assets/imagens/figma.svg" width="100"> | Figma é um editor gráfico e será utilizado no projeto para realizar a prototipagem de interfaces gráficas. |
 | <img src="./assets/imagens/vscode.svg" width="100"> | Vs Code é um editor de texto da Microsoft e será utilizado para realizar a documentação do projeto devido a sua integração com o GitHub. |
 
-## Cronograma de Atividades
+# Cronograma de Atividades
 
 Etapa | Entrega | Apresentação | Atividade(s) |
 ----- | ------- | ---------- | ----------
