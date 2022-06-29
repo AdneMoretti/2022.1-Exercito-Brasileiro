@@ -1,3 +1,2 @@
 ## Cronograma de atividades
 
-## Versionamento
