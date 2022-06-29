@@ -1,2 +1,0 @@
-## Cronograma de atividades
-
