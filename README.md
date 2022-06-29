@@ -8,13 +8,13 @@
 </p>
 
 ## Equipe
-Nome | GitHub | Matrícula |
- ---- | ---- | ------ | -------- |
-Gustavo Martins | [@gustavomartins-github](https://github.com/gustavomartins-github) | 200019228 |
-Adne Moretti  | [@AdneMoretti](https://github.com/AdneMoretti) | 200013181 |
-Gabriel Moretti | [@MorettiGS](https://github.com/MorettiGS) | 200018205 |
-Luan Vasco | [@Luan-Cavalcante](https://github.com/Luan-Cavalcante) | 190111836 |
-Guilherme Puida | [@guilherme-puida](https://github.com/guilherme-puida) | 200019015 |
-Vitor Eduardo | [@vitorekr](https://github.com/vitorekr) | 190118288 |
+Alunos | Github | Matrícula 
+------- | -------- | --------
+Gustavo Martins | gustavomartins-github| 200019228 |
+Adne Moretti | AdneMoretti | 200013181 |
+Gabriel Moretti | MorettiGS | 200018205 |
+Luan Vasco | Luan-Cavalcante | 190111836 |
+Guilherme Puida | guilherme-puida | 200019015 |
+Vitor Eduardo | vitorekr | 190118288 |
 
 
