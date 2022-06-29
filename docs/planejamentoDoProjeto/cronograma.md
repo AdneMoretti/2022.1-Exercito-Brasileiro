@@ -1,4 +1,7 @@
 ## Cronograma de atividades
+Nesta pagina podemos visualizar as atividades especificas relacionadas a cada entrega. Contudo, vale ressaltar que, a pesar dos membros estarem organizados em subatividades distintas, todos podem contribuir para as outras atividades.
+
+![image](https://user-images.githubusercontent.com/72039007/176560451-fe585f46-96d6-47a1-83ec-c706d95b68d4.png)
 
 ### Primeira entrega - 29/06/2022
 Atividade(s) | Data  | Responsável |
