@@ -4,11 +4,13 @@ Este repositório está destinado ao desenvolvimento da documentação do projet
 
 ## Aplicativo Selecionado - Exército Brasileiro
 
-O aplicaivo "Exército Brasileiro" traz diversos conteúdos e links para os principais serviços do Exército.
+O aplicaivo selecionado foi o "Exército Brasileiro". Tal app traz diversos conteúdos e links para os principais serviços do Exército.
 
 ![image](https://user-images.githubusercontent.com/72039007/176435212-84167340-fa0f-41c9-8ea9-c608055ec031.png)
 
 ## Equipe
+
+Os integrantes envolvidos no projeto são:
 
  Foto | Nome | GitHub | Matrícula |
  ---- | ---- | ------ | -------- |
@@ -32,8 +34,6 @@ Uma "Rich Picture", ou "Imagem Rica", é uma ferramenta eficaz utilizada para an
 | <img src="./assets/imagens/discord.svg" width="100"> | Discord é um aplicativo de comunicação instantânea e será utilizado para a comunicação síncrona da equipe. |
 | <img src="./assets/imagens/figma.svg" width="100"> | Figma é um editor gráfico e será utilizado no projeto para realizar a prototipagem de interfaces gráficas. |
 | <img src="./assets/imagens/vscode.svg" width="100"> | Vs Code é um editor de texto da Microsoft e será utilizado para realizar a documentação do projeto devido a sua integração com o GitHub. |
-
-## Planejamento do Projeto
 
 ## Cronograma de Atividades
 
