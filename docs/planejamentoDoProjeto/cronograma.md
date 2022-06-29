@@ -9,3 +9,9 @@ Etapa | Entrega | Apresentação | Atividade(s) |
 5 | 17/08/2022 | 18/08/2022 | Análise de Requisitos: Verificação e Validação
 6 | 24/08/2022 | 25/08/2022 | Pós-Rastreabilidade - Gerência II
 7 | 12/09/2022 | ------------- | Entrega da apresentação do projeto final
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor |
+|--------|------|-------|-----------|
+| 0.1 | 29/06/22 | Documento Inicial | Todos | 
