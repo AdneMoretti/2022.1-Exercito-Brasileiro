@@ -1,4 +1,4 @@
-## Equipe
+## Integrantes
 
  Foto | Nome | GitHub | Matrícula |
  ---- | ---- | ------ | -------- |
