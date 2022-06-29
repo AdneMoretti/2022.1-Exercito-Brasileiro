@@ -6,7 +6,3 @@
 - [Ferramentas do Projeto](/planejamentoDoProjeto/ferramentas.md)
 - [Cronograma de Atividades](/planejamentoDoProjeto/cronograma.md)
 - [Metodologia](/planejamentoDoProjeto/metodologia.md)
-
-- Histórico de Versão
-
-- [Versões do Projeto](/versoesDoProjeto/versões.md)
