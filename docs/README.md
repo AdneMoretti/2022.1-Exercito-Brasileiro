@@ -34,4 +34,25 @@ Uma "Rich Picture", ou "Imagem Rica", é uma ferramenta eficaz utilizada para an
 ## Planejamento do Projeto
 
 ## Cronograma de Atividades
+Etapa | Data | Atividade(s) |
+----- | ------- | ----------
+1 | 29/06/2022  | Planejamento do Projeto, equipe, App selecionado para o projeto da disciplina, Ferramentas do projeto, cronograma das atividades, Rich Picture.
+2 | 13/072022 | Técnicas e Priorização
+3 | 20/07/2022 | Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
+4 | 03/08/2022 | Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs, NFR Framework)
+5 | 17/08/2022 | Análise de Requisitos: Verificação e Validação
+6 | 24/08/2022 | Pós-Rastreabilidade - Gerência II
+7 | 12/09/2022 | Entrega da apresentação do projeto final
+
+## Cronograma de Apresentações
+Etapa | Data |
+----- | ------- |
+1 | 30/06/2022  |
+2 | 14/072022 |
+3 | 21/07/2022 |
+4 | 04/08/2022 |
+5 | 18/08/2022 |
+6 | 25/08/2022 |
+7 | ------------- |
+
 
