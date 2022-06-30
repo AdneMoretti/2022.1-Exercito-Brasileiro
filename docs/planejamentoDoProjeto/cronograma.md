@@ -1,7 +1,8 @@
 ## Cronograma de atividades
 Nesta pagina podemos visualizar as atividades especificas relacionadas a cada entrega. Contudo, vale ressaltar que, a pesar dos membros estarem organizados em subatividades distintas, todos podem contribuir para as outras atividades.
 
-![image](https://user-images.githubusercontent.com/72039007/176560451-fe585f46-96d6-47a1-83ec-c706d95b68d4.png)
+<img src=https://img.freepik.com/vetores-gratis/alunos-ou-funcionarios-adicionando-eventos-ou-prazos-ao-aplicativo-de-calendario-jovens-usando-ilustracao-plana-de-organizador-de-tempo-ou-planejador_74855-20735.jpg width=400px/>
+
 
 ### Primeira entrega - 29/06/2022
 Atividade(s) | Data  | Responsável |
