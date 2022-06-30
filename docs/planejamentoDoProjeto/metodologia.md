@@ -39,4 +39,4 @@ Fluxo de trabalho:
 | Versão | Data       | Descrição                                 | Autor        |
 | ------ | ---------- | ----------------------------------------- | ------------ |
 | 0.1    | 29/06/2022 | Criação do documento                      | Vitor        |
-| 0.2    | 29/06/2022 | Criação de uma introdução à pagina | Vitor        |
+| 0.2    | 29/06/2022 | Criação de uma introdução à pagina | Gustavo       |
