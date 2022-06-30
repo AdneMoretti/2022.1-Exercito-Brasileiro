@@ -1,5 +1,5 @@
 ## Cronograma de atividades
-Nesta pagina podemos visualizar as atividades especificas relacionadas a cada entrega. Contudo, vale ressaltar que, a pesar dos membros estarem organizados em subatividades distintas, todos podem contribuir para as outras atividades.
+Nesta pagina podemos visualizar as atividades específicas relacionadas a cada entrega. Contudo, vale ressaltar que, apesar dos membros estarem organizados em subatividades distintas, todos podem contribuir para as outras atividades.
 
 <img src=https://img.freepik.com/vetores-gratis/alunos-ou-funcionarios-adicionando-eventos-ou-prazos-ao-aplicativo-de-calendario-jovens-usando-ilustracao-plana-de-organizador-de-tempo-ou-planejador_74855-20735.jpg width=400px/>
 
