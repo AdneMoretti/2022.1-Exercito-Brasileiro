@@ -6,13 +6,13 @@
 </p>
 
 ## Equipe
-Alunos | Github | Matrícula 
-------- | -------- | --------
-Gustavo Martins | gustavomartins-github| 200019228 |
-Adne Moretti | AdneMoretti | 200013181 |
-Gabriel Moretti | MorettiGS | 200018205 |
-Luan Vasco | Luan-Cavalcante | 190111836 |
-Guilherme Puida | guilherme-puida | 200019015 |
-Vitor Eduardo | vitorekr | 190118288 |
+Alunos | Github | 
+------- | -------- |
+Gustavo Martins | gustavomartins-github|
+Adne Moretti | AdneMoretti |
+Gabriel Moretti | MorettiGS |
+Luan Vasco | Luan-Cavalcante |
+Guilherme Puida | guilherme-puida |
+Vitor Eduardo | vitorekr |
 
 
