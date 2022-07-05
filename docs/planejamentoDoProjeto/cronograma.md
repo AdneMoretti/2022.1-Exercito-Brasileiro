@@ -5,11 +5,11 @@ Nesta pagina podemos visualizar as atividades específicas relacionadas a cada e
 
 
 ### Primeira entrega - 29/06/2022
-Atividade(s) | Data  | Responsável |
------------- | ------- | ----------- | 
-Selecionar app para o projeto da disciplina | 27/06/2022 | Todos |
-Rich Picture | 28/06/2022 | Gustavo Martins |
-Definição de ferramentas e metodologias |  29/06/2022   | Todos|
+Atividade(s) | Data  | Responsável | Revisor |
+------------ | ------- | --------- | ------- |
+Selecionar app para o projeto da disciplina | 27/06/2022 | Todos | Todos
+Rich Picture | 28/06/2022 | Gustavo Martins | 
+Definição de ferramentas e metodologias |  29/06/2022   | Todos| 
 Cronograma detalhado | 29/06/2022 | Adne Moretti
 Detalhamento das Metodologias | 29/06/2022 | Vitor Eduardo
 
@@ -17,13 +17,13 @@ Detalhamento das Metodologias | 29/06/2022 | Vitor Eduardo
 
 ### Segunda entrega - 13/07/2022
 
-Atividade(s) | Data  | Responsável |
------------- | ------- | ----------- | 
-Brainstorm   | 05/07/2022 | Todos
-Introspecção | 07/07/2022 | Gustavo Martins, Vitor Eduardo
-Estudo do perfil do usuário | 07/07/2022 | Adne Moretti, Gabriel Moretti
-Definição de personas  |   10/07/2022  | Guilherme Puida, Luan Vasco
-Elicitação de requisitos| 10/07/2022 | Todos
+Atividade(s) | Data  | Responsável | Revisor |
+------------ | ------- | ----------| ------- |
+Brainstorm   | 05/07/2022 | Todos | 
+Introspecção | 07/07/2022 | Gustavo Martins, Vitor Eduardo| 
+Estudo do perfil do usuário | 07/07/2022 | Adne Moretti, Gabriel Moretti| 
+Definição de personas  |   10/07/2022  | Guilherme Puida, Luan Vasco| 
+Elicitação de requisitos| 10/07/2022 | Todos|  
 
 <br>
 
