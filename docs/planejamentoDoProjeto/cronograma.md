@@ -29,16 +29,70 @@ Detalhamento das Metodologias | 29/06/2022 | Vitor Eduardo | Luan Vasco
 ### Segunda entrega - 13/07/2022
 ### Elicitação de requisitos - técnicas e priorização
 
-Atividade(s) | Data  | Responsável | Revisor |
------------- | ------- | ----------| ------- |
-Atualização (feedbacks) | 05/07 | Todos | Todos
-Brainstorm   | 07/07/2022 | Todos | Todos
-Observação | 07/07/2022 | Luan Vasco,  Vitor Eduardo| Gustavo Martins
-Instrospecção | 07/07/2022 | Adne Moretti, Gabriel Moretti | Luan Vasco
-Personas | 08/07/2022 | Gustavo Martins, Guilherme Puida | Gabriel Moretti 
-Entrevista | 08/07/2022 | Luan Vasco, Gabriel Moretti | Vitor Eduardo
-Storytelling  |  09/07/2022  | Gustavo Martins, Guilherme Puida | Adne Moretti
-Priorização | 10/07/2022 | Adne Moretti | Guilherme Puida
+Atividade(s) | Data  | Responsável | Revisor | Data de revisão
+------------ | ------- | ----------| ------- | ---------------
+Atualização (feedbacks) | 05/07 | Todos | Todos | 06/07
+Brainstorm   | 07/07/2022 | Todos | Todos | 12/07/2022
+Observação | 07/07/2022 | Luan Vasco,  Vitor Eduardo| Gustavo Martins | 12/07/2022
+Instrospecção | 07/07/2022 | Adne Moretti, Gabriel Moretti | Luan Vasco | 12/07/2022
+Personas | 08/07/2022 | Gustavo Martins, Guilherme Puida | Gabriel Moretti | 12/07/2022
+Entrevista | 08/07/2022 | Luan Vasco, Gabriel Moretti | Vitor Eduardo | 13/07/2022
+Storytelling  |  09/07/2022  | Gustavo Martins, Guilherme Puida | Adne Moretti | 13/07/2022
+Priorização | 10/07/2022 | Adne Moretti | Guilherme Puida | 13/07/2022
+Gravação e entrega do vídeo de apresentação | 13/07/2022 | Todos | Todos | 13/07/2022
+Apresentação do projeto na aula | 14/07/2022 | Todos | Todos | 14/07/2022
+<br>
+
+### Terceira entrega - 21/07/2022
+### Modelagem de requisitos - Cenários e Léxicos
+
+Atividade(s) | Data  | Responsável | Revisor | Data de revisão
+------------ | ------- | ----------| ------- | ---------------
+Desenvolvimento de casos de uso | 15/07 | Adne Moretti, Gabriel Moretti | Gustavo Martins | 16/07 |
+Cenários   | 16/07/2022 | Gustavo Martins, Guilherme Puida | Adne Moretti | 17/07/2022
+Léxicos | 17/07/2022 | Luan Vasco,  Vitor Eduardo| Gustavo Martins | 18/07/2022
+Especificação suplementar | 17/07/2022 | Adne Moretti, Gabriel Moretti | Luan Vasco | 18/07/2022
+Gravação do vídeo | 18/07/2022 | Todos | Todos | 18/07/2022
+Edição do vídeo | 18/07/2022 | Guilherme Puida | Todos | 18/07/2022
+Entrega do vídeo | 18/07/2022 | Gustavo Martins| Todos | 18/07/2022
+
+### Terceira entrega - 21/07/2022
+### Modelagem de requisitos - Cenários e Léxicos
+
+Atividade(s) | Data  | Responsável | Revisor | Data de revisão
+------------ | ------- | ----------| ------- | ---------------
+Desenvolvimento de casos de uso | 15/07 | Adne Moretti, Gabriel Moretti | Gustavo Martins | 16/07 |
+Cenários   | 16/07/2022 | Gustavo Martins, Guilherme Puida | Adne Moretti | 17/07/2022
+Léxicos | 17/07/2022 | Luan Vasco,  Vitor Eduardo| Gustavo Martins | 18/07/2022
+Especificação suplementar | 17/07/2022 | Adne Moretti, Gabriel Moretti | Luan Vasco | 18/07/2022
+Gravação do vídeo | 18/07/2022 | Todos | Todos | 18/07/2022
+Edição do vídeo | 18/07/2022 | Guilherme Puida | Todos | 18/07/2022
+Entrega do vídeo | 18/07/2022 | Gustavo Martins| Todos | 18/07/2022
+<br>
+
+### Quarta Entrega - 03/08/2022
+### Modelagem de requisitos - Ágil
+
+Atividade(s) | Data  | Responsável | Revisor | Data de revisão
+------------ | ------- | ----------| ------- | ---------------
+Product backlog | 24/07 | Adne Moretti, Gabriel Moretti | Gustavo Martins | 25/07 |
+Histórias de usuário  | 24/07/2022 | Gustavo Martins, Guilherme Puida | Adne Moretti | 25/07/2022
+NFR Framework | 26/07/2022 | Luan Vasco,  Vitor Eduardo| Gustavo Martins | 27/07/2022
+Edição do vídeo | 01/07/2022 | Guilherme Puida | Todos | 01/07/2022
+Entrega do vídeo | 03/07/2022 | Gustavo Martins| Todos | 03/07/2022
+<br>
+
+
+### Quinta Entrega - 03/08/2022
+### Modelagem de requisitos - Ágil
+
+Atividade(s) | Data  | Responsável | Revisor | Data de revisão
+------------ | ------- | ----------| ------- | ---------------
+Product backlog | 24/07 | Adne Moretti, Gabriel Moretti | Gustavo Martins | 25/07 |
+Histórias de usuário  | 24/07/2022 | Gustavo Martins, Guilherme Puida | Adne Moretti | 25/07/2022
+NFR Framework | 26/07/2022 | Luan Vasco,  Vitor Eduardo| Gustavo Martins | 27/07/2022
+Edição do vídeo | 01/07/2022 | Guilherme Puida | Todos | 01/07/2022
+Entrega do vídeo | 03/07/2022 | Gustavo Martins| Todos | 03/07/2022
 <br>
 
 ## Histórico de Versão
