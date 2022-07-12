@@ -1,5 +1,5 @@
 # Ferramentas do Projeto
-
+Nessa página, serão apresentadas as ferramentas que serão utilizadas no decorrer do projeto e explicadas para que estas serão utilizadas.
 ## [GitHub](https://github.com)
  
 ![image](https://user-images.githubusercontent.com/72039007/176484543-35225d6c-4a2e-464f-adac-e23c6ff5a086.png)
@@ -32,6 +32,7 @@ A ferramenta Telegram será utilizada como fonte de comunicação primária, vis
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor |
-|--------|------|-----------|-------|
-| 0.1 | 29/06/22 | Documento Inicial | Gustavo Martins |
+| Versão | Data | Descrição | Autor | Revisor
+|--------|------|-----------|-------| -------
+| 0.1 | 29/06/22 | Documento Inicial | Gustavo Martins | Adne Moretti
+| 0.1 | 29/06/22 | Adicionando introdução | Adne Moretti | 
