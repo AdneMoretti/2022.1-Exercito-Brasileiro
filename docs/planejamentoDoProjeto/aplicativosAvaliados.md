@@ -1,3 +1,5 @@
+# Aplicativos avaliados
+Na primeira etapa do projeto de entregas individuais, cada estudante selecionou um aplicativo do governo para estudo e avaliação. Segue na Tabela 1 cada aplicativo e os integrantes responsáveis.
 
 Integrante | Aplicativo selecionado 
 ---------- | ----------------------
