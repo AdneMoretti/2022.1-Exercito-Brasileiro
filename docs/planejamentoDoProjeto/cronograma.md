@@ -43,8 +43,8 @@ Priorização | 10/07/2022 | Adne Moretti | Guilherme Puida
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor |
-|--------|------|-------|-----------|
+| Versão | Data | Descrição | Autor | Revisor |
+|--------|------|-------|-----------| ------- |
 | 0.1 | 29/06/22 | Documento Inicial | Adne Moretti, Gustavo Martins |
 | 0.2 | 29/06/22 | Revisão | Guilherme Puida |
 | 0.3 | 29/06/22 | Adição de uma introdução ao conteúdo da página | Gustavo Martins |
