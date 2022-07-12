@@ -21,6 +21,7 @@ Etapa | Entrega | Apresentação | Atividade(s) |
 ### Planejamento do projeto
 
 <p> Tabela 2 - Cronograma detalhado para primeira entrega</p>
+
 Atividade(s) | Data  | Responsável | Revisor |
 ------------ | ------- | --------- | ------- |
 Selecionar app para o projeto da disciplina | 27/06/2022 | Todos | Todos
