@@ -7,5 +7,7 @@
 - [Cronograma de Atividades](/planejamentoDoProjeto/cronograma.md)
 - [Metodologia](/planejamentoDoProjeto/metodologia.md)
 
+- [Elicitação de requisitos](/planejamentoDoProjeto/)
+  
 - Apresentações
 - [Apresentação 1](/apresentacoes/apresentacao1.md)
