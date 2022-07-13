@@ -70,3 +70,22 @@ Os seguintes passos devem ser seguidos:
 7. Ordenação da lista em ordem decrescente de prioridade.
 
 _Todas as estimativas são feitas em uma escala de 1 à 9, crescente._
+
+
+# Metodologia Escolhida
+
+A metodologia escolhida pelo grupo foi a _MoSCoW_, devido à sua facilidade de implementação e eficiência no processo de priorizar os requisitos.
+Segue, na _tabela 1_, a priorização dos requisitos elicitados nos processos anteriores:
+
+| ID | Requisito | Processo | Prioridade |
+|----|-----------|----------|------------|
+| RF1 | --- |  --- | --- |
+
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor | Revisor |
+|--------|------|-----------|-------|---------|
+| 0.1 | 11/07/22 | Descrição MoSCoW | Guilherme Puida | --- |
+| 0.2 | 13/07/22 | Descrição First Things First | Guilherme Puida | --- |
+
