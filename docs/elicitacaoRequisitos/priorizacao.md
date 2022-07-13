@@ -47,5 +47,26 @@ A presença ou ausência desses requisitos não tem impacto na conclusão satisf
 
 Categorizar requisitos nessa categoria ajuda a diminuir o escopo das funcionalidades.
 
+# First Things First
 
-# 
+## Introdução
+
+First Things First é uma técnica de priorização onde há um levantamento dos benefícios, custos e riscos associados a cada requisito.
+Utilizando essa metodologia, é possível estabelecer uma ordem de prioridade de cada requisito, baseando-se nos fatores que impactam os usuários finais.
+
+## Metodologia
+
+Nessa metodologia, é construída uma tabela que equilibra os posicionamentos do cliente e do desenvolvedor.
+Os seguintes passos devem ser seguidos:
+
+1. Listagem de todos os requisitos, retirando somente os interdependentes.
+2. Estimativa do benefício relativo de cada funcionalidade.
+3. Estimativa da penalidade decorrente da não aplicação ou atraso do requisito.
+4. Estimativa do custo relativo de implementação.
+5. Estimativa do grau relativo ao risco de aplicação.
+6. Cálculos
+   1. Valor total: (Benefício relativo * Peso Relativo + Penalidade Relativa * Peso Relativo)
+   2. Prioridade: Valor / (Custo * Peso de Custo + Risco * Peso de Risco)
+7. Ordenação da lista em ordem decrescente de prioridade.
+
+_Todas as estimativas são feitas em uma escala de 1 à 9, crescente._
