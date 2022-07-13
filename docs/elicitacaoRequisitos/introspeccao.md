@@ -30,6 +30,10 @@ ITP14 | O usuário deve conseguir falar com a inteligência artificial do exérc
 ITP15 | O usuário deve conseguir acessar o aplicativo em qualquer aparelho mobile | RNF
 ITP16 | O usuário poderá acessar todas as redes sociais do exército brasileiro | RF
 
+## Referências
+
+>SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
