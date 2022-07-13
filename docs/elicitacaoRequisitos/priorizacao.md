@@ -1,3 +1,9 @@
+# Priorização
+
+Definir a prioridade dos requisitos elicitados é de suma importância para o sucesso de um projeto.
+Sem essa priorização, os recursos podem ser alocados de forma ineficiente, desperdiçando tempo e dinheiro dos clientes e dos desenvolvedores.
+Assim, existem diversas técnicas que auxiliam no processo de priorização dos requisitos.
+
 # MoSCoW
 
 ## Introdução
