@@ -8,6 +8,7 @@
 - [Metodologia](/planejamentoDoProjeto/metodologia.md)
 
 - [Elicitação de requisitos](/elicitacaoRequisitos/)
-  
+- [Priorização](/elicitacaoRequisitos/priorizacao.md)
+
 - Apresentações
 - [Apresentação 1](/apresentacoes/apresentacao1.md)
