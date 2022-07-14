@@ -46,8 +46,8 @@ No final da discussão, os pontos foram resumidos e inseridos na _tabela de requ
 
 **Legenda**
 
-RF - Requisito Funcional
-RNF - Requisito Não-Funcional
+* RF - Requisito Funcional
+* RNF - Requisito Não-Funcional
 
 
 ## Histórico de Versão
