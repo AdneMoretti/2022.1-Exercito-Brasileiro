@@ -12,6 +12,8 @@
 * [Introspecção](/elicitacaoRequisitos/introspeccao.md)
 * [Observação](/elicitacaoRequisitos/observacao.md)
 * [Priorização](/elicitacaoRequisitos/priorizacao.md)
+* [Persona](/elicitacaoRequisitos/persona.md)
+* [Storytelling](/elicitacaoRequisitos/storytelling.md)
 
 - Apresentações
 * [Apresentação 1](/apresentacoes/apresentacao1.md)
