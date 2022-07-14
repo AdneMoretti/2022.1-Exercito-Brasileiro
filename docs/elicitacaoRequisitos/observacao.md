@@ -32,16 +32,16 @@ https://play.google.com/store/apps/details?id=com.goodbarber.exercitobr&hl=pt_BR
 
 <center>
 
-| Número | Requisitos                                       |
+| Identificador | Requisitos                                       |
 | :------: | :--------------------------------------------------: |
-| 1    |  O usuário deve ser capaz de usar o aplicativo com fluidez.  |
-| 2    |  O usuário deve ser capaz de abrir e usar o app.  |
-| 3    |  O usuário deve ser capaz de fazer login para usar os serviços.  |
-| 4    |  O usuário deve ser capaz de consultar o status ou situação do serviço que ele usou.|
-| 5    |  O usuário deve ser capaz de pedir a segunda via de documentos, mesmo mediante pagamento.|
-| 6    |  O aplicativo deve fazer o usuário sentir- se seguro ao utilizar o aplicativo.  |
-| 7    |  O usuário deve ser capaz de utilizar o aplicativo sem fornecer acesso à localização.  |
-| 8    |  O usuário deve ser capaz de encerrar a execução das mídias do aplicativo ao fechar o aplicativo. |
+| RO1    |  O usuário deve ser capaz de usar o aplicativo com fluidez.  |
+| RO2    |  O usuário deve ser capaz de abrir e usar o app.  |
+| RO3    |  O usuário deve ser capaz de fazer login para usar os serviços.  |
+| RO4    |  O usuário deve ser capaz de consultar o status ou situação do serviço que ele usou.|
+| RO5    |  O usuário deve ser capaz de pedir a segunda via de documentos, mesmo mediante pagamento.|
+| RO6    |  O aplicativo deve fazer o usuário sentir- se seguro ao utilizar o aplicativo.  |
+| RO7    |  O usuário deve ser capaz de utilizar o aplicativo sem fornecer acesso à localização.  |
+| RO8    |  O usuário deve ser capaz de encerrar a execução das mídias do aplicativo ao fechar o aplicativo. |
 
 <figcaption>Tabela 1: Requisitos levantados pela técnica de observação.</figcaption>
 
