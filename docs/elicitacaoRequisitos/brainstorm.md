@@ -59,4 +59,4 @@ No final da discussão, os pontos foram resumidos e inseridos na _tabela de requ
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
-| 0.1 | 13/07/22 | Documento inicial | Guilherme Puida | --- |
+| 0.1 | 13/07/22 | Documento inicial | Guilherme Puida | Todos |

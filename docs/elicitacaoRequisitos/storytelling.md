@@ -46,3 +46,8 @@
 
 ## Referências
 > [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor | Revisor |
+| 0.1 | 13/07/22 | Documento Inicial | Gustavo Martins | Guilherme Puida |
