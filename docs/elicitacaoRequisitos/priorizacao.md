@@ -125,6 +125,8 @@ Segue, na _tabela 1_, a priorização dos requisitos elicitados nos processos an
 | RO7   | O usuário deve ser capaz de utilizar o aplicativo sem fornecer acesso à localização.                                    | Must        |
 | RO8   | O usuário deve ser capaz de encerrar a execução das mídias do aplicativo ao fechar o aplicativo.                        | Must        |
 
+<center><figcaption>Tabela 1: Priorização dos requisitos</figcaption><center>
+
 ## Bibliografia
 
 > rfc2119 -- Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels," RFC 2119, March 1997.
