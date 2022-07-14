@@ -1,4 +1,5 @@
 # Entrevistas
+Nesta página será descrita a técnica de elicitação de requisitos de entrevista e os resultados.
 
 ## 1. Definição
 Entrevista é uma técnica muito utilizada, busca-ser encontrar os requisitos ideais para o sistema uma vez que são elaboradas questões para guiar a entrevista.
