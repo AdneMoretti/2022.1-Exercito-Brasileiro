@@ -124,6 +124,9 @@ Segue, na _tabela 1_, a priorização dos requisitos elicitados nos processos an
 | RO6   | O aplicativo deve fazer o usuário sentir-se seguro ao utilizar o aplicativo.                                            | Must        |
 | RO7   | O usuário deve ser capaz de utilizar o aplicativo sem fornecer acesso à localização.                                    | Must        |
 | RO8   | O usuário deve ser capaz de encerrar a execução das mídias do aplicativo ao fechar o aplicativo.                        | Must        |
+| RE1   |  O usuário quer fluidez ao usar o aplicativo                                                                            | Must        |
+| RE2   |  O aplicativo deve ter uma interface moderna e simples                                                                  | Must        |
+| RE3   |  O usuário deve ser capaz de acessar o certificado de reservista                                                        | Must        |
 
 <center><figcaption>Tabela 1: Priorização dos requisitos</figcaption><center>
 
