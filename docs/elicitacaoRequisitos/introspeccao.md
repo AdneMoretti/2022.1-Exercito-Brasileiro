@@ -34,6 +34,8 @@ ITP16 | O usuário poderá acessar todas as redes sociais do exército brasileir
 
 >SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
 
+<center><figcaption>Tabela 1: Requisitos da Instrospecção</figcaption></center>
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
