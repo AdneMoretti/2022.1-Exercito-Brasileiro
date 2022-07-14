@@ -24,6 +24,8 @@ ITP09 | O aplicativo deve abrir em um tempo de até 5 segundos | RNF
 ITP10 | O aplicativo deve ter um botão de ajuda para possíveis dúvidas| RNF
 ITP11 | O usuário deve conseguir falar com a inteligência artificial do exército pelo próprio aplicativo ou pelo Whatsapp | RF
 
+<center><figcaption>Tabela 1: Requisitos da Instrospecção</figcaption></center>
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
