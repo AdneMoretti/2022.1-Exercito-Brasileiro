@@ -42,7 +42,7 @@
 |ST03| A pessoa física usuária do aplicativo deve conseguir obter informações sobre os diverços uniformes disponíveis pelo Exército Brasileiro | RF |
 
 ## Referências
-> [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+> [1] - SERRANO, Maurício; SERRANO, Milene;
 
 ## Histórico de Versão
 
