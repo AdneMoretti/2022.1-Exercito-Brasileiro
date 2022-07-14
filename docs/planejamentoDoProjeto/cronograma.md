@@ -45,7 +45,7 @@ Instrospecção | 07/07/2022 | Adne Moretti, Gabriel Moretti | Luan Vasco | 12/0
 Personas | 08/07/2022 | Gustavo Martins, Guilherme Puida | Gabriel Moretti | 12/07/2022
 Entrevista | 08/07/2022 | Luan Vasco, Gabriel Moretti | Vitor Eduardo | 13/07/2022
 Storytelling  |  09/07/2022  | Gustavo Martins, Guilherme Puida | Adne Moretti | 13/07/2022
-Priorização | 10/07/2022 | Adne Moretti | Guilherme Puida | 13/07/2022
+Priorização | 10/07/2022 | Guilherme Puida | Todos | 13/07/2022
 Gravação e entrega do vídeo de apresentação | 13/07/2022 | Todos | Todos | 13/07/2022
 Apresentação do projeto na aula | 14/07/2022 | Todos | Todos | 14/07/2022
 <br>
