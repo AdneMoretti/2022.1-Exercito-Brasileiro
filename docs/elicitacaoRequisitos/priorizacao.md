@@ -18,6 +18,8 @@ As iniciais de _MoSCoW_ representam, em inglês, o esquema de priorização que 
 * Could-have
 * Won't-have
 
+Esses níveis de priorização seguem as definições do RFC2119 (IETF, 1997).
+
 ## Must-have
 
 Requisitos que são extritamente necessários para o projeto, ou seja,
@@ -83,7 +85,7 @@ _Todas as estimativas são feitas em uma escala de 1 à 9, crescente._
 A metodologia escolhida pelo grupo foi a _MoSCoW_, devido à sua facilidade de implementação e eficiência no processo de priorizar os requisitos.
 Segue, na _tabela 1_, a priorização dos requisitos elicitados nos processos anteriores:
 
-| ID    | Requisito                                                                                                               | Priorização | 
+| ID    | Requisito                                                                                                               | Priorização |
 |-------|-------------------------------------------------------------------------------------------------------------------------|-------------|
 | ITP01 | Para primeiro acesso dos usuários, deve ter uma breve explicação sobre o apicativo e as funcionalidades                 | Should
 | ITP02 | O usuário deve conseguir fazer o alistamento pelo próprio aplicativo                                                    | Should
@@ -122,6 +124,14 @@ Segue, na _tabela 1_, a priorização dos requisitos elicitados nos processos an
 | RO6   | O aplicativo deve fazer o usuário sentir-se seguro ao utilizar o aplicativo.                                            | Must
 | RO7   | O usuário deve ser capaz de utilizar o aplicativo sem fornecer acesso à localização.                                    | Must
 | RO8   | O usuário deve ser capaz de encerrar a execução das mídias do aplicativo ao fechar o aplicativo.                        | Must
+
+## Bibliografia
+
+> rfc2119 -- Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels," RFC 2119, March 1997.
+
+> Método MosCoW. Voitto - BR, 01 ago. 2021. Disponível em https://www.voitto.com.br/blog/artigo/metodo-moscow
+
+> First Things First: Prioritizing Requirements. E.Wiegers, Karl. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf
 
 ## Histórico de Versão
 
