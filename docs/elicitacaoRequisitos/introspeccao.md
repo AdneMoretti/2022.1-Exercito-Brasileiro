@@ -40,5 +40,5 @@ ITP16 | O usuário poderá acessar todas as redes sociais do exército brasileir
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-------|-----------| ------- |
-| 0.1 | 29/06/22 | Documento Inicial | Adne Moretti, Gabriel Moretti |
-| 0.2 | 13/07/22 | Adição de requisitos | Adne Moretti, Gabriel Moretti |
+| 0.1 | 29/06/22 | Documento Inicial | Adne Moretti, Gabriel Moretti | Luan Vasco |
+| 0.2 | 13/07/22 | Adição de requisitos | Adne Moretti, Gabriel Moretti | Luan Vasco |
