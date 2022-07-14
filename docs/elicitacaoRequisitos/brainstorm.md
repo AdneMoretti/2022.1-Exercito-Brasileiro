@@ -49,6 +49,9 @@ No final da discussão, os pontos foram resumidos e inseridos na _tabela de requ
 * RF - Requisito Funcional
 * RNF - Requisito Não-Funcional
 
+## Bibliografia
+
+> BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010.
 
 ## Histórico de Versão
 
