@@ -22,7 +22,7 @@ Esses níveis de priorização seguem as definições do RFC2119 (IETF, 1997).
 
 ## Must-have
 
-Requisitos que são extritamente necessários para o projeto, ou seja,
+Requisitos que são estritamente necessários para o projeto, ou seja,
 sem esses requisitos o projeto não será bem-sucedido.
 
 Algumas métricas para determinar se um requisito é _must-have_ são:
@@ -43,7 +43,7 @@ Para determinar se um requisito é _should-have_, deve-se considerar o valor que
 São menos importantes que requisitos _should-have_.
 Agregam valor ao projeto, mas sua ausência não impacta significantemente.
 
-Para distinguir requisitos _should-have_ de requisitos _could-have_, deve-se analizar o fluxo do projeto.
+Para distinguir requisitos _should-have_ de requisitos _could-have_, deve-se analisar o fluxo do projeto.
 Aqueles com maior impacto devem ser categorizados como _should-have_, e os outros como _could-have_.
 
 Esses requisitos só devem ser incluídos no projeto quando todos os requisitos com maior importância foram satisfeitos.
@@ -59,7 +59,7 @@ Categorizar requisitos nessa categoria ajuda a diminuir o escopo das funcionalid
 
 ## Introdução
 
-First Things First é uma técnica de priorização onde há um levantamento dos benefícios, custos e riscos associados a cada requisito.
+_First Things First_ é uma técnica de priorização onde há um levantamento dos benefícios, custos e riscos associados a cada requisito.
 Utilizando essa metodologia, é possível estabelecer uma ordem de prioridade de cada requisito, baseando-se nos fatores que impactam os usuários finais.
 
 ## Metodologia
@@ -80,14 +80,14 @@ Os seguintes passos devem ser seguidos:
 _Todas as estimativas são feitas em uma escala de 1 à 9, crescente._
 
 
-# Metodologia Escolhida
+# Metodologia Escolhida - MoSCoW
 
 A metodologia escolhida pelo grupo foi a _MoSCoW_, devido à sua facilidade de implementação e eficiência no processo de priorizar os requisitos.
 Segue, na _tabela 1_, a priorização dos requisitos elicitados nos processos anteriores:
 
 | ID    | Requisito                                                                                                               | Priorização |
 |-------|-------------------------------------------------------------------------------------------------------------------------|-------------|
-| ITP01 | Para primeiro acesso dos usuários, deve ter uma breve explicação sobre o apicativo e as funcionalidades                 | Should      |
+| ITP01 | Para primeiro acesso dos usuários, deve ter uma breve explicação sobre o aplicativo e as funcionalidades                 | Should      |
 | ITP02 | O usuário deve conseguir fazer o alistamento pelo próprio aplicativo                                                    | Should      |
 | ITP03 | O usuário que trabalhe no exército deve possuir um cadastro para ter acesso a informações individuais e avisos internos | Must        |
 | ITP04 | O usuário que já possua carteira de identidade militar deve conseguir acessá-la pelo aplicativo                         | Must        |
@@ -99,7 +99,7 @@ Segue, na _tabela 1_, a priorização dos requisitos elicitados nos processos an
 | ITP09 | O aplicativo deve abrir em um tempo de até 5 segundos                                                                   | Should      |
 | ITP10 | O aplicativo deve ter um botão de ajuda para possíveis dúvida                                                           | Could       |
 | ITP11 | O usuário deve conseguir falar com a inteligência artificial do exército pelo próprio aplicativo ou pelo Whatsapp       | Could       |
-| BF1   | Ter acesso à informações atualizadas                                                                                    | Must        |
+| BF1   | Ter acesso às informações atualizadas                                                                                    | Must        |
 | BF2   | Processo de alistamento                                                                                                 | Should      |
 | BF3   | Visualizar status de serviços solicitados                                                                               | Must        |
 | BF4   | Cadastrar e visualizar carteira de identificação do exército                                                            | Could       |
