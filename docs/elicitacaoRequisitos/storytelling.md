@@ -38,8 +38,8 @@
 | ID LOCAL| Requisitos elicitados | Tipo de requisito |
 |:--:|:--:|:--:|
 |ST01| A pessoa física usuária do aplicativo deve conseguir obter informações sobre como obter a segunda via do Certão de Identidade Militar | RNF |
-|ST02| A pessoa física usuária do aplicativo deve conseguir obter notícias e informações sobre o Exército Brasileiro  | RF |
-|ST03| A pessoa física usuária do aplicativo deve conseguir obter informações sobre os diverços uniformes disponíveis pelo Exército Brasileiro | RF |
+|ST02| A pessoa física usuária do aplicativo deve conseguir obter notícias e informações sobre o Exército Brasileiro  | RNF |
+|ST03| A pessoa física usuária do aplicativo deve conseguir obter informações sobre os diverços uniformes disponíveis pelo Exército Brasileiro | RNF |
 
 ## Referências
 > [1] - SERRANO, Maurício; SERRANO, Milene;
