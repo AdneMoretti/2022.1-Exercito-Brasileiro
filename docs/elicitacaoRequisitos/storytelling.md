@@ -16,20 +16,17 @@
   <p>Storyboard 1: potencial usuário interessado em solicitar secunda vida de sua carteira de identidade militar de maneira mais facil<p/>
 </div>
 
-
-<br>
-  
 #### Storyboard 2 
   
+<br>
 <div align="center">
 <img width="700px" height="200px" src="https://i.ibb.co/hgkrKpt/storytelling2.jpg">
     <p>Storyboard 2: potencial usuário interessado em obter notícias e informações sobre o exército brasileiro<p/>
 </div>
 
-<br>
-  
 #### Storyboard 3 
   
+<br>
 <div align="center">
 <img width="700px" height="200px" src="https://i.ibb.co/3S7H1h4/storyteling-3.jpg">
     <p>Storyboard 3: potencial usuário interessado em obter informações sobre os uniformes disponíveis pelo exército brasileiro<p/>
