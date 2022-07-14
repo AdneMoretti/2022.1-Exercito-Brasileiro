@@ -1,4 +1,4 @@
-# Observação/Etnografia
+# Observação
 
 ## 1. Definição
 
