@@ -1,10 +1,10 @@
-### 1. Introdução
+# Personas
 
-<p style="text-align: justify;">Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.</p>
+Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.
 
-### 3.Personas
+## Personas
 
-#### Persona Primária: Gabriel Ferreira da Silva <a id="GabrielFerreira"></a>
+### Persona Primária: Gabriel Ferreira da Silva <a id="GabrielFerreira"></a>
 
 
 <table>
@@ -192,9 +192,9 @@
 
 <center> <figcaption>Tabela 3: Antipersona.</figcaption> </center>
 
-### 4. Conclusão
+### Conclusão
 
-<p style="text-align: justify;">Com a elaboração desse documento temos uma noção mais aproximada sobre quem são os dos usuários do aplicativo. Sendo assim, tal artefato auxiliará a definir e implantar melhores estratégias a fim de impactar melhor o publico alvo do aplicativo.</p>
+Com a elaboração desse documento temos uma noção mais aproximada sobre quem são os dos usuários do aplicativo. Sendo assim, tal artefato auxiliará a definir e implantar melhores estratégias a fim de impactar melhor o publico alvo do aplicativo.
 
 ## Bibliografia
 
