@@ -83,10 +83,45 @@ _Todas as estimativas são feitas em uma escala de 1 à 9, crescente._
 A metodologia escolhida pelo grupo foi a _MoSCoW_, devido à sua facilidade de implementação e eficiência no processo de priorizar os requisitos.
 Segue, na _tabela 1_, a priorização dos requisitos elicitados nos processos anteriores:
 
-| ID | Requisito | Processo | Prioridade |
-|----|-----------|----------|------------|
-| RF1 | --- |  --- | --- |
-
+| ID    | Requisito                                                                                                               | Priorização | 
+|-------|-------------------------------------------------------------------------------------------------------------------------|-------------|
+| ITP01 | Para primeiro acesso dos usuários, deve ter uma breve explicação sobre o apicativo e as funcionalidades                 | Should
+| ITP02 | O usuário deve conseguir fazer o alistamento pelo próprio aplicativo                                                    | Should
+| ITP03 | O usuário que trabalhe no exército deve possuir um cadastro para ter acesso a informações individuais e avisos internos | Must
+| ITP04 | O usuário que já possua carteira de identidade militar deve conseguir acessá-la pelo aplicativo                         | Must
+| ITP04 | O usuário poderá acessar os concursos abertos com uma explicação e os links para inscrição                              | Must
+| ITP05 | O usuário poderá acessar os uniformes e pedi-los pelo próprio aplicativo                                                | Should
+| ITP06 | O usuário poderá visualizar as últimas notícias do exército                                                             | Must
+| ITP07 | O usuário poderá visualizar os colégios militares existentes próximos da sua região                                     | Must
+| ITP08 | O sistema apenas deve perguntar se o usuário permite o acesso da localização para funcionalidades que desta necessitem  | Should
+| ITP09 | O aplicativo deve abrir em um tempo de até 5 segundos                                                                   | Should
+| ITP10 | O aplicativo deve ter um botão de ajuda para possíveis dúvida                                                           | Could
+| ITP11 | O usuário deve conseguir falar com a inteligência artificial do exército pelo próprio aplicativo ou pelo Whatsapp       | Could
+| BF1   | Ter acesso à informações atualizadas                                                                                    | Must
+| BF2   | Processo de alistamento                                                                                                 | Should
+| BF3   | Visualizar status de serviços solicitados                                                                               | Must
+| BF4   | Cadastrar e visualizar carteira de identificação do exército                                                            | Could
+| BF5   | Visualizar certificado de reservista                                                                                    | Should
+| BF6   | Encontrar informações sobre o processo de alistamento                                                                   | Should
+| BNF1  | O sistema deve ser rápido                                                                                               | Must
+| BNF2  | O sistema deve ser fácil de usar                                                                                        | Must
+| BF7   | Encontrar local de alistamento mais próximo                                                                             | Should
+| BF8   | Ouvir podcasts sobre temas do exército                                                                                  | Should
+| BF9   | Ler histórias militares                                                                                                 | Could
+| BNF3  | O aplicativo deve funcionar na maioria dos aparelhos em uso                                                             | Must
+| BF10  | Ser capaz de entrar em contato com algum representante do Exército                                                      | Should
+| BF11  | Ser capaz de oferecer várias funcionalidades sem coletar dados de usuário                                               | Must
+| BNF4  | Oferecer funcionalidades offline                                                                                        | Must
+| BNF5  | Ser minimalista                                                                                                         | Must
+| BNF6  | Centralizar informações relativas ao processo de alistamento                                                            | Must
+| RO1   | O usuário deve ser capaz de usar o aplicativo com fluidez.                                                              | Must
+| RO2   | O usuário deve ser capaz de abrir e usar o app.                                                                         | Must
+| RO3   | O usuário deve ser capaz de fazer login para usar os serviços.                                                          | Must
+| RO4   | O usuário deve ser capaz de consultar o status ou situação do serviço que ele usou                                      | Should
+| RO5   | O usuário deve ser capaz de pedir a segunda via de documentos, mesmo mediante pagamento                                 | Must
+| RO6   | O aplicativo deve fazer o usuário sentir-se seguro ao utilizar o aplicativo.                                            | Must
+| RO7   | O usuário deve ser capaz de utilizar o aplicativo sem fornecer acesso à localização.                                    | Must
+| RO8   | O usuário deve ser capaz de encerrar a execução das mídias do aplicativo ao fechar o aplicativo.                        | Must
 
 ## Histórico de Versão
 
@@ -94,4 +129,5 @@ Segue, na _tabela 1_, a priorização dos requisitos elicitados nos processos an
 |--------|------|-----------|-------|---------|
 | 0.1 | 11/07/22 | Descrição MoSCoW | Guilherme Puida | --- |
 | 0.2 | 13/07/22 | Descrição First Things First | Guilherme Puida | --- |
+| 0.3 | 13/07/22 | Priorização dos requisitos elicitados | Guilherme Puida | --- |
 
