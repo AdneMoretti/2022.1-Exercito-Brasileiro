@@ -9,7 +9,7 @@ Podendo ser conduzida em menos de uma hora, é uma ferramenta poderosa no contex
 
 ## Processo
 
-Para realizar o Brainstorm, foi utilizada a plataforma Discord no dia 13 de julho de 2022.
+Para realizar o Brainstorm, foi utilizada a plataforma Discord no dia 12 de julho de 2022.
 Com duração de cerca de 30 minutos, os participantes da equipe conversaram sobre as ideias e levantaram questões sobre as funcionalidades desejadas no aplicativo.
 
 Uma pessoa da equipe ficou encarregada de anotar e incentivar a discussão, levando em consideração as _questões guia_ abaixo.
