@@ -44,6 +44,8 @@ No final da discussão, os pontos foram resumidos e inseridos na _tabela de requ
 | BNF5 | Ser minimalista                                                            | RNF |
 | BNF6 | Centralizar informações relativas ao processo de alistamento               | RNF |
 
+<center><figcaption>Tabela 1: Requisitos do Brainstorm</figcaption></center>
+
 **Legenda**
 
 * RF - Requisito Funcional
