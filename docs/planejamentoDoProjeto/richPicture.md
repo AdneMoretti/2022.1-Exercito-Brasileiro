@@ -30,15 +30,18 @@ Segue abaixo na _Tabela 1_ a legenda para melhor entendimento do Rich Picture.
 
 <p>Tabela 1: Legenda do Rich Picture<p/>
 
-| Símbolo | Significado |
-| ------- | ----------- |
-| <img src="https://user-images.githubusercontent.com/64036847/178860447-c304c695-1931-46ae-8f51-481a2e36cee4.png" width="50"> | Rádio Verde Oliva FM
-| <img src="https://user-images.githubusercontent.com/64036847/178861024-3cc739b1-3a19-4d1c-885b-fd6938387bfe.jpg" width="50"> | Ator
-| <img src="https://user-images.githubusercontent.com/64036847/178861477-7ff205e6-cb83-4f84-b442-ed68ce297c75.png" width="50"> | Googles Maps
-| <img src="https://user-images.githubusercontent.com/64036847/178861196-61c0bf60-22ec-4afe-9543-b14aad6018ea.png" width="50"> | Gmail
-| <img src="https://user-images.githubusercontent.com/64036847/178861805-4e77d071-13cb-409e-ab59-7c2bce2e6e0f.png" width="60"> | Fronteira do sistema
+| Símbolo | Significado | Explicação |
+| ------- | ----------- | ---------- |
+| <img src="https://user-images.githubusercontent.com/64036847/178860447-c304c695-1931-46ae-8f51-481a2e36cee4.png" width="50"> | Rádio Verde Oliva FM | Funcionalidade externa
+| <img src="https://user-images.githubusercontent.com/64036847/178861024-3cc739b1-3a19-4d1c-885b-fd6938387bfe.jpg" width="50"> | Ator | Usuários do sistema
+| <img src="https://user-images.githubusercontent.com/64036847/178861477-7ff205e6-cb83-4f84-b442-ed68ce297c75.png" width="50"> | Googles Maps | Funcionalidade externa 
+| <img src="https://user-images.githubusercontent.com/64036847/178861196-61c0bf60-22ec-4afe-9543-b14aad6018ea.png" width="50"> | Gmail | Funcionalidade externa 
+| <img src="https://user-images.githubusercontent.com/64036847/178861805-4e77d071-13cb-409e-ab59-7c2bce2e6e0f.png" width="60"> | Fronteira do sistema | Limite do sistema
+| <img src="https://user-images.githubusercontent.com/64036847/178867177-771fb938-13ec-4881-9643-ced15a97b78b.png" width="60">  | Setas | INdica os fluxos de informações e dados
 
-SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+
+## Referências Bibliográficas
+> Introducing Rich Pictures - Rich Picture Drawing Guidelines
 
 ## Histórico de Versão
 
