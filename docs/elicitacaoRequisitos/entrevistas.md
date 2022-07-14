@@ -47,7 +47,7 @@ Entrevistador : Luan Vasco Cavalcante
 
 Entrevistado : Lucas Andrew de Carvalho
 
-## 5. Resultados
+## 4. Resultados
 
 &emsp;&emsp;Como resultado da técnica de Entrevista, foram levantados os seguintes requisitos funcionais:
 
@@ -64,8 +64,8 @@ Entrevistado : Lucas Andrew de Carvalho
 
 </center>
 
-## 6. Referência bibliográfica
-
+## 5. Referência bibliográfica
+BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010.
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
