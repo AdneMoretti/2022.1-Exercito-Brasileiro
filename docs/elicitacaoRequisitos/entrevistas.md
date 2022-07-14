@@ -10,6 +10,7 @@ As entrevistas podem ser definidas em 2 tipos:
 
 **Entrevistador** : Luan Vasco Cavalcante
 **Entrevistado** : Lucas Andrew de Carvalho
+**Duração** : 10 minutos
 
 **Entrevistador** : Bom dia, espero que você esteja bem. Fique à vontade para tomar teu tempo e responder somente o que não lhe incomodar. Vamos começar ?
 
