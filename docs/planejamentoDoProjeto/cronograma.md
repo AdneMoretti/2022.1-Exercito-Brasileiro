@@ -9,7 +9,7 @@ Nesta pagina podemos visualizar as atividades e entregas gerais da disciplina, a
 Etapa | Entrega | Apresentação | Atividade(s) |
 ----- | ------- | ---------- | ----------
 1 | 29/06/2022  | 30/06/2022 | Planejamento do Projeto, equipe, App selecionado para o projeto da disciplina, Ferramentas do projeto, cronograma das atividades, Rich Picture.
-2 | 13/072022 | 14/072022 | Técnicas e Priorização
+2 | 13/072022 | 14/07/2022 | Técnicas e Priorização
 3 | 20/07/2022 | 21/07/2022 | Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar
 4 | 03/08/2022 | 04/08/2022  | Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs, NFR Framework)
 5 | 17/08/2022 | 18/08/2022 | Análise de Requisitos: Verificação e Validação
