@@ -13,8 +13,7 @@
   - [Observação](/elicitacaoRequisitos/observacao.md)
   - [Persona](/elicitacaoRequisitos/persona.md)
   - [Storytelling](/elicitacaoRequisitos/storytelling.md)
-
-- [Priorização](/elicitacaoRequisitos/priorizacao.md)
+  - [Priorização](/elicitacaoRequisitos/priorizacao.md)
 
 - Apresentações
   - [Apresentação 1](/apresentacoes/apresentacao1.md)
