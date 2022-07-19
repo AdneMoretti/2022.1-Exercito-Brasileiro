@@ -20,7 +20,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | Exceção | Descrição da exceção |
 <br><br>
 
-## CENÁRIOS
+## OS CENÁRIOS
 ### C01 - Acessar os vídeos do Exército Brasileiro disponibilizados no Youtube
 | Título |Acessar os vídeos do Exército Brasileiro disponibilizados no Youtube |
 | -- | -- |
@@ -42,6 +42,17 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "CIM"<br>4. O usuário é redirecionado ao site do Exército Brasileiro |
 | Restrições | Fluxo intuitivo | 
 | Exceção | O usuário fechar aplicativo antes de terminar a ação<br>A Internet parar de funcionar durante a ação |
+<br><br>
+### C03 - Podcast
+| Título |Podcast do Exército Brasileiro |
+| -- | -- |
+| Objetivo | Acessar os podcasts do Exército Brasileiro gravados e disponibilizados no aplicativo |
+| Contexto | pré-condição: Não precisa de cadastro<br>pós-condição: O usuário tem acesso aos podcasts gravados pelo Exército Brasileiro |
+| Atore | Usuário |
+| Recursos | App intalado |
+| Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Podcast"<br>4. Os podcasts gravados são exibidos para o usuário <br>5. O usuário seleciona o podcast de sua preferência |
+| Restrições | Fluxo intuitivo | 
+| Exceção | O usuário fechar aplicativo antes de terminar a ação |
 <br><br>
 ## Referências
 <div align="justify">&emsp;&emsp; Os seguintes documentos de Cenarios serviram como referência durante a elaboração desse documento:
