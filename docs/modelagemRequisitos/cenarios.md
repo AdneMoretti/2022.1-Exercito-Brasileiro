@@ -32,7 +32,17 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | Restrições | Fluxo intuitivo | 
 | Exceção | O usuário fechar aplicativo antes de terminar a ação<br>A Internet parar de funcionar durante a ação |
 <br><br>
-
+### C02 - Solicitar segunda via do CIM no site do Exército
+| Título |Solicitar segunda via do CIM no site do Exército |
+| -- | -- |
+| Objetivo | Solicitar a segunda via do CIM utilizando o site  do Exército Brasileiro |
+| Contexto | pré-condição: Cadastro no DSM<br>pós-condição: O usuário solicita a segunda via do CIM |
+| Atore | Usuário |
+| Recursos | Acesso à internet<br>App intalado<br>Acesso ao site do Exército Brasileiro |
+| Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "CIM"<br>4. O usuário é redirecionado ao site do Exército Brasileiro |
+| Restrições | Fluxo intuitivo | 
+| Exceção | O usuário fechar aplicativo antes de terminar a ação<br>A Internet parar de funcionar durante a ação |
+<br><br>
 ## Referências
 <div align="justify">&emsp;&emsp; Os seguintes documentos de Cenarios serviram como referência durante a elaboração desse documento:
 </div><br>
