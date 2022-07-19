@@ -1,11 +1,7 @@
 # <center> Cenários
 
-## Resumo
-<div align="justify">&emsp;&emsp; Um cenário nada mais é do que uma história curta ou uma descrição de como um evento (ou eventos futuros) pode impactar as operações de uma empresa. Cenários são criados tanto para o ambiente interno quanto para o externo (ou seja, para todos os riscos corporativos que impactam uma organização).Os cenários são exemplos da vida real em que o sistema é ou será utilizado.
-</div>
-<div align="justify">&emsp;&emsp; Os cenários podem ser úteis para adicionar detalhes a uma descrição geral de requisito. Trata-se de descrições de iterações do usuário com o sistema. Cada cenário cobre um pequeno número de interações possíveis.
-</div>
-<div align="justify">&emsp;&emsp; Diferentes cenários são desenvolvidos e oferecem diversos tipos de informação em variados níveis de detalhamento sobre o sistema. O objetivo desse documento é registrar todos os cenários criados.
+## Introdução
+<div align="justify">&emsp;&emsp; Um cenário nada mais é do que uma história curta ou uma descrição de como um evento (ou eventos futuros) pode impactar as operações de uma empresa. Cenários são criados tanto para o ambiente interno quanto para o externo (ou seja, para todos os riscos corporativos que impactam uma organização).Os cenários são exemplos da vida real em que o sistema é ou será utilizado. Sendo assim, os cenários podem ser úteis para adicionar detalhes a uma descrição geral de requisito. Trata-se de descrições de iterações do usuário com o sistema. Cada cenário cobre um pequeno número de interações possíveis. Além disso, diferentes cenários são desenvolvidos e oferecem diversos tipos de informação em variados níveis de detalhamento sobre o sistema. O objetivo desse documento é registrar todos os cenários criados.
 </div>
 
 ### Metodologia
