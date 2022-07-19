@@ -59,7 +59,7 @@ Atividade(s) | Data  | Responsável | Revisor | Data de revisão
 ------------ | ------- | ----------| ------- | ---------------
 Desenvolvimento de casos de uso | 15/07 | Adne Moretti, Gabriel Moretti | Gustavo Martins | 16/07 |
 Cenários   | 16/07/2022 | Gustavo Martins, Guilherme Puida | Adne Moretti | 17/07/2022
-Léxicos | 17/07/2022 | Luan Vasco,  Vitor Eduardo| Gustavo Martins | 18/07/2022
+Léxicos | 17/07/2022 | Luan Vasco | Gustavo Martins | 18/07/2022
 Especificação suplementar | 17/07/2022 | Adne Moretti, Gabriel Moretti | Luan Vasco | 18/07/2022
 Gravação do vídeo | 18/07/2022 | Todos | Todos | 18/07/2022
 Edição do vídeo | 18/07/2022 | Guilherme Puida | Todos | 18/07/2022
