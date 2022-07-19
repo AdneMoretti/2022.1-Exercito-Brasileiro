@@ -40,21 +40,6 @@ Padrão de tabela :
 | **Concursos** | O usuário é capaz de se informar sobre concursos | O usuário fica sabendo das informações necessárias sobre os concursos | Processos seletivos | Objeto |
 
 
-Certificado de reservista
-Carteira Militar
-Alistamento
-Uniforme 
-Usuário
-Acessar
-Colégios militares
-Guarda
-Veterano
-Operacional
-Escutar Podcast
-Ler notícias
-Concursos
-
-
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-------|-----------| ------- |
-| 0.1 | 18/7/22 | Documento Inicial | Luan Vasco| Gustavo Martins |
+| 0.1 | 18/7/22 | Documento Inicial | Luan Vasco e Vitor Eduardo| Gustavo Martins |
