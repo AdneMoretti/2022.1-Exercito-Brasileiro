@@ -25,7 +25,9 @@ Padrão de tabela :
 |-------|-------|---------|
 | Verbo | Quem realiza,quando acontece e quais os procedimentos envolvidos | Quais os reflexos da ação no ambiente e quais novos estados decorrentes |
 | Objeto | Definir o objeto e definir com quais outros objetos ele se relaciona | Ações que podem ser aplicadas no objeto |
-| Estado | Quais ações levaram a ess estado | Identificar outros estados a ações que podem ocorrer a partir do estado que se descreve |
+| Estado | Quais ações levaram a esse estado | Identificar outros estados a ações que podem ocorrer a partir do estado que se descreve |
+
+### Léxicos
 
 | Léxico | Noção | Impacto | Sinônimo |Classificação |
 |--------|-------|---------|----------|--------------|
