@@ -27,7 +27,27 @@ Tabela 1 - Descrição da sigla FURPS
 
 Plus: 
 - Requisitos de interface: Tratam-se das necessidades não funcional que a interface e design do aplicativo deverão cumprir;
-## 3. FURPS+
+- 
+## 3. Avaliações
+
+Para a realização da especificação suplementar, buscamos pelas avaliações dos usuários nas plataformas disponíveis para baixar para encontrar os principais problemas e elicitar requisitos não-funcionais relacionados a usabilidade, confiabilidade e performance que possibilitem a mkelhora da experiência do usuário.
+
+<img src='https://user-images.githubusercontent.com/64036847/180097194-6b97087d-2bd2-470a-9e01-2b205ae94cb2.png' width=550px></img>
+
+<img src='https://user-images.githubusercontent.com/64036847/180097390-151f63d7-2109-451b-85bd-9f1fe605a6a0.png' width=550px></img>
+
+<img src='https://user-images.githubusercontent.com/64036847/180097395-16cdc94e-b5ec-41c2-94ad-4eef7192a320.png' width=550px></img>
+
+<img src='https://user-images.githubusercontent.com/64036847/180097398-1281e713-00b0-4460-a478-2a576a2ebc33.png' width=550px></img>
+
+<img src='https://user-images.githubusercontent.com/64036847/180097410-dce79721-0cb9-4b07-ba55-cee8e495f40a.png' width=550px></img>
+
+<img src='https://user-images.githubusercontent.com/64036847/180097885-2b42fb49-8df8-40bd-a03c-52ad70540dd3.jpeg' width=550px></img>
+
+<img src='https://user-images.githubusercontent.com/64036847/180097894-4158d2b3-6f7f-4079-904a-520ba9dd6261.jpeg' width=550px></img>
+
+Observamos que o aplicativvo possui muitos problemas relacionados a usabilidade, performance e dados no banco de dados incorretos. É observável que muitos usuários passam pelos problemas apresentados, pois em uma avaliação vários usuários acabam marcando tal comentário como útil.
+## 4. FURPS+
 ## Funcionalidades
 As funcionalidades do sistema estão descritas nos casos de uso desenvolvidos e nas técnicas de elicitação de requisitos realizadas nessa documentação. Para melhor visualização, seguem os links para tais abas:
 
@@ -101,3 +121,4 @@ As cores padrões da interface utilizadas devem seguir o tema do exército brasi
 |--------|------|-------|-----------| ------- |
 | 0.1 | 18/07/22 | Documento Inicial | Adne Moretti | Gabriel Moretti |
 | 0.2 | 19/07/22 | Adição de elementos aos requisitos | Gabriel Moretti | Adne Moretti |
+| 0.2 | 19/07/22 | Adição de exemplos de avaliações | Adne Moretti | Gabriel Moretti |
