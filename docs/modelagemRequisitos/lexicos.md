@@ -1,7 +1,6 @@
 # 1 - Léxicos
 
-Trata-se de uma técnica que procura descrever os símbolos de uma linguagem.
-O Objetivo principal a ser perseguido pelos engenheiros de requisitos é a identificação de palavras ou frases peculiares ao meio social da aplicação sob estudo.
+Léxicos consiste em uma técnica que procura descrever os símbolos de uma linguagem. Sendo assim, um dos principais objetivos a ser perseguido pelos engenheiros de requisitos é a identificação de palavras ou frases peculiares ao meio social da aplicação sob estudo, sendo a aplicação de técnicos, uma boa estratégia nesse contexto.
 
 ## 2 - Descrição 
 
@@ -23,7 +22,7 @@ Padrão de tabela :
 
 | Verbo | Noção | Impacto |
 |-------|-------|---------|
-| Verbo | Quem realiza,quando acontece e quais os procedimentos envolvidos | Quais os reflexos da ação no ambiente e quais novos estados decorrentes |
+| Verbo | Quem realiza, quando acontece e quais os procedimentos envolvidos | Quais os reflexos da ação no ambiente e quais novos estados decorrentes |
 | Objeto | Definir o objeto e definir com quais outros objetos ele se relaciona | Ações que podem ser aplicadas no objeto |
 | Estado | Quais ações levaram a esse estado | Identificar outros estados a ações que podem ocorrer a partir do estado que se descreve |
 
@@ -31,12 +30,12 @@ Padrão de tabela :
 
 | Léxico | Noção | Impacto | Sinônimo |Classificação |
 |--------|-------|---------|----------|--------------|
-| **Alistar** | O usuário pode fazer o alistamento obrigatório pelo aplicativo | O usuário consegue se alistar | Relacionar,Inscrever, Enumerar | Verbo |
-| **Carteira Militar** | O usuário consegue consultar sua carteira militar | O usuário tem sua carteira militar de forma digital e de fácil acesso | Identificação Militar | Objeto |
+| **Alistar** | O usuário pode fazer o alistamento obrigatório pelo aplicativo | O usuário consegue se alistar | Relacionar, Inscrever, Enumerar | Verbo |
+| **CIM** | O usuário consegue consultar sua carteira militar | O usuário tem sua carteira militar de forma digital e de fácil acesso | Carteira de Identidade Militar | Objeto |
 |**Acessar** | O usuário consegue se conectar aos serviços | O usuário usa os serviços que deseja usar, como por exemplo, alistamento militar | Entrar, Conectar | Verbo |
-| **Colégios Militares** | Seção que discute sobre os colégios militares | Usuário poderá se informar sobre os colégios militares | Escolas militares, Instituições de ensino militarizadas | Objeto | 
-| **Escutar Podcast** | Aba de podcast para o usuário escutar podcast relevantes para o exército brasileiro | O usuário poderá escutar sobre assuntos que lhe interessa e se informar | Ouvir Podcast | Verbo |
-| **Ler Notícias** | O usuário consegue visualizar as notícias relevantes ao exército brasileiro | O usuário consegue se informar sobre concursos públicos, ingresso em colégios e se manter atualizado | Se informar | Verbo |
+| **Colégios Militares** | Seção que discute sobre os colégios militares | Usuário poderá se informar sobre os colégios militares | Escolas militares, Instituições de ensino militares | Objeto | 
+| **Escutar Podcast** | Aba contendo podcasts gravados para o usuário escutar quando desejado | O usuário poderá escutar sobre assuntos que lhe interessa e se informar | Ouvir Podcast | Verbo |
+| **Ler Notícias** | O usuário consegue visualizar as notícias relevantes sobre o exército brasileiro | O usuário consegue se informar sobre concursos públicos, ingresso em colégios militares e se manter atualizado | Se informar | Verbo |
 | **Concursos** | O usuário é capaz de se informar sobre concursos | O usuário fica sabendo das informações necessárias sobre os concursos | Processos seletivos | Objeto |
 
 
