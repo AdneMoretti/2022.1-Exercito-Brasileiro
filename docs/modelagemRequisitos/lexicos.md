@@ -1,6 +1,6 @@
-# 1 - Léxicos
+# 1 - <center> Léxicos
 
-Léxicos consiste em uma técnica que procura descrever os símbolos de uma linguagem. Sendo assim, um dos principais objetivos a ser perseguido pelos engenheiros de requisitos é a identificação de palavras ou frases peculiares ao meio social da aplicação sob estudo, sendo a aplicação de técnicos, uma boa estratégia nesse contexto.
+As atividades associadas ao processo de requisitos podem envolver leitura de documentos que impactem de alguma forma o sistema em desenvolvimento. Exemplos de documentos incluem padrões da organização, legislação pertinente, atas de reuniões ou entrevistas ocorridas durante o processo de elicitação e também o próprio documento de requisitos sendo elaborado. Nesse processo, a construção do léxico da aplicação é tarefa prioritária, pois nele são registrados os símbolos próprios do domínio da aplicação. O léxico é a base para o entendimento entre clientes, usuários e profissionais de software [Sayão, Carvalho, 2006]. É nesse contexto que, um léxico, consiste em uma técnica que procura descrever os símbolos de uma linguagem e, de acordo com o fato emncionado, é um dos principais objetivos a ser perseguido pelos engenheiros de requisitos, pois facilita a identificação de palavras ou frases peculiares ao meio social da aplicação sob estudo..
 
 ## 2 - Descrição 
 
@@ -37,6 +37,7 @@ Padrão de tabela :
 | **Escutar Podcast** | Aba contendo podcasts gravados para o usuário escutar quando desejado | O usuário poderá escutar sobre assuntos que lhe interessa e se informar | Ouvir Podcast | Verbo |
 | **Ler Notícias** | O usuário consegue visualizar as notícias relevantes sobre o exército brasileiro | O usuário consegue se informar sobre concursos públicos, ingresso em colégios militares e se manter atualizado | Se informar | Verbo |
 | **Concursos** | O usuário é capaz de se informar sobre concursos | O usuário fica sabendo das informações necessárias sobre os concursos | Processos seletivos | Objeto |
+| **Escutar Podcast** | Aba contendo podcasts gravados para o usuário escutar quando desejado | O usuário poderá escutar sobre assuntos que lhe interessa e se informar | Ouvir Podcast | Verbo |
 
 
 | Versão | Data | Descrição | Autor | Revisor |
