@@ -34,7 +34,7 @@ As funcionalidades do sistema estão descritas nos casos de uso desenvolvidos e 
 - [Casos de uso](/modelagemRequisitos/casos_de_uso.md)
 - [Elicitação de Requisitos (priorização)](/elicitacaoRequisitos/priorizacao.md)
 
-## Usabilidade
+## __Usabilidade__
 
 ### Interface intuitiva
 Ao acessar o aplicativo Exército Brasileiro, o sistema deve apresentar uma interface intuitiva e de fácil entendimento, não sendo necessário um tutorial para primeiro uso. Para o acesso de todas as funcionalidades do sistema, basta um botão do lado esquerdo da tela inicial que, ao ser clicado, apresente todas as possíveis funcionalidades do Exército Brasileiro em um menu iterativo.
@@ -48,7 +48,7 @@ O aplicativo deve evitar que o usuário cometa erros, sendo assim, quando o usu�
 ### Linguagem do aplicativo
 O aplicativo deve apresentar uma linguagem simples e não técnica, para que o entendimento por parte dos usuários seja simples, rápida e fácil.
 
-## Confiabilidade 
+## __Confiabilidade__
 
 ### Tratamento e armazenamento de dados
 Para qualquer dado armazenado pelo aplicativo, o mesmo deve considerar as seguintes questões:
@@ -61,7 +61,7 @@ Para qualquer dado armazenado pelo aplicativo, o mesmo deve considerar as seguin
 
 Enquanto o dispositivo em uso possuir acesso à internet, o aplicativo deverá funcionar constantemente, de forma completa e correta.
 
-## Suportabilidade 
+## __Suportabilidade__
 
 ### Compatibilidade 
 O aplicativo deve ser compatível aos seguintes dispositivos e suas versões:
@@ -71,7 +71,7 @@ O aplicativo deve ser compatível aos seguintes dispositivos e suas versões:
 - Ipod touch (IOS 12.0 ou posterior);
 - Mac (macOS 11.0 ou posterior ou com chip M1 ou posterior).
 
-## Performance
+## __Performance__
 
 ### Armazenamento 
 Para baixar o aplicativo, deve estar disponível no dispositvido 52,5 MB, que é a quantidade de memória necessária para o armazenamento do aplicativo.
@@ -82,7 +82,7 @@ O tempo de resposta do aplicativo deve ser de no máximo 1 segundo para que o us
 ### Energia
 O aplicativo deve consumir pouca energia do dispositivo quando utilizado por um grande período de tempo, em uma margem aceitável de 10% de bateria por hora de uso em um aparelho pouco usado, assim permitindo o uso do mesmo de forma livre e sem preocupações.
 
-## Requisitos de Interface
+## __Requisitos de Interface__
 
 ### Idioma
 Por ser um aplicativo do Governo Brasileiro destinado apenas para fins nacionais, o aplicativo deve estar somente em português brasileiro (PT-BR).
