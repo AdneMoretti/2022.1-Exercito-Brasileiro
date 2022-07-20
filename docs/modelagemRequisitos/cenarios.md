@@ -13,7 +13,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Objetivo/meta do cenarios |
 | Contexto | pré-condição:<br>pós-condição: |
-| Atore | Atores envolvidos |
+| Ator | Atores envolvidos |
 | Recursos | Recursos envolvidos |
 | Episódios | Detalhes do cenários |
 | Restrições | Descrição da retrição | 
@@ -26,7 +26,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Acessar os vídeos do Exército Brasileiro disponibilizados no Youtube utilizando o aplicativo do Exército Brasileiro |
 | Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário terá acesso aos vídeos do exército brasileiro no Youtube |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | Acesso à internet<br>App intalado |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "YouTube"<br>4. O usuário seleciona o vídeo desejado |
 | Restrições | Fluxo intuitivo | 
@@ -37,7 +37,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Solicitar a segunda via do CIM utilizando o site  do Exército Brasileiro |
 | Contexto | pré-condição: cadastro no DSM<br>pós-condição: o usuário solicita a segunda via do CIM |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | Acesso à internet<br>App intalado<br>Acesso ao site do Exército Brasileiro |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "CIM" |
 | Restrições | Fluxo intuitivo | 
@@ -48,7 +48,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Acessar os podcasts do Exército Brasileiro gravados e disponibilizados no aplicativo |
 | Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso aos podcasts gravados pelo Exército Brasileiro |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Podcast"<br>4. O usuário seleciona o podcast de sua preferência |
 | Restrições | Fluxo intuitivo | 
@@ -59,7 +59,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Acessar a rádio verde oliva pelo aplicativo Exército Brasileiro |
 | Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso à rádio Verde Oliva FM pelo app Exército Brasileiro |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "VerdeOliva"<br>4. O usuário seleciona uma cidade de sua preferência |
 | Restrições | Fluxo intuitivo | 
@@ -70,7 +70,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Acessar as notícias atualizadas sobre o Exército Brasileiro |
 | Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso às notícias atualizadas sobre o exercito brasileiro pelo aplicativo |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Noticiário"<br>4. O usuário seleciona uma notícia de sua preferência |
 | Restrições | Fluxo intuitivo | 
@@ -81,7 +81,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Acessar algum sistema virtual do Exército Brasileiro |
 | Contexto | pré-condição: alguns sistemas necessitam de cadastro<br>pós-condição: o usuário tem acesso aos sistemas virtuais do exercito brasileiro pelo aplicativo |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado e acesso a internet |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Sistemas"<br>4. O usuário seleciona um sistema de sua preferência |
 | Restrições | Fluxo intuitivo | 
@@ -92,7 +92,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Obter informações sobre os concursos do Exército Brasileiro |
 | Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso as informações dos concursos do exercito brasileiro pelo aplicativo |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado e acesso a internet |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Concursos"<br> 4. O usuário seleciona um concurso de sua preferência |
 | Restrições | Fluxo intuitivo | 
@@ -103,7 +103,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Realizar o alistamento militar de forma remota |
 | Contexto | pré-condição: cadastro no sistema do gov.br<br>pós-condição: o usuário tem acesso ao alistamento militar remotamente pelo site do gov.br |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado e acesso a internet |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Alistamento" |
 | Restrições | Fluxo intuitivo | 
@@ -114,7 +114,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Acompanhar o facebook do exército brasileiro |
 | Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso ao Facebook do exército brasileiro |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado e acesso a internet |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Facebook" |
 | Restrições | Fluxo intuitivo | 
@@ -125,7 +125,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Encontrar emprego no mercado de trabalho civíl |
 | Contexto | pré-condição: ser ex-militar<br>pós-condição: o usuário tem acesso as informações de como conseguir um emprego civíl |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado e acesso a internet |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Reserva Ativa" |
 | Restrições | Fluxo intuitivo | 
@@ -136,7 +136,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Encontrar informações sobre convocações, nomeações, promoções, cursos e processos seletivos do exército brasileiro |
 | Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso as informações as quais proucura |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado e acesso a internet |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "informex"<br>4. O usuário seleciona o informex desejado |
 | Restrições | Fluxo intuitivo | 
@@ -147,7 +147,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Encontrar informações sobre a história e atuações do exército brasileiro ao redor do mundo|
 | Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso as informações as quais proucura |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "EBlog"<br>4. O usuário seleciona o assunto desejado |
 | Restrições | Fluxo intuitivo | 
@@ -158,7 +158,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Encontrar as revistas da Verde Oliva|
 | Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso às revistas as quais proucura |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado e acesso a internet |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Revista VO"<br>4. O usuário seleciona a revista desejada |
 | Restrições | Fluxo intuitivo | 
@@ -169,7 +169,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Obter informações sobre os diferentes uniformes usados no exército brasileiro |
 | Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso às informações dos uniformes do exército brasileiro |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Uniformes"<br>4. O usuário seleciona o uniforme desejado |
 | Restrições | Fluxo intuitivo | 
@@ -180,7 +180,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Obter informações sobre os hotéis de transito do exército brasileiro |
 | Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso às informações dos diferentes hotéis de transito do exército brasileiro |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado, acesso a internet e acesso local (GPS) |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Hotéis"<br>4. O usuário seleciona o estado desejado<br>5. O usuário seleciona o hotel desejado |
 | Restrições | Fluxo intuitivo | 
@@ -191,7 +191,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | -- | -- |
 | Objetivo | Obter ajuda ou instrução sobre o aplicativo Exército Brasileiro |
 | Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário recebe a instrução, sobre o aplicativo, desejada |
-| Atore | Usuário |
+| Ator | Usuário |
 | Recursos | App intalado e acesso à internet |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Fale Conosco"<br>4. O usuário seleciona uma das formas de comunicação disponíveis |
 | Restrições | Fluxo intuitivo | 
