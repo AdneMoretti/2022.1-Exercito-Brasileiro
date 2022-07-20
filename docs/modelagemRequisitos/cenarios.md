@@ -50,10 +50,22 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | Contexto | pré-condição: Não precisa de cadastro<br>pós-condição: O usuário tem acesso aos podcasts gravados pelo Exército Brasileiro |
 | Atore | Usuário |
 | Recursos | App intalado |
-| Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Podcast"<br>4. Os podcasts gravados são exibidos para o usuário <br>5. O usuário seleciona o podcast de sua preferência |
+| Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Podcast"<br>4. Os podcasts gravados são exibidos para o usuário <br>5. O usuário seleciona o podcast de sua preferência<br>6. O conteúdo do podcast é exibido ao usuário|
 | Restrições | Fluxo intuitivo | 
 | Exceção | O usuário fechar aplicativo antes de terminar a ação |
 <br><br>
+ ### C04 - Rádio Verde Oliva
+| Título | Rádio Verde Oliva |
+| -- | -- |
+| Objetivo | Acessar a rádio verde oliva pelo aplicativo Exército Brasileiro |
+| Contexto | pré-condição: Não precisa de cadastro<br>pós-condição: O usuário tem acesso à rádio Verde Oliva FM pelo app Exército Brasileiro |
+| Atore | Usuário |
+| Recursos | App intalado |
+| Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "VerdeOliva"<br>4. As cidades que possuem cobertura da rádio são exibidas para o usuário <br>5. O usuário seleciona uma cidade de sua preferência<br>6. O conteúdo da rádio é transmitido em sincronia pelo dispositivo do usuário |
+| Restrições | Fluxo intuitivo | 
+| Exceção | O usuário fechar aplicativo antes de terminar a ação|
+<br><br>
+ 
 ## Referências
 <div align="justify">&emsp;&emsp; Os seguintes documentos de Cenarios serviram como referência durante a elaboração desse documento:
 </div><br>
