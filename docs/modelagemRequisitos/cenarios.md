@@ -20,7 +20,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | Exceção | Descrição da exceção |
 <br><br>
 
-## OS CENÁRIOS
+## Os cenáros
 ### C01 - Acessar os vídeos do Exército Brasileiro disponibilizados no Youtube
 | Título |Acessar os vídeos do Exército Brasileiro disponibilizados no Youtube |
 | -- | -- |
