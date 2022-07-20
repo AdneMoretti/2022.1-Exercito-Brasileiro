@@ -189,7 +189,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 ### C16 - Fale Conosco
 | Título | Fale Conosco |
 | -- | -- |
-| Objetivo | Obter informações sobre os hotéis de transito do exército brasileiro |
+| Objetivo | Obter ajuda ou instrução sobre o aplicativo Exército Brasileiro |
 | Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário recebe a instrução, sobre o aplicativo, desejada |
 | Atore | Usuário |
 | Recursos | App intalado e acesso à internet |
