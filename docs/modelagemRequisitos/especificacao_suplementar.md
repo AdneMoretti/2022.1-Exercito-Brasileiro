@@ -27,7 +27,7 @@ Tabela 1 - Descrição da sigla FURPS
 
 Plus: 
 - Requisitos de interface: Tratam-se das necessidades não funcional que a interface e design do aplicativo deverão cumprir;
-- 
+
 ## 3. Avaliações
 
 Para a realização da especificação suplementar, buscamos pelas avaliações dos usuários nas plataformas disponíveis para baixar para encontrar os principais problemas e elicitar requisitos não-funcionais relacionados a usabilidade, confiabilidade e performance que possibilitem a mkelhora da experiência do usuário.
