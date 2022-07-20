@@ -25,7 +25,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | Título |Acessar os vídeos do Exército Brasileiro disponibilizados no Youtube |
 | -- | -- |
 | Objetivo | Acessar os vídeos do Exército Brasileiro disponibilizados no Youtube utilizando o aplicativo do Exército Brasileiro |
-| Contexto | pré-condição: Não precisa de cadastro<br>pós-condição: O usuário terá acesso aos vídeos do exército brasileiro no Youtube |
+| Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário terá acesso aos vídeos do exército brasileiro no Youtube |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "YouTube"<br>4. O usuário seleciona o vídeo desejado <br>5. O aplicativo exibe as informações sobre o vídeo, assim como o próprio vídeo. |
@@ -36,7 +36,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | Título |Solicitar segunda via do CIM no site do Exército |
 | -- | -- |
 | Objetivo | Solicitar a segunda via do CIM utilizando o site  do Exército Brasileiro |
-| Contexto | pré-condição: Cadastro no DSM<br>pós-condição: O usuário solicita a segunda via do CIM |
+| Contexto | pré-condição: cadastro no DSM<br>pós-condição: o usuário solicita a segunda via do CIM |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado<br>Acesso ao site do Exército Brasileiro |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "CIM"<br>4. O usuário é redirecionado ao site do Exército Brasileiro |
@@ -47,7 +47,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | Título |Podcast do Exército Brasileiro |
 | -- | -- |
 | Objetivo | Acessar os podcasts do Exército Brasileiro gravados e disponibilizados no aplicativo |
-| Contexto | pré-condição: Não precisa de cadastro<br>pós-condição: O usuário tem acesso aos podcasts gravados pelo Exército Brasileiro |
+| Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso aos podcasts gravados pelo Exército Brasileiro |
 | Atore | Usuário |
 | Recursos | App intalado |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Podcast"<br>4. Os podcasts gravados são exibidos para o usuário <br>5. O usuário seleciona o podcast de sua preferência<br>6. O conteúdo do podcast é exibido ao usuário|
@@ -58,12 +58,56 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 | Título | Rádio Verde Oliva |
 | -- | -- |
 | Objetivo | Acessar a rádio verde oliva pelo aplicativo Exército Brasileiro |
-| Contexto | pré-condição: Não precisa de cadastro<br>pós-condição: O usuário tem acesso à rádio Verde Oliva FM pelo app Exército Brasileiro |
+| Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso à rádio Verde Oliva FM pelo app Exército Brasileiro |
 | Atore | Usuário |
 | Recursos | App intalado |
 | Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "VerdeOliva"<br>4. As cidades que possuem cobertura da rádio são exibidas para o usuário <br>5. O usuário seleciona uma cidade de sua preferência<br>6. O conteúdo da rádio é transmitido em sincronia pelo dispositivo do usuário |
 | Restrições | Fluxo intuitivo | 
 | Exceção | O usuário fechar aplicativo antes de terminar a ação|
+<br><br>
+### C05 - Noticiário
+| Título | Noticiário |
+| -- | -- |
+| Objetivo | Acessar as notícias atualizadas sobre o Exército Brasileiro |
+| Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso às notícias atualizadas sobre o exercito brasileiro pelo aplicativo |
+| Atore | Usuário |
+| Recursos | App intalado |
+| Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Noticiário"<br>4. As notícias disponíveis são exibidas ao usuário <br>5. O usuário seleciona uma notícia de sua preferência<br>6. O conteúdo da notícia é exibida ao usuário |
+| Restrições | Fluxo intuitivo | 
+| Exceção | O usuário fechar aplicativo antes de terminar a ação|
+<br><br>
+### C06 - Sistemas
+| Título | Sistemas |
+| -- | -- |
+| Objetivo | Acessar algum sistema virtual do Exército Brasileiro |
+| Contexto | pré-condição: alguns sistemas necessitam de cadastro<br>pós-condição: o usuário tem acesso aos sistemas virtuais do exercito brasileiro pelo aplicativo |
+| Atore | Usuário |
+| Recursos | App intalado e acesso a internet |
+| Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Sistemas"<br>4. Os sistemas disponíveis são exibidas ao usuário <br>5. O usuário seleciona um sistema de sua preferência<br>6. O usuário é redirecionado à página web referente ao sistema solicitado |
+| Restrições | Fluxo intuitivo | 
+| Exceção | O usuário fechar aplicativo antes de terminar a ação<br>A Internet parar de funcionar durante a ação<br>O sistema selecionado estar fora do ar|
+<br><br>
+### C07 - Concursos
+| Título | Concursos Militares |
+| -- | -- |
+| Objetivo | Obter informações sobre os concursos do Exército Brasileiro |
+| Contexto | pré-condição: não precisa de cadastro<br>pós-condição: o usuário tem acesso as informações dos concursos do exercito brasileiro pelo aplicativo |
+| Atore | Usuário |
+| Recursos | App intalado e acesso a internet |
+| Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Concursos"<br>4. Os concursos disponíveis são exibidas ao usuário <br>5. O usuário seleciona um concurso de sua preferência<br>6. O aplicativo exibe informações referente ao curso solicitado |
+| Restrições | Fluxo intuitivo | 
+| Exceção | O usuário fechar aplicativo antes de terminar a ação|
+<br><br>
+### C08 - Alistamento
+| Título | Alistamento Militares |
+| -- | -- |
+| Objetivo | Realizar o alistamento militar de forma remota |
+| Contexto | pré-condição: cadastro no sistema do gov.br<br>pós-condição: o usuário tem acesso ao alistamento militar remotamente pelo site do gov.br |
+| Atore | Usuário |
+| Recursos | App intalado e acesso a internet |
+| Episódios | 1. O usuário acessa o aplicativo do Exército Brasileiro<br>2. O usuário seleciona o menu lateral<br>3. O usuário  seleciona a opção "Alistamento"<br>4. O usuário é redirecionado ao sistema de alistamento do exército |
+| Restrições | Fluxo intuitivo | 
+| Exceção | O usuário fechar aplicativo antes de terminar a ação<br>A internet parar de funcionar durante a ação<br>O sistema estar fora do ar|
 <br><br>
  
 ## Referências
