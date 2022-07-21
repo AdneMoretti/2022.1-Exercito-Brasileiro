@@ -17,7 +17,7 @@ Tabela 1 - Descrição da sigla FURPS
 <br>
 
 
-| Funcionalidade | Significado |
+| Tópicos | Significado |
 | -------------- | ----------- |
 | Funcionalidade | Se trata de requisitos funcionais, as reais funcionalidades de um sistema |
 | Usabilidade    | Se trata do quão fácil é para o usuário realizar as suas tarefas |
