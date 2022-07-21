@@ -1,6 +1,6 @@
 ## Apresentação 3
 
-[![LINK APRESENTAÇÃO 3](http://img.youtube.com/vi/LoZOG0bEqK.jpg)](https://www.youtube.com/watch?v=LoZOG0bEqKs)
+[![LINK APRESENTAÇÃO 3](https://img.youtube.com/vi/SY8wwAdn8cM/0.jpg)](https://www.youtube.com/watch?v=LoZOG0bEqKs)
 
 [Link do Vídeo](https://www.youtube.com/watch?v=LoZOG0bEqKs)
 
