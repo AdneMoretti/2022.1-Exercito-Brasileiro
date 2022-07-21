@@ -30,7 +30,7 @@ Plus:
 
 ## 3. Avaliações
 
-Para a realização da especificação suplementar, buscamos pelas avaliações dos usuários nas plataformas disponíveis para baixar para encontrar os principais problemas e elicitar requisitos não-funcionais relacionados a usabilidade, confiabilidade e performance que possibilitem a mkelhora da experiência do usuário.
+Para a realização da especificação suplementar, buscamos pelas avaliações dos usuários nas plataformas disponíveis para baixar para encontrar os principais problemas e elicitar requisitos não-funcionais relacionados a usabilidade, confiabilidade e performance que possibilitem a melhora da experiência do usuário.
 
 <img src='https://user-images.githubusercontent.com/64036847/180097194-6b97087d-2bd2-470a-9e01-2b205ae94cb2.png' width=550px></img>
 
