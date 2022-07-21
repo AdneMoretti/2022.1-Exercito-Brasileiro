@@ -3,6 +3,7 @@ Nesta pagina podemos visualizar as atividades e entregas gerais da disciplina, a
 <p>Imagem 1 - Imagem demonstrativa de um cronograma</p>
 <img src=https://img.freepik.com/vetores-gratis/alunos-ou-funcionarios-adicionando-eventos-ou-prazos-ao-aplicativo-de-calendario-jovens-usando-ilustracao-plana-de-organizador-de-tempo-ou-planejador_74855-20735.jpg width=400px/>
 <p>Fonte: freepik</p>
+
 ### Cronograma Geral de entregas
 <p> Tabela 1 - Cronograma geral de entregas</p>
 
