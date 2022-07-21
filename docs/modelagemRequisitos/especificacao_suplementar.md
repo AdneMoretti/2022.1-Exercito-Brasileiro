@@ -48,7 +48,7 @@ Para a realização da especificação suplementar, buscamos pelas avaliações 
 
 Observamos que o aplicativvo possui muitos problemas relacionados a usabilidade, performance e dados no banco de dados incorretos. É observável que muitos usuários passam pelos problemas apresentados, pois em uma avaliação vários usuários acabam marcando tal comentário como útil.
 ## 4. FURPS+
-## Funcionalidades
+## __Funcionalidades__
 As funcionalidades do sistema estão descritas nos casos de uso desenvolvidos e nas técnicas de elicitação de requisitos realizadas nessa documentação. Para melhor visualização, seguem os links para tais abas:
 
 - [Casos de uso](/modelagemRequisitos/casos_de_uso.md)
