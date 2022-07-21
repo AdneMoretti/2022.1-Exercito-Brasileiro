@@ -17,14 +17,15 @@
 - [Storytelling](/elicitacaoRequisitos/storytelling.md)
 - [Priorização](/elicitacaoRequisitos/priorizacao.md)
 
-- Apresentações
-
-- [Apresentação 1](/apresentacoes/apresentacao1.md)
-- [Apresentação 2](/apresentacoes/apresentacao2.md)
-
 - Modelagem 
 
 - [Casos de uso](/modelagemRequisitos/casos_de_uso.md)
 - [Cenários](/modelagemRequisitos/cenarios.md)
 - [Léxicos](/modelagemRequisitos/lexicos.md)
 - [Especificação suplementar](/modelagemRequisitos/especificacao_suplementar.md)
+
+- Apresentações
+
+- [Apresentação 1](/apresentacoes/apresentacao1.md)
+- [Apresentação 2](/apresentacoes/apresentacao2.md)
+- [Apresentação 3](/apresentacoes/apresentacao3.md)
