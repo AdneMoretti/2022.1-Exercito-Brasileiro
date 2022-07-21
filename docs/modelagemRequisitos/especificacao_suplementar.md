@@ -46,7 +46,7 @@ Para a realização da especificação suplementar, buscamos pelas avaliações 
 
 <img src='https://user-images.githubusercontent.com/64036847/180097894-4158d2b3-6f7f-4079-904a-520ba9dd6261.jpeg' width=550px></img>
 
-Observamos que o aplicativvo possui muitos problemas relacionados a usabilidade, performance e dados no banco de dados incorretos. É observável que muitos usuários passam pelos problemas apresentados, pois em uma avaliação vários usuários acabam marcando tal comentário como útil.
+Observamos que o aplicativo possui muitos problemas relacionados a usabilidade, performance e dados no banco de dados incorretos. É observável que muitos usuários passam pelos problemas apresentados, pois em uma avaliação vários usuários acabam marcando tal comentário como útil.
 ## 4. FURPS+
 ## __Funcionalidades__
 As funcionalidades do sistema estão descritas nos casos de uso desenvolvidos e nas técnicas de elicitação de requisitos realizadas nessa documentação. Para melhor visualização, seguem os links para tais abas:
