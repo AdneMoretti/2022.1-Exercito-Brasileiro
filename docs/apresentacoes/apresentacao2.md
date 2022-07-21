@@ -8,4 +8,4 @@
 
 | Versão | Data | Descrição | Autor |
 |--------|------|-----------|-------|
-| 0.1 | 13/07/22 | Vídeo inicial | Todos |
+| 0.1 | 20/07/22 | Vídeo inicial | Todos |
