@@ -66,7 +66,70 @@ Uma persona é um personagem fictício, arquétipo hipotético de um grupo de us
     </tbody>
 </table>
 
-<center> <figcaption>Tabela 1: Persona primária.</figcaption> </center>
+<center> <figcaption>Tabela 1: Primeira persona primária.</figcaption> </center>
+
+### Persona Primária: Jorivan Constantino Costa <a id="Jorivan Constantino"></a>
+
+<table>
+    <thead>
+        <th colspan="10" style="text-align: center">Jorivan Constantino Costa</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="7" colspan="5" style="width: 350px">
+                <figure>
+                    <center>
+                    <a href="https://ibb.co/8s1G4Bx"><img src="https://i.ibb.co/RbRt4S6/Whats-App-Image-2022-07-20-at-22-37-45.jpg" alt="Whats-App-Image-2022-07-20-at-22-37-45" border="0"></a>
+                    </center>
+                    <figcaption>Figura 1: Foto do Jorivan
+                    </figcaption>
+                </figure>
+            </td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Idade:</strong></td>
+            <td class="persona" colspan="1">21 anos.</td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Ocupação:</strong></td>
+            <td colspan="1">Estudante</td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Escolaridade:</strong></td>
+            <td colspan="1" class="persona">Ensino Médio Completo.</td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Objetivos:</strong></td>
+            <td colspan="1" class="persona">Obter informações sobre o exército brasileiro <br>Realizar seu trabalho da faculdade acerca do exército brasileiro</td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Relacionamentos:</strong></td>
+            <td colspan="1" class="persona">Namorando
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Status:</strong></td>
+            <td class="persona" colspan="1">Persona Primária</td>
+        </tr>
+        <tr>
+            <td class="titulo"><strong>Habilidades:</strong></td>
+            <td colspan="8" class="persona">Jorivan é um leitor e estudante nato, tendo conhecimento de diversas áreas da ciência e tecnologia. Também ama testar seu conhecimento em quizes e provas.</td>
+        </tr>
+        <tr>
+            <td><strong>Tarefas:</strong></td>
+            <td colspan=8 class="persona">Jorivan acorda cedo, gastando horas do seu dia estudando linguagens de programação e ciências tanto em livros quanto em aparelhos eletrônicos. Tem sua rotina organizada e separa suas horas entre suas horas vagas de estudo e tarefas da faculdade. </td>
+        </tr>
+        <tr>
+            <td><strong>Requisitos:</strong></td>
+            <td colspan=8 class="persona">Jorivan deseja encontrar no aplicativo todas as informações necessárias para realizar seu trabalho da faculdade, sobre análise e experiência de usuário.</td>
+        </tr>
+        <tr>
+            <td><strong>Expectativas:</strong></td>
+            <td colspan=8 class="persona">Jorivan deseja aprender como o aplicativo funciona, para no final do semestre tirar nota máxima no seu trabalho.</td>
+        </tr>
+    </tbody>
+</table>
+
+<center> <figcaption>Tabela 2: Segunda persona primária.</figcaption> </center>
 
 ### Persona Secundária: Guilherme Silva Diniz <a id="Guilherme Silva Diniz"></a>
 
@@ -130,7 +193,7 @@ Uma persona é um personagem fictício, arquétipo hipotético de um grupo de us
     </tbody>
 </table>
 
-<center> <figcaption>Tabela 2: Persona secundária.</figcaption> </center>
+<center> <figcaption>Tabela 3: Persona secundária.</figcaption> </center>
 
 ### Antipersona: Ana Madalena Bittencurt <a id="AnaMadalenaBittencurt"></a>
 
@@ -190,7 +253,7 @@ Uma persona é um personagem fictício, arquétipo hipotético de um grupo de us
     </tbody>
 </table>
 
-<center> <figcaption>Tabela 3: Antipersona.</figcaption> </center>
+<center> <figcaption>Tabela 4: Antipersona.</figcaption> </center>
 
 ### Conclusão
 
