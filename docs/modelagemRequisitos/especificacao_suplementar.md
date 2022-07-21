@@ -36,9 +36,9 @@ Para a realização da especificação suplementar, buscamos pelas avaliações 
 
 <img src='https://user-images.githubusercontent.com/64036847/180097390-151f63d7-2109-451b-85bd-9f1fe605a6a0.png' width=550px></img>
 
-<img src='https://user-images.githubusercontent.com/64036847/180097395-16cdc94e-b5ec-41c2-94ad-4eef7192a320.png' width=550px></img>
+<img src='https://user-images.githubusercontent.com/64036847/180103122-153c45c8-9740-4fee-9e3b-f97ef688ab9d.png' width=550px></img>
 
-<img src='https://user-images.githubusercontent.com/64036847/180097398-1281e713-00b0-4460-a478-2a576a2ebc33.png' width=550px></img>
+<img src='https://user-images.githubusercontent.com/64036847/180103115-0459d1fe-709c-476d-b021-4128cf625c4f.png' width=550px></img>
 
 <img src='https://user-images.githubusercontent.com/64036847/180097410-dce79721-0cb9-4b07-ba55-cee8e495f40a.png' width=550px></img>
 
