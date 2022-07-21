@@ -31,19 +31,19 @@ Plus:
 ## 3. Avaliações
 
 Para a realização da especificação suplementar, buscamos pelas avaliações dos usuários nas plataformas disponíveis para baixar para encontrar os principais problemas e elicitar requisitos não-funcionais relacionados a usabilidade, confiabilidade e performance que possibilitem a melhora da experiência do usuário.
-
+ <p><i>Imagem 1 - Avaliação 1</i></p>
 <img src='https://user-images.githubusercontent.com/64036847/180097194-6b97087d-2bd2-470a-9e01-2b205ae94cb2.png' width=550px></img>
-
+<p><i>Imagem 2 - Avaliação 2</i></p>
 <img src='https://user-images.githubusercontent.com/64036847/180097390-151f63d7-2109-451b-85bd-9f1fe605a6a0.png' width=550px></img>
-
+<p><i>Imagem 3 - Avaliação 3</i></p>
 <img src='https://user-images.githubusercontent.com/64036847/180103122-153c45c8-9740-4fee-9e3b-f97ef688ab9d.png' width=550px></img>
-
+<p><i>Imagem 4 - Avaliação 4</i></p>
 <img src='https://user-images.githubusercontent.com/64036847/180103115-0459d1fe-709c-476d-b021-4128cf625c4f.png' width=550px></img>
-
+<p><i>Imagem 5 - Avaliação 5</i></p>
 <img src='https://user-images.githubusercontent.com/64036847/180097410-dce79721-0cb9-4b07-ba55-cee8e495f40a.png' width=550px></img>
-
+<p><i>Imagem 6 - Avaliação 6</i></p>
 <img src='https://user-images.githubusercontent.com/64036847/180097885-2b42fb49-8df8-40bd-a03c-52ad70540dd3.jpeg' width=550px></img>
-
+<p><i>Imagem 7 - Avaliação 7</i></p>
 <img src='https://user-images.githubusercontent.com/64036847/180097894-4158d2b3-6f7f-4079-904a-520ba9dd6261.jpeg' width=550px></img>
 
 Observamos que o aplicativo possui muitos problemas relacionados a usabilidade, performance e dados no banco de dados incorretos. É observável que muitos usuários passam pelos problemas apresentados, pois em uma avaliação vários usuários acabam marcando tal comentário como útil.
