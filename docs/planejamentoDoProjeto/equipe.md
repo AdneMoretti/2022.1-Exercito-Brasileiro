@@ -14,4 +14,4 @@
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------| ------- |
 | 0.1 | 29/06/22 | Documento Inicial | Gustavo Martins | Adne Moretti
-| 0.2 | 04/06/22 | Retirando a matrícula | Adne Moretti |
+| 0.2 | 04/06/22 | Retirando a matrícula | Adne Moretti | Gabriel Moretti
