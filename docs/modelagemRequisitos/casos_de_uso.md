@@ -28,6 +28,11 @@ O diagrama de caso de uso UML é ideal para:
 | Caixa de limite do sistema | caixa que define um escopo do sistema para os casos de uso. Todos os casos de uso fora da caixa são considerados fora do escopo do sistema. Por exemplo: o Psycho Killer está fora do escopo de ocupações no exemplo da serra elétrica abaixo. | |
 | Pacote | uma forma UML na qual colocar diferentes elementos em grupos. Assim como no diagrama de componentes, esses agrupamentos são representados como pastas de arquivos. |
 
+## Diagrama de caso de uso
+
+![DCU - RS](https://user-images.githubusercontent.com/70032505/180107662-6c3bf08d-d53c-4ae4-a1ea-4edda6b6b74e.png)
+<figcaption>Figura 1. Diagrama de caso de uso</figcaption>
+
 ## 5. Referência bibliográfica
 Diagrama de caso de uso UML: o que é, como fazer e exemplos. Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml.
 
