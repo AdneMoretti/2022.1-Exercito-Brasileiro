@@ -13,4 +13,4 @@ Em uma equipe ágil, as histórias são algo que a equipe pode se comprometer a 
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-------|-----------| ------- |
-| 0.1 | 18/7/22 | Documento Inicial | Luan Vasco e Vitor Eduardo| Gustavo Martins |
+| 0.1 | 29/7/2022 | Criação do Documento | Luan Vasco| Gustavo Martins |
