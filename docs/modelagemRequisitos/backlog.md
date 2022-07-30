@@ -231,4 +231,4 @@ usuários com eventuais comentários que auxiliam seu entendimento, assim como u
 
 | Versão | Data       | Descrição                                 | Autor        | Revisor |
 | ------ | ---------- | ----------------------------------------- | ------------ | -------- |
-| 0.1    | 29/06/2022 | Criação do documento                      | Gustavo Martins e Gabriel Moretti | Adne Moretti
+| 0.1    | 24/07/2022 | Criação do documento                      | Gustavo Martins e Gabriel Moretti | Adne Moretti
