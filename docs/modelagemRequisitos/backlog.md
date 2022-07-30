@@ -221,3 +221,14 @@ usuários com eventuais comentários que auxiliam seu entendimento, assim como u
 		<td align="center" valign=bottom bgcolor="#FF0000"><b><font color="#000000">Alta</font></b></td>
 	</tr>
   </table>
+
+## Referências
+> - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
+> - Pressman; Engenharia de Software; Desenvolvimento Ágil - Capítulo 3 - Páginas 95 e 96
+> - https://www.youtube.com/watch?v=z4ubaBwjCsU&feature=youtu.be
+
+### Histórico de versão
+
+| Versão | Data       | Descrição                                 | Autor        | Revisor |
+| ------ | ---------- | ----------------------------------------- | ------------ | -------- |
+| 0.1    | 29/06/2022 | Criação do documento                      | Gustavo Martins e Gabriel Moretti | Adne Moretti
