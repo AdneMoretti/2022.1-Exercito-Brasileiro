@@ -73,9 +73,10 @@ Entrega do vídeo | 18/07/2022 | Gustavo Martins| Todos | 18/07/2022
 
 Atividade(s) | Data  | Responsável | Revisor | Data de revisão
 ------------ | ------- | ----------| ------- | ---------------
-Product backlog | 24/07 | Adne Moretti, Gabriel Moretti | Gustavo Martins | 25/07 |
-Histórias de usuário  | 24/07/2022 | Gustavo Martins, Guilherme Puida | Adne Moretti | 25/07/2022
-NFR Framework | 26/07/2022 | Luan Vasco,  Vitor Eduardo| Gustavo Martins | 27/07/2022
+Product backlog | 24/07/2022 | Gustavo Martins, Gabriel Moretti | Adne Moretti | 25/07/2022 |
+Épicos | 24/07/2022 | Luan Vasco | Gustavo Martins | 25/07/2022 |
+Histórias de usuário  | 24/07/2022 | Adne Moretti | Gabriel Moretti | 25/07/2022
+NFR Framework | 26/07/2022 | Guilherme Puida,  Vitor Eduardo| Luan Vasco | 27/07/2022
 Edição do vídeo | 01/07/2022 | Guilherme Puida | Todos | 01/07/2022
 Entrega do vídeo | 03/07/2022 | Gustavo Martins| Todos | 03/07/2022
 <br>
