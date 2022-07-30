@@ -1,7 +1,7 @@
 # <center> Backlog
 
 ## Introdução
-	
+
 <div align="justify">&emsp;&emsp; O registro pendente de trabalhos (Backlog) é um artefato que consiste em uma lista, geralmente no formato de tabela, contendo a 
 descrição de todas as funcionalidades desejadas para um determinado produto. Tais descrições possuem alta granularidade, isto é, baixo grau de detalhamento, 
 além de evidenciarem os requisitos funcionais e não funcionais de um projeto, os quais são priorizados de acordo com o valor agregado ao cliente. Sendo assim, 
@@ -11,25 +11,25 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
 </div>
 
 ## Scrum
-	
-<div align="justify">&emsp;&emsp; O Scrum consiste em um método de desenvolvimento ágil de software cujos princípios são consistentes com o manifesto ágil e são usados para orientar as atividades de desenvolvimento dentro de um processo que incorpora as seguintes atividades estruturais: requisitos, análise, projeto, evolução e entrega. Sendo assim, Em cada atividade metodológica, ocorrem tarefas a realizar dentro de um padrão de processo chamado sprint. Somado a isso, o trabalho realizado dentro de um sprint, além de ser definido pela equipe Scrum, é adaptado ao problema em questão. É nesse contexto que, o product backlog, consiste em um dos principais artefatos ligados a metodogia scrum. A figura 1 a seguir, retirada do livro Engenharia de Software de Pressman, explica com mais detalhes o fluxo geral do processo Scrum.
-	
-![image](https://user-images.githubusercontent.com/72039007/181885570-f9ecd2f3-d3f6-45c9-85ca-fd01edbf5ad1.png)	
-	
-<p>figura 1: fluxo do processo Scrum - Cap. 3 Desenvolvimento Ágil - Engenharia de Software, Pressman - Página 96<p/>
-	
+
+<div align="justify">&emsp;&emsp; O Scrum consiste em um método de desenvolvimento ágil de software cujos princípios são consistentes com o manifesto ágil e são usados para orientar as atividades de desenvolvimento dentro de um processo que incorpora as seguintes atividades estruturais: requisitos, análise, projeto, evolução e entrega. Sendo assim, Em cada atividade metodológica, ocorrem tarefas a realizar dentro de um padrão de processo chamado sprint. Somado a isso, o trabalho realizado dentro de um sprint, além de ser definido pela equipe Scrum, é adaptado ao problema em questão. É nesse contexto que, o product backlog, consiste em um dos principais artefatos ligados a metodogia scrum. A figura 1 a seguir, retirada do livro Engenharia de Software de Pressman, explica com mais detalhes o fluxo geral do processo Scrum.	
 </div>
 
+![image](https://user-images.githubusercontent.com/72039007/181885570-f9ecd2f3-d3f6-45c9-85ca-fd01edbf5ad1.png)	
+
+<p>figura 1: fluxo do processo Scrum - Cap. 3 Desenvolvimento Ágil - Engenharia de Software, Pressman - Página 96<p/>
+
 ## SAFe (Scaled Agile Framework)
-	
+
 <div align="justify">&emsp;&emsp;
 	O SAFe consiste em uma framework baseada em processos ágeis, tais como o scrum, que permite escalar práticas ágeis em corporações ou grandes projetos. Tal framework propõe um mecanismo definindo diferentes níveis de times cuja dinâmica varia considerando a importância da prioridade e a previsão de entrega. Sendo assim, o backlog do produto é um dos artefatos de máxima importância dentro dessa framework, visto que é a partir dele que outras atividades, de menor granularidade, são derivadas e priorizadas.
 </div>
-	
+
 ## Metodologia
 	
 <div align="justify">&emsp;&emsp; 
 	A tabela a seguir expressa o backlog do aplicativo Exército Brasileiro. Observe que tal artefato leva em consideração histórias dos usuários com eventuais comentários que auxiliam seu entendimento, assim como um identificador único denominado ID, o tipo do requisito modelado e sua prioridade.
+</div>
 
 <table cellspacing="0" border="0" class="table table-striped table-bordered table-responsive-sm" style="font-size: 10px;">
 	<colgroup width="24"></colgroup>
@@ -238,8 +238,6 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
 		<td align="center" valign=bottom bgcolor="#FF0000"><b><font color="#000000">Alta</font></b></td>
 	</tr>
 </table>
-
-</div>
 
 ## Referências
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
