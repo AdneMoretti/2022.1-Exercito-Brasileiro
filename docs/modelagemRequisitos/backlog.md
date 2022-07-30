@@ -16,6 +16,7 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
 </div>
 	
 ![image](https://user-images.githubusercontent.com/72039007/181885570-f9ecd2f3-d3f6-45c9-85ca-fd01edbf5ad1.png)
+	
 <p>figura 1: fluxo do processo Scrum - Cap. 3 Desenvolvimento Ágil - Engenharia de Software, Pressman - Página 96<p/>
 
 ## SAFe (Scaled Agile Framework)
@@ -26,9 +27,9 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
 	
 ## Metodologia
 	
-<div align="justify">&emsp;&emsp; A tabela a seguir expressa o backlog do aplicativo Exército Brasileiro. Observe que tal artefato leva em consideração histórias dos
-usuários com eventuais comentários que auxiliam seu entendimento, assim como um identificador único denominado ID, o tipo do requisito modelado e sua prioridade.
-</div><br>
+<div align="justify">&emsp;&emsp; 
+	A tabela a seguir expressa o backlog do aplicativo Exército Brasileiro. Observe que tal artefato leva em consideração histórias dos usuários com eventuais comentários que auxiliam seu entendimento, assim como um identificador único denominado ID, o tipo do requisito modelado e sua prioridade.
+</div>
 
 <table cellspacing="0" border="0" class="table table-striped table-bordered table-responsive-sm" style="font-size: 10px;">
 	<colgroup width="24"></colgroup>
@@ -236,7 +237,7 @@ usuários com eventuais comentários que auxiliam seu entendimento, assim como u
 		<td align="center" valign=bottom><b><font color="#000000"> </font></b></td>
 		<td align="center" valign=bottom bgcolor="#FF0000"><b><font color="#000000">Alta</font></b></td>
 	</tr>
-  </table>
+</table>
 
 ## Referências
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
