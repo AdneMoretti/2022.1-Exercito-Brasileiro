@@ -23,7 +23,7 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
 	O SAFe consiste em uma framework baseada em processos ágeis, tais como o scrum, que permite escalar práticas ágeis em corporações ou grandes projetos. Tal framework propõe um mecanismo definindo diferentes níveis de times cuja dinâmica varia considerando a importância da prioridade e a previsão de entrega. Sendo assim, o backlog do produto é um dos artefatos de máxima importância dentro dessa framework, visto que é a partir dele que outras atividades, de menor granularidade, são derivadas e priorizadas.
 </div>
 	
-### Metodologia
+## Metodologia
 	
 <div align="justify">&emsp;&emsp; A tabela a seguir expressa o backlog do aplicativo Exército Brasileiro. Observe que tal artefato leva em consideração histórias dos
 usuários com eventuais comentários que auxiliam seu entendimento, assim como um identificador único denominado ID, o tipo do requisito modelado e sua prioridade.
