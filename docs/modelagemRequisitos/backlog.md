@@ -13,7 +13,8 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
 ## Scrum
 	
 <div align="justify">&emsp;&emsp; O Scrum consiste em um método de desenvolvimento ágil de software cujos princípios são consistentes com o manifesto ágil e são usados para orientar as atividades de desenvolvimento dentro de um processo que incorpora as seguintes atividades estruturais: requisitos, análise, projeto, evolução e entrega. Sendo assim, Em cada atividade metodológica, ocorrem tarefas a realizar dentro de um padrão de processo chamado sprint. Somado a isso, o trabalho realizado dentro de um sprint, além de ser definido pela equipe Scrum, é adaptado ao problema em questão. É nesse contexto que, o product backlog, consiste em um dos principais artefatos ligados a metodogia scrum. A figura 1 a seguir, retirada do livro Engenharia de Software de Pressman, explica com mais detalhes o fluxo geral do processo Scrum.
-
+</div>
+	
 ![image](https://user-images.githubusercontent.com/72039007/181885570-f9ecd2f3-d3f6-45c9-85ca-fd01edbf5ad1.png)
 <p>figura 1: fluxo do processo Scrum - Cap. 3 Desenvolvimento Ágil - Engenharia de Software, Pressman - Página 96<p/>
 
