@@ -9,6 +9,17 @@ Além disso, vale ressaltar que este artefato é um documento dinâmico, visto q
 mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente.
 </div>
 
+## Scrum
+<div align="justify">&emsp;&emsp; O Scrum consiste em um método de desenvolvimento ágil de software cujos princípios são consistentes com o manifesto ágil e são usados para orientar as atividades de desenvolvimento dentro de um processo que incorpora as seguintes atividades estruturais: requisitos, análise, projeto, evolução e entrega. Sendo assim, Em cada atividade metodológica, ocorrem tarefas a realizar dentro de um padrão de processo chamado sprint. Somado a isso, o trabalho realizado dentro de um sprint, além de ser definido pela equipe Scrum, é adaptado ao problema em questão. É nesse contexto que, o product backlog, consiste em um dos principais artefatos ligados a metodogia scrum. A figura 1 a seguir, retirada do livro Engenharia de Software de Pressman, explica com mais detalhes o fluxo geral do processo Scrum.
+
+![image](https://user-images.githubusercontent.com/72039007/181885570-f9ecd2f3-d3f6-45c9-85ca-fd01edbf5ad1.png)
+<p>figura 1: fluxo do processo Scrum - Cap. 3 Desenvolvimento Ágil - Engenharia de Software Pressman - Página 96<p/>
+
+## SAFe (Scaled Agile Framework)
+<div align="justify">&emsp;&emsp;
+	O SAFe consiste em uma framework baseada em processos ágeis, tais como o scrum, que permite escalar práticas ágeis em corporações ou grandes projetos. Tal framework propõe um mecanismo definindo diferentes níveis de times cuja dinâmica varia considerando a importância da prioridade e a previsão de entrega. Sendo assim, o backlog do produto é um dos artefatos de máxima importância dentro dessa framework, visto que é a partir dele que outras atividades, de menor granularidade, são derivadas e priorizadas.
+</div>
+	
 ### Metodologia
 <div align="justify">&emsp;&emsp; A tabela a seguir expressa o backlog do aplicativo Exército Brasileiro. Observe que tal artefato leva em consideração histórias dos
 usuários com eventuais comentários que auxiliam seu entendimento, assim como um identificador único denominado ID, o tipo do requisito modelado e sua prioridade.
