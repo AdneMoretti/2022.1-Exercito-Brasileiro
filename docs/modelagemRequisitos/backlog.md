@@ -30,7 +30,7 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
 <div align="justify">&emsp;&emsp; 
 	A tabela a seguir expressa o backlog do aplicativo Exército Brasileiro. Observe que tal artefato leva em consideração histórias dos usuários com eventuais comentários que auxiliam seu entendimento, assim como um identificador único denominado ID, o tipo do requisito modelado e sua prioridade.
 </div>
-
+<br>
 <table cellspacing="0" border="0" class="table table-striped table-bordered table-responsive-sm" style="font-size: 10px;">
 	<colgroup width="24"></colgroup>
 	<colgroup width="95"></colgroup>
@@ -238,6 +238,7 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
 		<td align="center" valign=bottom bgcolor="#FF0000"><b><font color="#000000">Alta</font></b></td>
 	</tr>
 </table>
+<p align="center">Tabela: Product Backlog - Exército Brasileiro<p/>
 
 ## Referências
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
