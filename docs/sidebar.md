@@ -27,6 +27,9 @@
 - [Cenários](/modelagemRequisitos/cenarios.md)
 - [Léxicos](/modelagemRequisitos/lexicos.md)
 - [Especificação suplementar](/modelagemRequisitos/especificacao_suplementar.md)
+- [NFR framework](/modelagemRequisitos/NFR.md)
+- [Istar](/modelagemRequisitos/Istar.md)
+- [Backlog do produto](/modelagemRequisitos/backlog.md)
 
 - Apresentações
 
