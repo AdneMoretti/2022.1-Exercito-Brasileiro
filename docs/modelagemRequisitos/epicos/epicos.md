@@ -12,7 +12,11 @@ Em uma equipe ágil, as histórias são algo que a equipe pode se comprometer a 
 [Entretenimento](/entretenimento.md)<br>
 [Alistamento](/alistamento.md)<br>
 [Carteira de Identificação Militar](/carteira.md)<br>
-
+  
+  ## Referências
+> - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15;
+> - 
+  
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-------|-----------| ------- |
 | 0.1 | 2/8/2022 | Criação do Documento | Luan Vasco| Gustavo Martins |
