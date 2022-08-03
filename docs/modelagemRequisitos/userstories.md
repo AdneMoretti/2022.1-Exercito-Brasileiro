@@ -10,7 +10,7 @@ Na engenharia de requisitos, as histórias de usuário são descrições curtas 
 Essas são de fundamental importância para um produto de software, pois serve para validar se o sistema realmente atende às necessidades do usuário.
 
 ## Resultados
-Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
+Sendo assim, as histórias de usuários obtidas para o aplicativo do Exército Brasileiro foram:
 
 ## Épico 1 - Notícias
 
