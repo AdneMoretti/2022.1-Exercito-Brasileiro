@@ -3,7 +3,7 @@
 
 ## Resultados
 
-<table cellspacing="" border="0" class="table table-striped table-bordered table-responsive-sm" style="font-size: 14px">
+<table cellspacing="" border="0" class="table table-striped table-bordered table-responsive-sm" style="font-size: 15px">
     <thead>
         <tr>
             <th style="text-align:center">Épico</th>
