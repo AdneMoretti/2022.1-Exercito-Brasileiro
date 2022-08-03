@@ -24,4 +24,14 @@
 **Critérios de aceitação**:
 * Deve ser possível que o usuário selecione o alistamento;
 * O usuário deve conseguir entrar no sistema com os seus dados já cadastrados e visualizar a situação do seu alistamento;
-* 
+
+
+## Referências
+> - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15;
+> - 
+
+### Histórico de versão
+
+| Versão | Data       | Descrição                                 | Autor        | Revisor |
+| ------ | ---------- | ----------------------------------------- | ------------ | -------- |
+| 0.1    | 2/8/2022   | Crição dos épicos                         | Luan Vasco   | Gustavo Martins |
