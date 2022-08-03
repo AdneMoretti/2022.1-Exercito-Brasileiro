@@ -407,7 +407,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo acessar o sistema do exercito responsável pela reserva ativa para que eu possa encontrar um
                 emprego</td>
-		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
+	<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3"><a
