@@ -113,7 +113,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 
 **Descrição:** Eu, como usuário, desejo acessar o facebook oficial do exército brasileira para que eu possa acompanhar as postagens do exército.
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Facebook";
 
 ## US13
 
@@ -122,7 +122,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 **Descrição:** Eu, como usuário, desejo acessar o sistema do exercito responsável pela reserva ativa para que eu possa encontrar um emprego
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Reserva Ativa";
 
 ## US14
 
@@ -131,7 +131,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 **Descrição:** Eu, como usuario, desejo acessar a rádio verde oliva para ouvir músicas e notícias.
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Rádio";
 
 ## US15
 
@@ -140,8 +140,8 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 **Descrição:** Eu, como usuário já alistado, desejo acessar os podcast do exército brasileiro para conhecer figuras importantes e hitórias do exército
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
-
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Podcast";
+* O usuário deve poder escolher o podcast e assisti-lo.
 ## US16
 
 **ID:** US16
@@ -149,7 +149,8 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 **Descrição:** Eu, como usuário já alistado, desejo acessar o sistema do exercito responsável pela Revista Verde Oliva para que eu possa baixar uma edição da Revista Verde Oliva de minha preferência
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* O usuário deve poder selecionar a funcionalidade da revista verde-oliva;
+* O usuário deve ser redirecionado para o sistema de revistas da verde-oliva.
 
 ## US17
 
@@ -158,7 +159,8 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 **Descrição:** Eu, como usuario, desejo acessar o sistema de alistamento do exército brasileiro para que eu possa me alistar.
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* Deve ser possível selecionar a opção "Alistamento";
+* O usuário deve ser redirecionado para o site do gov.br para entrar ou realizar o cadastro.
 
 ## US18
 
@@ -167,7 +169,8 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 **Descrição:** Eu, como usuário já alistado, desejo verificar o status do meu alistamento para que eu possa acompanhar e me apresentar nas datas agendadas
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* Deve ser possível que o usuário selecione o alistamento;
+* O usuário deve conseguir entrar no sistema com os seus dados já cadastrados e visualizar a situação do seu alistamento;
 
 ## US19
 
@@ -176,7 +179,8 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 **Descrição:** Eu, como usuário, desejo me autenticar no sistema com minha identidade militar e a minha senha.
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* Deve ser possível selecionar a funcionalidade "CIM";
+* Deve ser possível entrar na conta com o número de identificação e senha;
 
 ## US20
 
@@ -185,7 +189,8 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 **Descrição:** Eu, como usuário, desejo recuperar a minha senha esquecida para que eu possa acessar minha identificação.
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* Ser possível selecionar a funcionalidade "CIM";
+* Ser possível modificar a senha caso o usuário tenha esquecido;
 
 ## US21
 
