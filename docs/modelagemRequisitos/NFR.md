@@ -84,7 +84,23 @@ Importante para apoiar ou negar justificativas específicas do projeto.
 É um tipo especial de decomposição, que pode ser aplicada em qualquer tipo de softgoal.
 Refina um softgoal em outro com o mesmo tipo e tópicos, mas com uma prioridade associada.
 
-## Contribuições
+## Interdependências
+
+As interdependências são responsáveis por definir as relações entre os sofgoals e os tipos de interdependências usadas pelo NFR framework são os refinamentos e contribuições.
+
+### Refinamentos
+
+Definem um tipo de interdependência que ocorre de cima para baixo. Os tipos de refinamento são:
+
+- Decomposição de Softgoal NFR: Responsável pelo refinamento ou subdivisão de um softgoal NFR em outros específicos.
+
+- Decomposição de Operacionalização: Responsável por subdividir um softgoal de operacionalização em outros softgoals de operacionalização mais específicos.
+
+- Decomposição de Afirmação (Claims): Faz o refinamento de um softgoal de afirmação em outros softgoals de afirmação.
+
+- Priorização: Onde ocorre o refinamento de um softgoal em outro softgoal com o mesmo tipo de tópicos, mas com uma prioridade associada.
+
+### Contribuições
 
 Conforme os softgoals são refinados sucessivamente, um sofgoal descendente
 pode contribuir de forma total ou parcial, de forma negativa ou posisitca,
@@ -94,11 +110,26 @@ Contribuições descrevem como a satisfação ou não de um softgoal descendente
 contribui para a satisfação de um softgoal ascendente, poden ser positivas ou negativas,
 ou até satisfazendo completamente o ascendente.
 
-## Referências
-<div align="justify">&emsp;&emsp; Os seguintes documentos de Cenarios serviram como referência durante a elaboração desse documento:
-</div><br>
+Tipos de contribuição utilizadas pelo framework:
 
-> BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.<br><br>
+- AND: Determina que se os softgoals descendentes forem satisfeitos os softgoals ascendentes serão satisfeitos.
+- OR: determina que, se algum softgoal descendente for satisfeito, o ascendente será satisfeito.
+- MAKE(++): Fornece uma contribuição suficientemente positiva (MAKE) entre um softgoal descendente e um softgoal ascendente que é concebida no nível mais alto de satisfação
+- BREAK(--): Fornece uma contribuição suficientemente negativa (BREAK) entre um softgoal descendente e um softgoal ascendente que é concebida no nível mais alto de negação.
+- HELP(+): Fornece uma contribuição parcialmente positiva entre um softgoal descendente e um softgoal ascendente.
+- HURT(-): Fornece uma contribuição parcialmente negativa entre um softgoal descendente e um softgoal ascendente.
+- UNKNOWN(?): Fornece uma contribuição desconhecida entre um softgoal descendente e um softgoal ascendente, podendo ser tanto positiva quanto negativa.
+- EQUALS: Determina que o softgoal descendente só será satisfeito se o softgoal ascendente for satisfeito e que softgoal descendente será negado se o softgoal ascendente for negado.
+- SOME: É utilizada quando o sinal da contribuição é conhecido (positivo ou negativo), mas a extensão (parcial ou total) não é. Nesses casos, quando há alguma incerteza em se utilizar HELP ou MAKE deve-se utilizar o tipo de contribuição SOME +. Da mesma forma quando não há certeza em se utilizar HURT ou BREAK deve-se utilizar SOME - .
+
+### Procedimento de Avaliação
+O procedimento de Avaliação é responsável por dizer o grau que os requisitos não funcionais são satisfeitos por um conjunto de decisões. Assim, é determinado se cada softgoal ou interdependência do SIG foi satisfeito. Para isso, são utilizados rótulos para os softgoals, que são nomeados como satisfeito, fracamente satisfeito, negado, fracamente negado, conflitante e indeterminado.
+
+![rotulos_softgoals](https://user-images.githubusercontent.com/56610229/182727377-db2f3c30-6c9e-413b-bfd6-16c061b51046.png)
+
+## Referências
+
+> Reinaldo Antônio da Silva. "NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados". Universidade Federal de Pernambuco, 2019.<br><br>
 
 ## Histórico de Versão
 
