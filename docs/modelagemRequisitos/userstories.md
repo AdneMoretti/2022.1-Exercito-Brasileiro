@@ -5,7 +5,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 
 ## US01
 
-**ID:** US01
+**ID:**US01
 
 **Descrição:** Eu, como um novo usuário do sistema, desejo ler notícias sobre o exército brasilileiro para que eu possa obter informações mais atuais.
 
@@ -16,7 +16,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 
 ## US02
 
-**ID:** US02
+**ID:**US02
 
 **Descrição:** Eu, como um usuário do sistema, desejo acessar o blog oficial do exército brasileiro para acompanhar as notícias sobre o exército brasileiro.
 
@@ -26,7 +26,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 
 ## US03
 
-**ID:** US03
+**ID:**US03
 
 **Descrição:** Eu, como um usuário do sistema, desejo acessar informações sobre os concursos abertos para que eu possa saber qual concurso quero me inscrever.
 
@@ -38,7 +38,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 
 ## US04
 
-**ID:** US04
+**ID:**US04
 
 **Descrição:** Eu, como um usuário do sistema, desejo acessar links de inscrição dos concursos abertos para que eu possa me inscrever
 
@@ -49,7 +49,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 
 ## US06
 
-**ID:** US06
+**ID:**US06
 
 **Descrição:** Eu, como um usuário do sistema, desejo obter informações sobre os uniformes disponíveis pelo exército brasileiro para que eu possa escolher um para comprar.
 
@@ -58,7 +58,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 
 ## US07
 
-**ID:** US07
+**ID:**US07
 
 **Descrição:** Eu, como um usuário do sistema, desejo obter informações sobre os diferentes hotéis de trânsito disponíveis pelo exército brasileiro decidir qual hotel irei me hospedar.
 
@@ -69,7 +69,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 
 ## US08
 
-**ID:** US08
+**ID:**US08
 
 **Descrição:** Eu, como usuário, desejo entrar em contato com o com a MAX, inteligência artificial do exército brasileiro, para resolver algum problema ou tirar uma dúvida.
 
@@ -79,7 +79,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 
 ## US09
 
-**ID:** US09
+**ID:**US09
 
 **Descrição:** Eu, como usuário, desejo entrar em contato com o exército brasileiro pelo email, para resolver algum problema ou tirar uma dúvida
 
@@ -144,7 +144,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 * O usuário deve poder escolher o podcast e assisti-lo.
 ## US16
 
-**ID:** US16
+**ID:**US16
 
 **Descrição:** Eu, como usuário já alistado, desejo acessar o sistema do exercito responsável pela Revista Verde Oliva para que eu possa baixar uma edição da Revista Verde Oliva de minha preferência
 
