@@ -332,7 +332,7 @@ A seguir, encontra-se a tabela em questão:
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
                 Uniformes</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">[/modelagemRequisitos/userstories?id=us06/](US06)"</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">[/modelagemRequisitos/userstories?id=us06/](US06)</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo obter informações sobre os uniformes disponíveis pelo exército brasileiro
                 para que eu possa escolher um para comprar</td>
