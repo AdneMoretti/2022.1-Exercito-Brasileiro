@@ -13,7 +13,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US01
 
-**ID:**US01
+**ID:** US01
 
 **Descrição:** Eu, como um novo usuário do sistema, desejo ler notícias sobre o exército brasilileiro para que eu possa obter informações mais atuais.
 
@@ -24,7 +24,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US02
 
-**ID:**US02
+**ID:** US02
 
 **Descrição:** Eu, como um usuário do sistema, desejo acessar o blog oficial do exército brasileiro para acompanhar as notícias sobre o exército brasileiro.
 
@@ -34,7 +34,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US03
 
-**ID:**US03
+**ID:** US03
 
 **Descrição:** Eu, como um usuário do sistema, desejo acessar informações sobre os concursos abertos para que eu possa saber qual concurso quero me inscrever.
 
@@ -46,7 +46,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US04
 
-**ID:**US04
+**ID:** US04
 
 **Descrição:** Eu, como um usuário do sistema, desejo acessar links de inscrição dos concursos abertos para que eu possa me inscrever
 
@@ -57,7 +57,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US06
 
-**ID:**US06
+**ID:** US06
 
 **Descrição:** Eu, como um usuário do sistema, desejo obter informações sobre os uniformes disponíveis pelo exército brasileiro para que eu possa escolher um para comprar.
 
@@ -66,7 +66,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US07
 
-**ID:**US07
+**ID:** US07
 
 **Descrição:** Eu, como um usuário do sistema, desejo obter informações sobre os diferentes hotéis de trânsito disponíveis pelo exército brasileiro decidir qual hotel irei me hospedar.
 
@@ -77,7 +77,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US08
 
-**ID:**US08
+**ID:** US08
 
 **Descrição:** Eu, como usuário, desejo entrar em contato com o com a MAX, inteligência artificial do exército brasileiro, para resolver algum problema ou tirar uma dúvida.
 
@@ -87,7 +87,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US09
 
-**ID:**US09
+**ID:** US09
 
 **Descrição:** Eu, como usuário, desejo entrar em contato com o exército brasileiro pelo email, para resolver algum problema ou tirar uma dúvida
 
@@ -97,7 +97,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US10
 
-**ID:** US10
+**ID:**  US10
 
 **Descrição:** Eu, como usuário, desejo obter informações sobre o aplicativo para que eu possa aprender como utiliza-lo.
 
@@ -107,7 +107,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US11
 
-**ID:** US11
+**ID:**  US11
 
 **Descrição:** Eu, como usuário, desejo acessar o youtube oficial do exército brasileiro para que eu possa assistir vídeos online do exército brasileiro
 
@@ -117,7 +117,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US12
 
-**ID:** US12
+**ID:**  US12
 
 **Descrição:** Eu, como usuário, desejo acessar o facebook oficial do exército brasileira para que eu possa acompanhar as postagens do exército.
 **Critérios de aceitação**:
@@ -125,7 +125,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US13
 
-**ID:** US13
+**ID:**  US13
 
 **Descrição:** Eu, como usuário, desejo acessar o sistema do exercito responsável pela reserva ativa para que eu possa encontrar um emprego
 
@@ -134,7 +134,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US14
 
-**ID:** US14
+**ID:**  US14
 
 **Descrição:** Eu, como usuario, desejo acessar a rádio verde oliva para ouvir músicas e notícias.
 
@@ -143,7 +143,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US15
 
-**ID:** US15
+**ID:**  US15
 
 **Descrição:** Eu, como usuário já alistado, desejo acessar os podcast do exército brasileiro para conhecer figuras importantes e hitórias do exército
 
@@ -153,7 +153,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 ## US16
 
-**ID:**US16
+**ID:** US16
 
 **Descrição:** Eu, como usuário já alistado, desejo acessar o sistema do exercito responsável pela Revista Verde Oliva para que eu possa baixar uma edição da Revista Verde Oliva de minha preferência
 
@@ -225,13 +225,13 @@ Essas são de fundamental importância para um produto de software, pois serve p
 **Descrição:** Eu, como usuário, desejo acessar o conteúdo do aplitivo a qualquer momento do dia para que eu possa atender meu objetivo quando eu achar necessário.
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* O usuário deve poder selecionar acessar o aplicativo em qualquer momento, caso não seja possível, o sistema tem um tempo de intervalo de falha de no máximo 12 horas;
 
 ## US24
 
 **ID:** US24
 
-**Descrição:** Eu, como usuário, desejo acessar o conteúdo do aplitivo a qualquer momento do dia para que eu possa atender meu objetivo quando eu achar necessário.
+**Descrição:** Eu, como usuário, desejo acessar as informações sobre o exército brasileiro em um único lugar me atualizar sobre o exército brasileiro de uma maneira mais prática.
 
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e clicar no botão sanduíche, no canto superior esquerdo, para acessar todas as funcionalidades do exército;
