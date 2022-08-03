@@ -60,7 +60,7 @@ As funcionalidades do sistema estão descritas nos casos de uso desenvolvidos e 
 Ao acessar o aplicativo Exército Brasileiro, o sistema deve apresentar uma interface intuitiva e de fácil entendimento, não sendo necessário um tutorial para primeiro uso. Para o acesso de todas as funcionalidades do sistema, basta um botão do lado esquerdo da tela inicial que, ao ser clicado, apresente todas as possíveis funcionalidades do Exército Brasileiro em um menu iterativo.
 
 ### Facilidade de memorização
-O aplicativo deve apresentar elementos simples e padronizados, para facilitar a memorização e distinção por parte do usuário, para que, mesmo após um tempo sem utilizá-lo, este se recorde das funcionalidades e caminhos dos mesmos.
+O aplicativo deve apresentar elementos simples e padronizados, para facilitar a memorização e distinção por parte do usuário, para que, mesmo após 3 meses sem utilizá-lo, este se recorde das funcionalidades e caminhos dos mesmos.
 
 ### Segurança
 O aplicativo deve evitar que o usuário cometa erros, sendo assim, quando o usuário clicar em qualquer botão ou funcionalidade existente, o aplicativo deve dar a possibilidade de voltar para a tela anterior ou cancelar o processo em questão, transmitindo segurança ao usuário.
