@@ -1,6 +1,14 @@
 ## Histórias de usuário
 ## Introdução
-Esse documento visa apresentar as histórias de usuário definidas para o projeto, apresentando assim os seus critérios de avaliação.
+Esse documento visa conceituar as histórias de usuário e a sua importância e apresentar as histórias de usuário definidas para o projeto, apresentando assim os seus critérios o ID, a qual feature pertence e os sus critérios de avaliação.
+
+Na engenharia de requisitos, as histórias de usuário são descrições curtas sobre o que um usuário gostaria de fazer dentro do software para que ele consiga obter algo valioso para ele. As histórias de usuário normalmente são escritas da seguinte forma:
+- Eu, como usuário [tipo de usuário]
+- desejo [ação ou tarefa] 
+- para que eu possa [benefício]
+
+Essas são de fundamental importância para um produto de software, pois serve para validar se o sistema realmente atende às necessidades do usuário.
+
 ## Resultados
 
 ## US01
