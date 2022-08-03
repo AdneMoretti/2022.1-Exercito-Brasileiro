@@ -285,6 +285,7 @@ A seguir, encontra-se a tabela em questão:
                 usuário do sistema, desejo ler notícias sobre o exército brasilileiro para que eu possa obter
                 informações mais atuais.</td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
+	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Blog
@@ -295,6 +296,7 @@ A seguir, encontra-se a tabela em questão:
                 usuário do sistema, desejo acessar o blog oficial do exército brasileiro para acompanhar as notícias
                 sobre o exército brasileiro</td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="11"><a
@@ -307,6 +309,7 @@ A seguir, encontra-se a tabela em questão:
                 usuário do sistema, desejo acessar informações sobre os concursos abertos para que eu possa saber qual
                 concurso quero me inscrever.</td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
@@ -315,6 +318,7 @@ A seguir, encontra-se a tabela em questão:
                 usuário do sistema, desejo acessar links de inscrição dos concursos abertos para que eu possa me
                 inscrever</td>
 		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
@@ -323,6 +327,7 @@ A seguir, encontra-se a tabela em questão:
                 desejo obter informações sobre resultados dos processos seletivos do exército brasileiro para verificar
                 se eu passei no concurso o qual me inscrevi.</td>
 		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
@@ -333,6 +338,7 @@ A seguir, encontra-se a tabela em questão:
                 usuário do sistema, desejo obter informações sobre os uniformes disponíveis pelo exército brasileiro
                 para que eu possa escolher um para comprar</td>
 	   <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Hotéis
@@ -343,6 +349,7 @@ A seguir, encontra-se a tabela em questão:
                 usuário do sistema, desejo obter informações sobre os diferentes hotéis de trânsito disponíveis pelo
                 exército brasileiro decidir qual hotel irei me hospedar</td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Could</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">
@@ -353,6 +360,7 @@ A seguir, encontra-se a tabela em questão:
                 desejo entrar em contato com o com a MAX, inteligência artificial do exército brasileiro, para resolver
                 algum problema ou tirar uma dúvida </td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
+	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
@@ -361,6 +369,7 @@ A seguir, encontra-se a tabela em questão:
                 desejo entrar em contato com o com o exército brasileiro pelo email, para resolver algum problema ou
                 tirar uma dúvida </td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
@@ -368,6 +377,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo obter informações sobre o aplicativo para que eu possa aprender como utiliza-lo.</td>
 	     <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
+	     <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">
@@ -378,6 +388,7 @@ A seguir, encontra-se a tabela em questão:
                 desejo acessar o youtube oficial do exército brasileiro para que eu possa assistir vídeos online do
                 exército brasileiro </td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Could</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
@@ -386,6 +397,7 @@ A seguir, encontra-se a tabela em questão:
                 desejo acessar o facebook oficial do exército brasileira para que eu possa acompanhar as postagens do
                 exército.</td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Could</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
@@ -395,6 +407,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo acessar o sistema do exercito responsável pela reserva ativa para que eu possa encontrar um
                 emprego</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3"><a
@@ -406,6 +419,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuario,
                 desejo acessar a rádio verde oliva para ouvir músicas e notícias.</td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Could</td>
+	   <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
@@ -416,6 +430,7 @@ A seguir, encontra-se a tabela em questão:
                 ,desejo acessar os podcast do exército brasileiro para conhecer figuras importantes e
                 hitórias do exército</td>
 	   <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Could</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
@@ -426,6 +441,7 @@ A seguir, encontra-se a tabela em questão:
                desejo acessar o sistema do exercito responsável pela Revista Verde Oliva para que eu possa
                 baixar uma edição da Revista Verde Oliva de minha preferência</td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Could</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2"><a
@@ -437,6 +453,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuario,
                 desejo acessar o sistema de alistamento do exército brasileiro para que eu possa me alistar.</td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Status
@@ -447,6 +464,7 @@ A seguir, encontra-se a tabela em questão:
                 já alistado, desejo verificar o status do meu alistamento para que eu possa acompanhar e me apresentar
                 nas datas agendadas </td>
 		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3"><a
@@ -458,12 +476,14 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo me autenticar no sistema com minha identidade militar e a minha senha</td>
 		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
                     href="../User-Stories/US09/">US20</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo recuperar a minha senha esquecida para que eu possa acessar minha identificação</td>
 		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
@@ -474,6 +494,7 @@ A seguir, encontra-se a tabela em questão:
                 usuário do sistema, desejo acessar o sistema de carteira de identificação para que eu possa pedir a
                 minha segunda via</td>
 	   <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5"><a
@@ -486,6 +507,7 @@ A seguir, encontra-se a tabela em questão:
                 desejo aque o aplicativo permitisse o acesso às informações sem a necessidade de internet para que eu
                 possa obter informações sobre o exército brasileiro sem a disponibilidade de internet </td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Could</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Não funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
@@ -494,6 +516,7 @@ A seguir, encontra-se a tabela em questão:
                 desejo acessar o conteúdo do aplitivo a qualquer momento do dia para que eu possa atender meu objetivo
                 quando eu achar necessário.</td>
 	   <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Não funcional</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
@@ -502,6 +525,7 @@ A seguir, encontra-se a tabela em questão:
                 desejo acessar as informações sobre o exército brasileiro em um único lugar me atualizar sobre o
                 exército brasileiro de uma maneira mais prática.</td>
 	<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Não funcional</td>
         </tr>
     </tbody>
 </table>
