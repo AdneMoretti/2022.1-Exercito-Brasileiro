@@ -291,7 +291,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Blog
             </td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="./#/modelagemRequisitos/userstories?id=us02/">US02</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us02">US02</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo acessar o blog oficial do exército brasileiro para acompanhar as notícias
                 sobre o exército brasileiro</td>
@@ -304,7 +304,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">
                 Concursos</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="./#/modelagemRequisitos/userstories?id=us03/">US03</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us03">US03</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo acessar informações sobre os concursos abertos para que eu possa saber qual
                 concurso quero me inscrever.</td>
@@ -313,7 +313,7 @@ A seguir, encontra-se a tabela em questão:
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="./#/modelagemRequisitos/userstories?id=us04/">US04</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us04">US04</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo acessar links de inscrição dos concursos abertos para que eu possa me
                 inscrever</td>
@@ -322,7 +322,7 @@ A seguir, encontra-se a tabela em questão:
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="./#/modelagemRequisitos/userstories?id=us05/">US05</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us05">US05</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo obter informações sobre resultados dos processos seletivos do exército brasileiro para verificar
                 se eu passei no concurso o qual me inscrevi.</td>
@@ -344,7 +344,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Hotéis
             </td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="./userstories?id=us07/">US07</a></td>
+                    href"./#/modelagemRequisitos/userstories?id=us07">US07</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo obter informações sobre os diferentes hotéis de trânsito disponíveis pelo
                 exército brasileiro decidir qual hotel irei me hospedar</td>
@@ -355,7 +355,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">
                 Orientações/Atendimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="./User_stories?id=us08/">US08</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us08">US08</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo entrar em contato com o com a MAX, inteligência artificial do exército brasileiro, para resolver
                 algum problema ou tirar uma dúvida </td>
@@ -364,7 +364,7 @@ A seguir, encontra-se a tabela em questão:
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User_stories?id=us09/">US09</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us09">US09</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo entrar em contato com o com o exército brasileiro pelo email, para resolver algum problema ou
                 tirar uma dúvida </td>
@@ -373,7 +373,7 @@ A seguir, encontra-se a tabela em questão:
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User_stories?id=us10/">US10</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us10">US10</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo obter informações sobre o aplicativo para que eu possa aprender como utiliza-lo.</td>
 	     <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
@@ -383,7 +383,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">
                 Postagens</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="./User_stories?id=us11/">US11</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us11">US11</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo acessar o youtube oficial do exército brasileiro para que eu possa assistir vídeos online do
                 exército brasileiro </td>
@@ -392,7 +392,7 @@ A seguir, encontra-se a tabela em questão:
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="./User_stories?id=us12/">US12</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us12">US12</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo acessar o facebook oficial do exército brasileira para que eu possa acompanhar as postagens do
                 exército.</td>
@@ -403,7 +403,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
                 Reserva Ativa</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User_stories?id=us13/">US13</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us13">US13</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo acessar o sistema do exercito responsável pela reserva ativa para que eu possa encontrar um
                 emprego</td>
@@ -416,7 +416,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Rádio
             </td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US05/">US14</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us14">US14</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuario,
                 desejo acessar a rádio verde oliva para ouvir músicas e notícias.</td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Could</td>
@@ -426,7 +426,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
                 Podcast</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US06/">US15</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us15">US15</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário
                 ,desejo acessar os podcast do exército brasileiro para conhecer figuras importantes e
                 hitórias do exército</td>
@@ -437,7 +437,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
                 Revista</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US06/">US16</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us16">US16</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                desejo acessar o sistema do exercito responsável pela Revista Verde Oliva para que eu possa
                 baixar uma edição da Revista Verde Oliva de minha preferência</td>
@@ -450,7 +450,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
                 Realizar alistamento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US05/">US17</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us17">US17</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuario,
                 desejo acessar o sistema de alistamento do exército brasileiro para que eu possa me alistar.</td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
@@ -460,7 +460,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Status
             </td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US06/">US18</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us18">US18</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário
                 já alistado, desejo verificar o status do meu alistamento para que eu possa acompanhar e me apresentar
                 nas datas agendadas </td>
@@ -473,14 +473,14 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">
                 Autenticar</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US08/">US19</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us19">US19</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo me autenticar no sistema com minha identidade militar e a minha senha</td>
 		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
 		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US09/">US20</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us20">US20</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo recuperar a minha senha esquecida para que eu possa acessar minha identificação</td>
 		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
@@ -490,7 +490,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
                 Acessar</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US10/">US21</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us21">US21</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo acessar o sistema de carteira de identificação para que eu possa pedir a
                 minha segunda via</td>
@@ -503,7 +503,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5">
                 Postagens</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US11/">US22</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us22">US22</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo aque o aplicativo permitisse o acesso às informações sem a necessidade de internet para que eu
                 possa obter informações sobre o exército brasileiro sem a disponibilidade de internet </td>
@@ -512,7 +512,7 @@ A seguir, encontra-se a tabela em questão:
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US11/">US23</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us23">US23</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo acessar o conteúdo do aplitivo a qualquer momento do dia para que eu possa atender meu objetivo
                 quando eu achar necessário.</td>
@@ -521,7 +521,7 @@ A seguir, encontra-se a tabela em questão:
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US11/">US24</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us24">US24</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo acessar as informações sobre o exército brasileiro em um único lugar me atualizar sobre o
                 exército brasileiro de uma maneira mais prática.</td>
