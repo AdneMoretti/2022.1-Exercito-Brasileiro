@@ -278,7 +278,7 @@ A seguir, encontra-se a tabela em questão:
                     href="">Épico 01 - Notícias </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Notíciário</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="/#/modelagemRequisitos/userstories?id=us01">US01</a></td>
+                    href="/#/modelagemRequisitos/userstories?id=us01/">US01</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um novo
                 usuário do sistema, desejo ler notícias sobre o exército brasilileiro para que eu possa obter
                 informações mais atuais.</td>
@@ -287,7 +287,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Blog
             </td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="./#/modelagemRequisitos/userstories?id=us02">US02</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us02/">US02</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo acessar o blog oficial do exército brasileiro para acompanhar as notícias
                 sobre o exército brasileiro</td>
@@ -298,7 +298,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">
                 Concursos</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="./#/modelagemRequisitos/userstories?id=us03">US03</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us03/">US03</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo acessar informações sobre os concursos abertos para que eu possa saber qual
                 concurso quero me inscrever.</td>
