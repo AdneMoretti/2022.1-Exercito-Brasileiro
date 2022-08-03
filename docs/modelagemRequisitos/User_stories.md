@@ -3,7 +3,7 @@
 Esse documento visa apresentar as histórias de usuário definidas para o projeto, apresentando assim os seus critérios de avaliação.
 ## Resultados
 
-#### US01
+## US01
 
 **ID:** US01
 
@@ -14,7 +14,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 * Dentre os noticiários, o usuário deve selecionar qual deseja ler;
 
 
-#### US02
+## US02
 
 **ID:** US02
 
@@ -24,7 +24,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Eblog";
 * Dentre as postagens, o usuário deve selecionar qual deseja ler;
 
-#### US03
+## US03
 
 **ID:** US03
 
@@ -36,7 +36,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 
 
 
-#### US04
+## US04
 
 **ID:** US04
 
@@ -47,69 +47,177 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 * Dentre os concursos, selecionar qual deseja visualizar informações;
 * O usuário deve clicar nos links disponibilizados;
 
-#### US06
+## US06
 
 **ID:** US06
 
 **Descrição:** Eu, como um usuário do sistema, desejo obter informações sobre os uniformes disponíveis pelo exército brasileiro para que eu possa escolher um para comprar.
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* O usuário e selecionar a funcionalidade "Uniformes" e visualizar todos os uniformes disponíveis;
 
-#### US07
+## US07
 
 **ID:** US07
 
 **Descrição:** Eu, como um usuário do sistema, desejo obter informações sobre os diferentes hotéis de trânsito disponíveis pelo exército brasileiro decidir qual hotel irei me hospedar.
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* O usuário deve poder selecionar a funcionalidade "Hotéis" e selecionar o estado desejado;
+* O usuário deve poder selecionar o estado que deseja visualizar o hotel;
+* O usuário deve poder escolher um dos hotéis disponíveis e ser redirecionado para sua localização no google maps.
 
-#### US08
+## US08
 
 **ID:** US08
 
 **Descrição:** Eu, como usuário, desejo entrar em contato com o com a MAX, inteligência artificial do exército brasileiro, para resolver algum problema ou tirar uma dúvida.
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Fale conosco";
+* O usuário deve poder clicar no bootão "Fale com o Max" e ser redirecionado para o aplicativo Messenger;
 
-
-#### US09
+## US09
 
 **ID:** US09
 
-**Descrição:** Eu, como usuário, desejo entrar em contato com o com a MAX, inteligência artificial do exército brasileiro, para resolver algum problema ou tirar uma dúvida.
+**Descrição:** Eu, como usuário, desejo entrar em contato com o exército brasileiro pelo email, para resolver algum problema ou tirar uma dúvida
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Fale Conosco";
 
 
-#### US10
+## US10
 
 **ID:** US10
 
-**Descrição:** Eu, como usuário, desejo entrar em contato com o com a MAX, inteligência artificial do exército brasileiro, para resolver algum problema ou tirar uma dúvida.
+**Descrição:** Eu, como usuário, desejo obter informações sobre o aplicativo para que eu possa aprender como utiliza-lo.
 
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
 
 
-#### US08
+## US11
 
-**ID:** US08
+**ID:** US11
 
-**Descrição:** Eu, como usuário, desejo entrar em contato com o com a MAX, inteligência artificial do exército brasileiro, para resolver algum problema ou tirar uma dúvida.
+**Descrição:** Eu, como usuário, desejo acessar o youtube oficial do exército brasileiro para que eu possa assistir vídeos online do exército brasileiro
+
+**Critérios de aceitação**:
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+
+
+## US12
+
+**ID:** US12
+
+**Descrição:** Eu, como usuário, desejo acessar o facebook oficial do exército brasileira para que eu possa acompanhar as postagens do exército.
+**Critérios de aceitação**:
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+
+## US13
+
+**ID:** US13
+
+**Descrição:** Eu, como usuário, desejo acessar o sistema do exercito responsável pela reserva ativa para que eu possa encontrar um emprego
 
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
 
+## US14
 
-#### US08
+**ID:** US14
 
-**ID:** US08
-
-**Descrição:** Eu, como usuário, desejo entrar em contato com o com a MAX, inteligência artificial do exército brasileiro, para resolver algum problema ou tirar uma dúvida.
+**Descrição:** Eu, como usuario, desejo acessar a rádio verde oliva para ouvir músicas e notícias.
 
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+
+## US15
+
+**ID:** US15
+
+**Descrição:** Eu, como usuário já alistado, desejo acessar os podcast do exército brasileiro para conhecer figuras importantes e hitórias do exército
+
+**Critérios de aceitação**:
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+
+## US16
+
+**ID:** US16
+
+**Descrição:** Eu, como usuário já alistado, desejo acessar o sistema do exercito responsável pela Revista Verde Oliva para que eu possa baixar uma edição da Revista Verde Oliva de minha preferência
+
+**Critérios de aceitação**:
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+
+## US17
+
+**ID:** US17
+
+**Descrição:** Eu, como usuario, desejo acessar o sistema de alistamento do exército brasileiro para que eu possa me alistar.
+
+**Critérios de aceitação**:
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+
+## US18
+
+**ID:** US18
+
+**Descrição:** Eu, como usuário já alistado, desejo verificar o status do meu alistamento para que eu possa acompanhar e me apresentar nas datas agendadas
+
+**Critérios de aceitação**:
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+
+## US19
+
+**ID:** US19
+
+**Descrição:** Eu, como usuário, desejo me autenticar no sistema com minha identidade militar e a minha senha.
+
+**Critérios de aceitação**:
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+
+## US20
+
+**ID:** US20
+
+**Descrição:** Eu, como usuário, desejo recuperar a minha senha esquecida para que eu possa acessar minha identificação.
+
+**Critérios de aceitação**:
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+
+## US21
+
+**ID:** US21
+
+**Descrição:** Eu, como um usuário do sistema, desejo acessar o sistema de carteira de identificação para que eu possa pedir a minha segunda via
+
+**Critérios de aceitação**:
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+
+## US22
+
+**ID:** US22
+
+**Descrição:** Eu, como usuário, desejo aque o aplicativo permita o acesso às informações sem a necessidade de internet para que eu possa obter informações sobre o exército brasileiro sem a disponibilidade de internet
+**Critérios de aceitação**:
+* O usuário deve poder selecionar a funcionalidade "Uniformes" e visualizar todos os uniformes;
+
+## US23
+
+**ID:** US23
+
+**Descrição:** Eu, como usuário, desejo acessar o conteúdo do aplitivo a qualquer momento do dia para que eu possa atender meu objetivo quando eu achar necessário.
+
+**Critérios de aceitação**:
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+
+## US24
+
+**ID:** US24
+
+**Descrição:** Eu, como usuário, desejo acessar o conteúdo do aplitivo a qualquer momento do dia para que eu possa atender meu objetivo quando eu achar necessário.
+
+**Critérios de aceitação**:
+* O usuário deve poder entrar no aplicativo do exército brasileiro e clicar no botão sanduíche, no canto superior esquerdo, para acessar todas as funcionalidades do exército;
