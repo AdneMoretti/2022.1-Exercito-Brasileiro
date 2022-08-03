@@ -25,3 +25,12 @@
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Eblog";
 * Dentre as postagens, o usuário deve selecionar qual deseja ler;
 
+## Referências
+> - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15;
+> - 
+
+### Histórico de versão
+
+| Versão | Data       | Descrição                                 | Autor        | Revisor |
+| ------ | ---------- | ----------------------------------------- | ------------ | -------- |
+| 0.1    | 2/8/2022   | Crição dos épicos                         | Luan Vasco   | Gustavo Martins |
