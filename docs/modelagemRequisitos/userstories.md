@@ -247,3 +247,13 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e clicar no botão sanduíche, no canto superior esquerdo, para acessar todas as funcionalidades do exército;
+
+## Referências
+> - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15;
+> - https://www.digite.com/pt-br/agile/historias-de-usuarios/
+
+### Histórico de versão
+
+| Versão | Data       | Descrição                                 | Autor        | Revisor |
+| ------ | ---------- | ----------------------------------------- | ------------ | -------- |
+| 0.1    | 24/07/2022 | Criação do documento                      | Adne Moretti | Gabriel Moretti
