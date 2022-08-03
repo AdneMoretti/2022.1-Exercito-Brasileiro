@@ -253,10 +253,10 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
     <tbody>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2"><a
-                    href="./User_stories?id=us01">Épico 01 - Notícias </a></td>
+                    href="">Épico 01 - Notícias </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Notíciário</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US01/">US01</a></td>
+                    href="./userstories?id=us01">US01</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um novo
                 usuário do sistema, desejo ler notícias sobre o exército brasilileiro para que eu possa obter
                 informações mais atuais.</td>
@@ -265,32 +265,32 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Blog
             </td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US02/">US02</a></td>
+                    href="./userstories?id=us02">US02</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo acessar o blog oficial do exército brasileiro para acompanhar as notícias
                 sobre o exército brasileiro</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="11"><a
-                    href="../Epicos/EP01/">Épico 02 - Informações </a></td>
+                    href="">Épico 02 - Informações </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">
                 Concursos</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US03/">US03</a></td>
+                    href="./userstories?id=us03/">US03</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo acessar informações sobre os concursos abertos para que eu possa saber qual
                 concurso quero me inscrever.</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US04/">US04</a></td>
+                    href="./userstories?id=us04/">US04</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo acessar links de inscrição dos concursos abertos para que eu possa me
                 inscrever</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US11/">US05</a></td>
+                    href="./userstories?id=us05/">US05</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo obter informações sobre resultados dos processos seletivos do exército brasileiro para verificar
                 se eu passei no concurso o qual me inscrevi.</td>
@@ -299,7 +299,7 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
                 Uniformes</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US04/">US06</a></td>
+                    href="./userstories?id=us06/">US06</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo obter informações sobre os uniformes disponíveis pelo exército brasileiro
                 para que eu possa escolher um para comprar</td>
@@ -308,7 +308,7 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Hotéis
             </td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US04/">US07</a></td>
+                    href="./userstories?id=us07/">US07</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo obter informações sobre os diferentes hotéis de trânsito disponíveis pelo
                 exército brasileiro decidir qual hotel irei me hospedar</td>
@@ -317,21 +317,21 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">
                 Orientações/Atendimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US11/">US08</a></td>
+                    href="./User_stories?id=us08/">US08</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo entrar em contato com o com a MAX, inteligência artificial do exército brasileiro, para resolver
                 algum problema ou tirar uma dúvida </td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US11/">US09</a></td>
+                    href="../User_stories?id=us09/">US09</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo entrar em contato com o com o exército brasileiro pelo email, para resolver algum problema ou
                 tirar uma dúvida </td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US11/">US10</a></td>
+                    href="../User_stories?id=us10/">US10</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo obter informações sobre o aplicativo para que eu possa aprender como utiliza-lo.</td>
         </tr>
@@ -339,14 +339,14 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">
                 Postagens</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US11/">US11</a></td>
+                    href="./User_stories?id=us11/">US11</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo acessar o youtube oficial do exército brasileiro para que eu possa assistir vídeos online do
                 exército brasileiro </td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US11/">US12</a></td>
+                    href="./User_stories?id=us12/">US12</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo acessar o facebook oficial do exército brasileira para que eu possa acompanhar as postagens do
                 exército.</td>
@@ -355,7 +355,7 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
                 Reserva Ativa</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="../User-Stories/US11/">US13</a></td>
+                    href="../User_stories?id=us13/">US13</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo acessar o sistema do exercito responsável pela reserva ativa para que eu possa encontrar um
                 emprego</td>
