@@ -38,7 +38,7 @@
 ## Metodologia
 	
 <div align="justify">&emsp;&emsp; 
-	A tabela 1 expressa o backlog do aplicativo Exército Brasileiro. Observe que tal artefato leva em consideração histórias dos usuários com eventuais comentários que auxiliam seu entendimento, assim como um identificador único denominado ID, o tipo do requisito modelado e sua prioridade.
+	A tabela 1 expressa a primeira versão do backlog do aplicativo Exército Brasileiro. Observe que tal artefato leva em consideração histórias dos usuários com eventuais comentários que auxiliam seu entendimento, assim como um identificador único denominado ID, o tipo do requisito modelado e sua prioridade.
         <br>&emsp;&emsp;
         Para realizar a confecção dessa tabela, foi utilizado o método da entrevista, levando em conta a <b>Persona 1</b> criada nesse mesmo projeto. Podemos encontrar o vídeo dessa entrevista a seguir, juntamente com um arquivo que representa a transcrição dessa entrevista.
 </div>
@@ -260,9 +260,9 @@ A seguir, encontra-se a tabela em questão:
 		<td align="center" valign=bottom bgcolor="#FF0000"><b><font color="#000000">Alta</font></b></td>
 	</tr>
 </table>
-<p align="center">Tabela: Product Backlog v1 - Exército Brasileiro<p/>
+<p align="center">Tabela 1: Product Backlog v1 - Exército Brasileiro<p/>
 
-
+Posteriormente, encontramos um modelo que faria mais sentido para o nosso projeto, por já englobar os épicos, as features e dividi-las de forma a facilitar o entendimento. Sendo assim, foi feita uma segunda versão para o backlog do projeto, que contém hyperlinks para as histórias de usuários definidas e para os épicos. Podemos visualiza-lo na _Tabela 2_
 <table cellspacing="" border="0" class="table table-striped table-bordered table-responsive-sm" style="font-size: 16px">
     <thead>
         <tr>
@@ -501,11 +501,11 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5"><a
                     href="../Epicos/EP03/">Épico 06 - Utilidade</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5">
-                Postagens</td>
+                Disponibilidade</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
                     href="./#/modelagemRequisitos/userstories?id=us22">US22</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
-                desejo aque o aplicativo permitia o acesso às informações sem a necessidade de internet, desde que sejam funcionalidades internas, para que eu possa obter informações sobre o exército brasileiro sem a disponibilidade de internet </td>
+                desejo que o aplicativo permitia o acesso às informações sem a necessidade de internet, desde que sejam funcionalidades internas, para que eu possa obter informações sobre o exército brasileiro sem a disponibilidade de internet </td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Could</td>
 		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Não funcional</td>
         </tr>
@@ -529,7 +529,7 @@ A seguir, encontra-se a tabela em questão:
         </tr>
     </tbody>
 </table>
-<p align="center">Tabela: Product Backlog v2 - Exército Brasileiro<p/>
+<p align="center">Tabela 2: Product Backlog v2 - Exército Brasileiro<p/>
 
 ## Referências
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
