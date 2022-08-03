@@ -2,17 +2,25 @@
 
 ## Introdução
 
-<div align="justify">&emsp;&emsp; O registro pendente de trabalhos (Backlog) é um artefato que consiste em uma lista, geralmente no formato de tabela, contendo a 
-descrição de todas as funcionalidades desejadas para um determinado produto. Tais descrições possuem alta granularidade, isto é, baixo grau de detalhamento, 
-além de evidenciarem os requisitos funcionais e não funcionais de um projeto, os quais são priorizados de acordo com o valor agregado ao cliente. Sendo assim, 
-essas descrições podem se dividir em uma ou mais tarefas a serem desenvolvidas pela equipe de desenvolvimento, facilitando a definição do que deve ser feito em cada sprint. 
-Além disso, vale ressaltar que este artefato é um documento dinâmico, visto que o mesmo evoluir em conjunto com o desenvolvimento do projeto. Em outras palavras,
-mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente.
+<div align="justify">&emsp;&emsp;
+        O registro pendente de trabalhos (Backlog) é um artefato que consiste em uma lista, geralmente no formato de tabela, contendo a 
+        descrição de todas as funcionalidades desejadas para um determinado produto. Tais descrições possuem alta granularidade, isto é, baixo grau de detalhamento, 
+        além de evidenciarem os requisitos funcionais e não funcionais de um projeto, os quais são priorizados de acordo com o valor agregado ao cliente.
+        <br>&emsp;&emsp;
+        Sendo assim, 
+        essas descrições podem se dividir em uma ou mais tarefas a serem desenvolvidas pela equipe de desenvolvimento, facilitando a definição do que deve ser feito em cada sprint. 
+        Além disso, vale ressaltar que este artefato é um documento dinâmico, visto que o mesmo evoluir em conjunto com o desenvolvimento do projeto. Em outras palavras,
+        mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente.
 </div>
 
 ## Scrum
 
-<div align="justify">&emsp;&emsp; O Scrum consiste em um método de desenvolvimento ágil de software cujos princípios são consistentes com o manifesto ágil e são usados para orientar as atividades de desenvolvimento dentro de um processo que incorpora as seguintes atividades estruturais: requisitos, análise, projeto, evolução e entrega. Sendo assim, Em cada atividade metodológica, ocorrem tarefas a realizar dentro de um padrão de processo chamado sprint. Somado a isso, o trabalho realizado dentro de um sprint, além de ser definido pela equipe Scrum, é adaptado ao problema em questão. É nesse contexto que, o product backlog, consiste em um dos principais artefatos ligados a metodogia scrum. A figura 1 a seguir, retirada do livro Engenharia de Software de Pressman, explica com mais detalhes o fluxo geral do processo Scrum.	
+<div align="justify">&emsp;&emsp;
+        O Scrum consiste em um método de desenvolvimento ágil de software cujos princípios são consistentes com o manifesto ágil e são usados para orientar as atividades de desenvolvimento dentro de um processo que incorpora as seguintes atividades estruturais: requisitos, análise, projeto, evolução e entrega.
+        <br>&emsp;&emsp;
+        Sendo assim, Em cada atividade metodológica, ocorrem tarefas a realizar dentro de um padrão de processo chamado sprint. Somado a isso, o trabalho realizado dentro de um sprint, além de ser definido pela equipe Scrum, é adaptado ao problema em questão. É nesse contexto que, o product backlog, consiste em um dos principais artefatos ligados a metodogia scrum.
+        <br>&emsp;&emsp;
+        A figura 1 a seguir, retirada do livro Engenharia de Software de Pressman, explica com mais detalhes o fluxo geral do processo Scrum.	
 </div>
 
 ![image](https://user-images.githubusercontent.com/72039007/181885570-f9ecd2f3-d3f6-45c9-85ca-fd01edbf5ad1.png)	
@@ -22,14 +30,27 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
 ## SAFe (Scaled Agile Framework)
 
 <div align="justify">&emsp;&emsp;
-	O SAFe consiste em uma framework baseada em processos ágeis, tais como o scrum, que permite escalar práticas ágeis em corporações ou grandes projetos. Tal framework propõe um mecanismo definindo diferentes níveis de times cuja dinâmica varia considerando a importância da prioridade e a previsão de entrega. Sendo assim, o backlog do produto é um dos artefatos de máxima importância dentro dessa framework, visto que é a partir dele que outras atividades, de menor granularidade, são derivadas e priorizadas.
+	O SAFe consiste em uma framework baseada em processos ágeis, tais como o scrum, que permite escalar práticas ágeis em corporações ou grandes projetos. Tal framework propõe um mecanismo definindo diferentes níveis de times cuja dinâmica varia considerando a importância da prioridade e a previsão de entrega.
+        <br>&emsp;&emsp;
+        Sendo assim, o backlog do produto é um dos artefatos de máxima importância dentro dessa framework, visto que é a partir dele que outras atividades, de menor granularidade, são derivadas e priorizadas.
 </div>
 
 ## Metodologia
 	
 <div align="justify">&emsp;&emsp; 
-	A tabela a seguir expressa o backlog do aplicativo Exército Brasileiro. Observe que tal artefato leva em consideração histórias dos usuários com eventuais comentários que auxiliam seu entendimento, assim como um identificador único denominado ID, o tipo do requisito modelado e sua prioridade.
+	A tabela 1 expressa o backlog do aplicativo Exército Brasileiro. Observe que tal artefato leva em consideração histórias dos usuários com eventuais comentários que auxiliam seu entendimento, assim como um identificador único denominado ID, o tipo do requisito modelado e sua prioridade.
+        <br>&emsp;&emsp;
+        Para realizar a confecção dessa tabela, foi utilizado o método da entrevista, levando em conta a <b>Persona 1</b> criada nesse mesmo projeto. Podemos encontrar o vídeo dessa entrevista a seguir, juntamente com um arquivo que representa a transcrição dessa entrevista.
 </div>
+
+#### Vídeo
+
+X
+
+#### Transcrição
+
+
+
 <br>
 <table cellspacing="0" border="0" class="table table-striped table-bordered table-responsive-sm" style="font-size: 10px;">
 	<colgroup width="24"></colgroup>
@@ -188,7 +209,7 @@ mudanças devem ocorrer caso surjam novas necessidades que satisfaçam o cliente
 		<td align="center" valign=bottom><b><font color="#000000">Funcional</font></b></td>
 		<td align="center" valign=bottom><b><font color="#000000">usuário</font></b></td>
 		<td align="center" valign=bottom><b><font color="#000000">obter informações sobre o aplicativo</font></b></td>
-		<td align="center" valign=bottom><b><font color="#000000">aprender como utiliza-lo</font></b></td>
+		<td align="center" valign=bottom><b><font color="#000000">aprender como utilizá-lo</font></b></td>
 		<td align="center" valign=bottom><b><font color="#000000"> </font></b></td>
 		<td align="center" valign=bottom bgcolor="#00FF00"><b><font color="#000000">Baixa</font></b></td>
 	</tr>
