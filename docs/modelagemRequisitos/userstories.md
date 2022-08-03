@@ -20,14 +20,17 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
 **Descrição:** Eu, como um novo usuário do sistema, desejo ler notícias sobre o exército brasilileiro para que eu possa obter informações mais atuais.
 
+**Feature:** Noticiário
+
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Noticiários";
 * Dentre os noticiários, o usuário deve selecionar qual deseja ler;
 
-
 ### US02
 
 **ID:** US02
+
+**Feature:** Blog
 
 **Descrição:** Eu, como um usuário do sistema, desejo acessar o blog oficial do exército brasileiro para acompanhar as notícias sobre o exército brasileiro.
 
@@ -40,6 +43,8 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 ### US03
 
 **ID:** US03
+
+**Feature:** Concursos
 
 **Descrição:** Eu, como um usuário do sistema, desejo acessar informações sobre os concursos abertos para que eu possa saber qual concurso quero me inscrever.
 
@@ -55,6 +60,8 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
 **Descrição:** Eu, como um usuário do sistema, desejo acessar links de inscrição dos concursos abertos para que eu possa me inscrever
 
+**Feature:** Concursos
+
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Concursos";
 * Dentre os concursos, selecionar qual deseja visualizar informações;
@@ -63,6 +70,8 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 ### US05
 
 **ID:** US05
+
+**Feature:** Concursos
 
 **Descrição:** Eu, como usuário, desejo obter informações sobre resultados dos processos seletivos do exército brasileiro para verificar se eu passei no concurso o qual me inscrevi.
 
@@ -75,6 +84,8 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
 **ID:** US06
 
+**Feature:** Uniformes
+
 **Descrição:** Eu, como um usuário do sistema, desejo obter informações sobre os uniformes disponíveis pelo exército brasileiro para que eu possa escolher um para comprar.
 
 **Critérios de aceitação**:
@@ -83,6 +94,8 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 ### US07
 
 **ID:** US07
+
+**Feature:** Hotéis
 
 **Descrição:** Eu, como um usuário do sistema, desejo obter informações sobre os diferentes hotéis de trânsito disponíveis pelo exército brasileiro decidir qual hotel irei me hospedar.
 
@@ -95,7 +108,9 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
 **ID:** US08
 
-**Descrição:** Eu, como usuário, desejo entrar em contato com o com a MAX, inteligência artificial do exército brasileiro, para resolver algum problema ou tirar uma dúvida.
+**Descrição:** Eu, como usuário, desejo entrar em contato com o com a MAX, inteligência artificial do exército brasileiro, para que eu possa resolver algum problema ou tirar uma dúvida.
+
+**Feature:** Orientações/Atendimento
 
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Fale conosco";
@@ -107,6 +122,8 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
 **Descrição:** Eu, como usuário, desejo entrar em contato com o exército brasileiro pelo email, para resolver algum problema ou tirar uma dúvida
 
+**Feature:** Orientações/Atendimento
+
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Fale Conosco";
 * O usuário deve poder clicar nos botões "E-mail" e "Imprensa" e ser direcionado para o email do exército;
@@ -117,8 +134,10 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
 **Descrição:** Eu, como usuário, desejo obter informações sobre o aplicativo para que eu possa aprender como utiliza-lo.
 
+**Feature:** Orientações/Atendimento
+
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* O usuário deve poder entrar no aplicativo e selecionar uma fucnioalidade de ajuda;
 
 
 ### US11
@@ -126,6 +145,8 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 **ID:**  US11
 
 **Descrição:** Eu, como usuário, desejo acessar o youtube oficial do exército brasileiro para que eu possa assistir vídeos online do exército brasileiro
+
+**Feature:** Postagens
 
 **Critérios de aceitação**:
 * O usuário deve poder selecionar a funcionalidade "Youtube" e ser direcionado para o canal do youtube do Exército Brasileiro;
@@ -136,6 +157,9 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 **ID:**  US12
 
 **Descrição:** Eu, como usuário, desejo acessar o facebook oficial do exército brasileira para que eu possa acompanhar as postagens do exército.
+
+**Feature:** Postagens
+
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Facebook" e ser direcionado para o canal do Exército no facebook;
 
@@ -144,6 +168,8 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 **ID:**  US13
 
 **Descrição:** Eu, como usuário, desejo acessar o sistema do exercito responsável pela reserva ativa para que eu possa encontrar um emprego
+
+**Feature:** Reserva Ativa
 
 **Critérios de aceitação**:
 * O usuário deve poder selecionar a funcionalidade "Reserva Ativa" e ser direcionado para o site da Reserva Ativa;
@@ -156,6 +182,8 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
 **Descrição:** Eu, como usuario, desejo acessar a rádio verde oliva para ouvir músicas e notícias.
 
+**Feature:** Rádio
+
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Rádio" e ouvir a rádio;
 
@@ -165,6 +193,8 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
 **Descrição:** Eu, como usuário já alistado, desejo acessar os podcast do exército brasileiro para conhecer figuras importantes e hitórias do exército
 
+**Feature:** Podcast
+
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Podcast";
 * O usuário deve poder escolher o podcast e assisti-lo.
@@ -172,6 +202,8 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 ### US16
 
 **ID:** US16
+
+**Feature:** Revista
 
 **Descrição:** Eu, como usuário já alistado, desejo acessar o sistema do exercito responsável pela Revista Verde Oliva para que eu possa baixar uma edição da Revista Verde Oliva de minha preferência
 
@@ -187,6 +219,8 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
 **Descrição:** Eu, como usuario, desejo acessar o sistema de alistamento do exército brasileiro para que eu possa me alistar.
 
+**Feature:** Realizar alistamento
+
 **Critérios de aceitação**:
 * Deve ser possível selecionar a opção "Alistamento";
 * O usuário deve ser redirecionado para o site do gov.br para entrar ou realizar o cadastro.
@@ -197,23 +231,31 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
 **Descrição:** Eu, como usuário já alistado, desejo verificar o status do meu alistamento para que eu possa acompanhar e me apresentar nas datas agendadas
 
+**Feature:** Status
+
 **Critérios de aceitação**:
 * Deve ser possível que o usuário selecione o alistamento;
 * O usuário deve conseguir entrar no sistema com os seus dados já cadastrados e visualizar a situação do seu alistamento;
+* 
+## Épico 5 - Carteira de Identificação Militar
 
-## US19
+### US19
 
 **ID:** US19
 
-**Descrição:** Eu, como usuário, desejo me autenticar no sistema com minha identidade militar e a minha senha.
+**Feature:** Autenticar
+
+**Descrição:** Eu, como usuário, desejo me autenticar no sistema CIM com minha identidade militar e a minha senha para que eu possa acessar a minha carteira de identidade de militar.
 
 **Critérios de aceitação**:
 * Deve ser possível selecionar a funcionalidade "CIM";
 * Deve ser possível entrar na conta com o número de identificação e senha;
 
-## US20
+### US20
 
 **ID:** US20
+
+**Feature:** Autenticar
 
 **Descrição:** Eu, como usuário, desejo recuperar a minha senha esquecida para que eu possa acessar minha identificação.
 
@@ -221,18 +263,23 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 * Ser possível selecionar a funcionalidade "CIM";
 * Ser possível modificar a senha caso o usuário tenha esquecido;
 
-## US21
+### US21
 
 **ID:** US21
+
+**Feature:** Acessar
 
 **Descrição:** Eu, como um usuário do sistema, desejo acessar o sistema de carteira de identificação para que eu possa pedir a minha segunda via
 
 **Critérios de aceitação**:
-* O usuário deve poder acessar a sua Carteira de Identificação de Militar;
 
-## US22
+* Deve ser possível selecionar a funcionalidade "CIM";
+* Após autenticação, o usuário deve poder acessar a sua Carteira de Identificação de Militar;
+
+### US22
 
 **ID:** US22
+
 
 **Descrição:** Eu, como usuário, desejo aque o aplicativo permita o acesso às informações sem a necessidade de internet para que eu possa obter informações sobre o exército brasileiro sem a disponibilidade de internet
 **Critérios de aceitação**:
