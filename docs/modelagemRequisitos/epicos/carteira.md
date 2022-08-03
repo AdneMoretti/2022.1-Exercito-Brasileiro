@@ -64,3 +64,14 @@
 
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e clicar no botão sanduíche, no canto superior esquerdo, para acessar todas as funcionalidades do exército;
+
+
+## Referências
+> - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15;
+> - 
+
+### Histórico de versão
+
+| Versão | Data       | Descrição                                 | Autor        | Revisor |
+| ------ | ---------- | ----------------------------------------- | ------------ | -------- |
+| 0.1    | 2/8/2022   | Crição dos épicos                         | Luan Vasco   | Gustavo Martins |
