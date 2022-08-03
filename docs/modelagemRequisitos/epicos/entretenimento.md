@@ -35,4 +35,14 @@
 **Critérios de aceitação**:
 * O usuário deve poder selecionar a funcionalidade da revista verde-oliva;
 * O usuário deve ser redirecionado para o sistema de revistas da verde-oliva.
-* 
+
+
+## Referências
+> - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15;
+> - 
+
+### Histórico de versão
+
+| Versão | Data       | Descrição                                 | Autor        | Revisor |
+| ------ | ---------- | ----------------------------------------- | ------------ | -------- |
+| 0.1    | 2/8/2022   | Crição dos épicos                         | Luan Vasco   | Gustavo Martins |
