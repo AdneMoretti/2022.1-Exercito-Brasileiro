@@ -9,6 +9,14 @@ Na engenharia de requisitos, as histórias de usuário são descrições curtas 
 
 Essas são de fundamental importância para um produto de software, pois serve para validar se o sistema realmente atende às necessidades do usuário.
 
+## Lista de Épicos 
+
+[Notícias](epicos/noticias.md)<br>
+[Informações](epicos/informacoes.md)<br>
+[Entretenimento](epicos/entretenimento.md)<br>
+[Alistamento](epicos/alistamento.md)<br>
+[Carteira de Identificação Militar](epicos/carteira.md)<br>
+
 ## Resultados
 Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
