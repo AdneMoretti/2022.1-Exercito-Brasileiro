@@ -280,7 +280,7 @@ A seguir, encontra-se a tabela em questão:
                     href="">Épico 01 - Notícias </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Notíciário</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="/#/modelagemRequisitos/userstories?id=us01/">US01</a></td>
+                    href="./#/modelagemRequisitos/userstories?id=us01/">US01</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um novo
                 usuário do sistema, desejo ler notícias sobre o exército brasilileiro para que eu possa obter
                 informações mais atuais.</td>
@@ -332,8 +332,7 @@ A seguir, encontra-se a tabela em questão:
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
                 Uniformes</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
-                    href="./#/modelagemRequisitos/userstories?id=us06/">US06</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">[/modelagemRequisitos/userstories?id=us06/](US06)"</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um
                 usuário do sistema, desejo obter informações sobre os uniformes disponíveis pelo exército brasileiro
                 para que eu possa escolher um para comprar</td>
@@ -407,6 +406,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
                 desejo acessar o sistema do exercito responsável pela reserva ativa para que eu possa encontrar um
                 emprego</td>
+		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
 	<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Funcional</td>
         </tr>
         <tr>
