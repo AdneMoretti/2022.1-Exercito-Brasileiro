@@ -55,6 +55,17 @@ Essas são de fundamental importância para um produto de software, pois serve p
 * Dentre os concursos, selecionar qual deseja visualizar informações;
 * O usuário deve clicar nos links disponibilizados;
 
+## US05
+
+**ID:** US05
+
+**Descrição:** Eu, como usuário, desejo obter informações sobre resultados dos processos seletivos do exército brasileiro para verificar se eu passei no concurso o qual me inscrevi.
+
+**Critérios de aceitação**:
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Concursos";
+* O usuário deve poder selecionar o concurso que deseja visualizar
+* O usuário deve ser redirecionado para a página do concurso de resultados.
+
 ## US06
 
 **ID:** US06
