@@ -85,7 +85,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Fale Conosco";
-
+* O usuário deve poder clicar nos botões "E-mail" e "Imprensa" e ser direcionado para o email do exército;
 
 ## US10
 
@@ -104,7 +104,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 **Descrição:** Eu, como usuário, desejo acessar o youtube oficial do exército brasileiro para que eu possa assistir vídeos online do exército brasileiro
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* O usuário deve poder selecionar a funcionalidade "Youtube" e ser direcionado para o canal do youtube do Exército Brasileiro;
 
 
 ## US12
@@ -113,7 +113,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 
 **Descrição:** Eu, como usuário, desejo acessar o facebook oficial do exército brasileira para que eu possa acompanhar as postagens do exército.
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Facebook";
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Facebook" e ser direcionado para o canal do Exército no facebook;
 
 ## US13
 
@@ -122,7 +122,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 **Descrição:** Eu, como usuário, desejo acessar o sistema do exercito responsável pela reserva ativa para que eu possa encontrar um emprego
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Reserva Ativa";
+* O usuário deve poder selecionar a funcionalidade "Reserva Ativa" e ser direcionado para o site da Reserva Ativa;
 
 ## US14
 
@@ -131,7 +131,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 **Descrição:** Eu, como usuario, desejo acessar a rádio verde oliva para ouvir músicas e notícias.
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Rádio";
+* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Rádio" e ouvir a rádio;
 
 ## US15
 
@@ -142,6 +142,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Podcast";
 * O usuário deve poder escolher o podcast e assisti-lo.
+
 ## US16
 
 **ID:**US16
@@ -199,7 +200,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 **Descrição:** Eu, como um usuário do sistema, desejo acessar o sistema de carteira de identificação para que eu possa pedir a minha segunda via
 
 **Critérios de aceitação**:
-* O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
+* O usuário deve poder acessar a sua Carteira de Identificação de Militar;
 
 ## US22
 
@@ -207,7 +208,7 @@ Esse documento visa apresentar as histórias de usuário definidas para o projet
 
 **Descrição:** Eu, como usuário, desejo aque o aplicativo permita o acesso às informações sem a necessidade de internet para que eu possa obter informações sobre o exército brasileiro sem a disponibilidade de internet
 **Critérios de aceitação**:
-* O usuário deve poder selecionar a funcionalidade "Uniformes" e visualizar todos os uniformes;
+* O usuário deve poder selecionar acessar o aplicativo e as suas funcionalidades, desde que não sejam externas, sem a conexão com a internet;
 
 ## US23
 
