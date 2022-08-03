@@ -49,8 +49,9 @@ X
 
 #### Transcrição
 
+[Entrevista para o Backlog - Exército Brasileiro](https://github.com/Requisitos-de-Software/2022.1-Exercito-Brasileiro/files/9253454/Entrevista.-.Backlog.-.Exercito.Brasileiro.pdf)
 
-
+A seguir, encontra-se a tabela em questão:
 <br>
 <table cellspacing="0" border="0" class="table table-striped table-bordered table-responsive-sm" style="font-size: 10px;">
 	<colgroup width="24"></colgroup>
