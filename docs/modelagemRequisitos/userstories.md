@@ -10,8 +10,9 @@ Na engenharia de requisitos, as histórias de usuário são descrições curtas 
 Essas são de fundamental importância para um produto de software, pois serve para validar se o sistema realmente atende às necessidades do usuário.
 
 ## Resultados
+Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
-#### US01
+## US01
 
 **ID:** US01
 
@@ -22,7 +23,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 * Dentre os noticiários, o usuário deve selecionar qual deseja ler;
 
 
-#### US02
+## US02
 
 **ID:** US02
 
@@ -32,7 +33,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Eblog";
 * Dentre as postagens, o usuário deve selecionar qual deseja ler;
 
-#### US03
+## US03
 
 **ID:** US03
 
@@ -44,7 +45,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 
 
 
-#### US04
+## US04
 
 **ID:** US04
 
@@ -55,7 +56,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 * Dentre os concursos, selecionar qual deseja visualizar informações;
 * O usuário deve clicar nos links disponibilizados;
 
-#### US05
+## US05
 
 **ID:** US05
 
@@ -66,7 +67,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 * O usuário deve poder selecionar o concurso que deseja visualizar
 * O usuário deve ser redirecionado para a página do concurso de resultados.
 
-#### US06
+## US06
 
 **ID:** US06
 
@@ -86,7 +87,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 * O usuário deve poder selecionar o estado que deseja visualizar o hotel;
 * O usuário deve poder escolher um dos hotéis disponíveis e ser redirecionado para sua localização no google maps.
 
-#### US08
+## US08
 
 **ID:** US08
 
@@ -96,7 +97,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Fale conosco";
 * O usuário deve poder clicar no bootão "Fale com o Max" e ser redirecionado para o aplicativo Messenger;
 
-#### US09
+## US09
 
 **ID:** US09
 
@@ -106,7 +107,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Fale Conosco";
 * O usuário deve poder clicar nos botões "E-mail" e "Imprensa" e ser direcionado para o email do exército;
 
-#### US10
+## US10
 
 **ID:**  US10
 
@@ -116,7 +117,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Uniformes";
 
 
-#### US11
+## US11
 
 **ID:**  US11
 
@@ -126,7 +127,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 * O usuário deve poder selecionar a funcionalidade "Youtube" e ser direcionado para o canal do youtube do Exército Brasileiro;
 
 
-#### US12
+## US12
 
 **ID:**  US12
 
@@ -134,7 +135,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 **Critérios de aceitação**:
 * O usuário deve poder entrar no aplicativo do exército brasileiro e selecionar a funcionalidade "Facebook" e ser direcionado para o canal do Exército no facebook;
 
-#### US13
+## US13
 
 **ID:**  US13
 
@@ -143,7 +144,7 @@ Essas são de fundamental importância para um produto de software, pois serve p
 **Critérios de aceitação**:
 * O usuário deve poder selecionar a funcionalidade "Reserva Ativa" e ser direcionado para o site da Reserva Ativa;
 
-#### US14
+## US14
 
 **ID:**  US14
 
