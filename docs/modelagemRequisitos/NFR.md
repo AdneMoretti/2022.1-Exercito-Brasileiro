@@ -94,5 +94,16 @@ Contribuições descrevem como a satisfação ou não de um softgoal descendente
 contribui para a satisfação de um softgoal ascendente, poden ser positivas ou negativas,
 ou até satisfazendo completamente o ascendente.
 
+## Referências
+<div align="justify">&emsp;&emsp; Os seguintes documentos de Cenarios serviram como referência durante a elaboração desse documento:
+</div><br>
+
+> BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.<br><br>
+
+| Versão | Data | Descrição | Autor | Revisor |
+|--------|------|-------|-----------| ------- |
+| 0.1 | 03/08/22 | Documento Inicial | Guilherme Puida e Vitor Eduardo | --
+
+
 
 
