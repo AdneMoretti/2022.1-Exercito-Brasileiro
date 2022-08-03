@@ -30,7 +30,7 @@
 - [NFR framework](/modelagemRequisitos/NFR.md)
 - [Istar](/modelagemRequisitos/Istar.md)
 - [Backlog do produto](/modelagemRequisitos/backlog.md)
-- [Backlog teste](/modelagemRequisitos/User-Stories.md)
+- [Backlog teste](/modelagemRequisitos/User_stories.md)
 - Apresentações
 
 - [Apresentação 1](/apresentacoes/apresentacao1.md)
