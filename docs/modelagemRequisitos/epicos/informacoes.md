@@ -131,3 +131,14 @@
 
 **Critérios de aceitação**:
 * O usuário deve poder selecionar a funcionalidade "Reserva Ativa" e ser direcionado para o site da Reserva Ativa;
+
+
+## Referências
+> - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15;
+> - 
+
+### Histórico de versão
+
+| Versão | Data       | Descrição                                 | Autor        | Revisor |
+| ------ | ---------- | ----------------------------------------- | ------------ | -------- |
+| 0.1    | 2/8/2022   | Crição dos épicos                         | Luan Vasco   | Gustavo Martins |
