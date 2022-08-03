@@ -24,7 +24,6 @@
     - [Léxicos](/modelagemRequisitos/lexicos.md)
     - [Especificação suplementar](/modelagemRequisitos/especificacao_suplementar.md)
     - [NFR framework](/modelagemRequisitos/NFR.md)
-    - [Istar](/modelagemRequisitos/Istar.md)
     - [Histórias de Usuário](/modelagemRequisitos/userstories.md)
 
 - Apresentações
