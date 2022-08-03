@@ -297,7 +297,7 @@ Sendo assim, as histórias de usuários obtidas o Backlog do Produto foram:
 
 **ID:** US23
 
-**Descrição:** Eu, como usuário, desejo acessar o conteúdo do aplitivo a qualquer momento do dia para que eu possa atender meu objetivo quando eu achar necessário.
+**Descrição:** Eu, como usuário, desejo acessar o conteúdo do aplicativo a qualquer momento do dia para que eu possa atender meu objetivo quando eu achar necessário.
 
 **Critérios de aceitação**:
 * O usuário deve poder selecionar acessar o aplicativo em qualquer momento, caso não seja possível, o sistema tem um tempo de intervalo de falha de no máximo 12 horas;

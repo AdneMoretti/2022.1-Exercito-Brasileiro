@@ -79,7 +79,7 @@ Para qualquer dado armazenado pelo aplicativo, o mesmo deve considerar as seguin
 
 ### Garantia de disponibilidade
 
-Enquanto o dispositivo em uso possuir acesso à internet, o aplicativo deverá funcionar constantemente, de forma completa e correta.
+Enquanto o dispositivo em uso possuir acesso à internet, caso haja alguma falha no aplicativo, deve voltar a funcionar em um intervalo de no máximo 24 horas.
 
 ## __Suportabilidade__
 
@@ -88,8 +88,6 @@ O aplicativo deve ser compatível aos seguintes dispositivos e suas versões:
 - Android (5.0 e versões mais recentes);
 - Iphone (IOS 12.0 ou versão posterior);
 - Ipad (IPadOS 12.0 ou posterior);
-- Ipod touch (IOS 12.0 ou posterior);
-- Mac (macOS 11.0 ou posterior ou com chip M1 ou posterior).
 
 ## __Performance__
 
@@ -100,7 +98,7 @@ Para baixar o aplicativo, deve estar disponível no dispositvido 52,5 MB, que é
 O tempo de resposta do aplicativo deve ser de no máximo 1 segundo para que o usuário tenha uma experiência agradável com o aplicativo.
 
 ### Energia
-O aplicativo deve consumir pouca energia do dispositivo quando utilizado por um grande período de tempo, em uma margem aceitável de 10% de bateria por hora de uso em um aparelho pouco usado, assim permitindo o uso do mesmo de forma livre e sem preocupações.
+O aplicativo deve consumir pouca energia do dispositivo quando utilizado por um grande período de tempo, em uma margem aceitável de 10% de bateria por hora de uso em um aparelho que tenha saúda de bateria maior ou igual a 80%, assim permitindo o uso do mesmo de forma livre e sem preocupações.
 
 ## __Requisitos de Interface__
 
