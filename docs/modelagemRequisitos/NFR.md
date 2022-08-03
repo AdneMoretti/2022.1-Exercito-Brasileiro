@@ -100,6 +100,8 @@ ou até satisfazendo completamente o ascendente.
 
 > BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.<br><br>
 
+## Histórico de Versão
+
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-------|-----------| ------- |
 | 0.1 | 03/08/22 | Documento Inicial | Guilherme Puida e Vitor Eduardo | --
