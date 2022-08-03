@@ -505,8 +505,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
                     href="./#/modelagemRequisitos/userstories?id=us22">US22</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
-                desejo aque o aplicativo permitisse o acesso às informações sem a necessidade de internet para que eu
-                possa obter informações sobre o exército brasileiro sem a disponibilidade de internet </td>
+                desejo aque o aplicativo permitia o acesso às informações sem a necessidade de internet, desde que sejam funcionalidades internas, para que eu possa obter informações sobre o exército brasileiro sem a disponibilidade de internet </td>
 	    <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Could</td>
 		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Não funcional</td>
         </tr>
@@ -514,7 +513,7 @@ A seguir, encontra-se a tabela em questão:
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
                     href="./#/modelagemRequisitos/userstories?id=us23">US23</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário,
-                desejo acessar o conteúdo do aplitivo a qualquer momento do dia para que eu possa atender meu objetivo
+                desejo acessar o conteúdo do aplicativo, desde que não sejam funcionalidades externas, a qualquer momento do dia para que eu possa atender meu objetivo
                 quando eu achar necessário.</td>
 	   <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
 		<td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Não funcional</td>
