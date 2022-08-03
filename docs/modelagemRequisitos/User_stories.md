@@ -92,8 +92,6 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário já alistado, desejo acessar o sistema do exercito responsável pela Revista Verde Oliva para que eu possa baixar uma edição da Revista Verde Oliva de minha preferência</td>
         </tr>
         <tr>
-        </tr>
-        <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2"><a href="../Epicos/EP03/" >Épico 04 - Alistamento </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Realizar alistamento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US05/">US17</a></td>
@@ -103,6 +101,7 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Status</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US06/"  >US18</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário já alistado, desejo verificar o status do meu alistamento para que eu possa acompanhar e me apresentar nas datas agendadas </td>
+        </tr>
         <tr>
           <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3"><a href="../Epicos/EP03/" >Épico 05 - Carteira de Identificação de militar </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">Autenticar</td>
@@ -116,7 +115,6 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Acessar</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="../User-Stories/US10/" >US21</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como um usuário do sistema, desejo acessar o sistema de carteira de identificação para que eu possa pedir a minha segunda via</td>
-            <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">-</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5"><a href="../Epicos/EP03/" >Épico 06 - Utilidade</a></td>
