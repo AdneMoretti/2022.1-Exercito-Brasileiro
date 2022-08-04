@@ -36,6 +36,11 @@ de forma hierárquica durante o desenvolvimento do projeto.
 
 Sua notação gráfica é uma nuvem com contorno simples, como mostra a _figura 1_.
 
+<center>
+![image](https://user-images.githubusercontent.com/70032505/182743834-bfb19598-571d-4fb9-85c3-466c81b5b622.png)
+<figcaption>Imagem 1: Representação gráfica de um softgoal NFR - Elaboração Própria</figcaption>
+</center>
+  
 ### Softgoals de Operacionalização
 
 Representam as soluções de implementação que satisfazem os softgoals NFR
@@ -43,8 +48,13 @@ em outros softgoals de operacionalização.
 Incluem processos, representações de dados, operações, estruturações
 e restrições no sistema alvo para atender às necessidades indicadas pelos softgoals em questão.
 
-Sua notação gráfica é uma nuvem com contorno em negrito, como mostra a _figura 2_.
+Sua notação gráfica é uma nuvem com contorno em negrito, como mostra a _imagem 2_.
 
+<center>
+![image](https://user-images.githubusercontent.com/70032505/182744039-0b0f9ee7-7505-4cc2-809b-660830f67969.png)
+<figcaption>Imagem 2: Representação gráfica de um softgoal NFR - Elaboração Própria</figcaption>
+</center>
+  
 ### Softgoals de Afirmação
 
 Representam as características de domínio de forma que elas possam ser
@@ -54,8 +64,13 @@ decidindo quais deles são selecionados, refinados e priorizados.
 Devem ser escritos em linguagem natural, e anotam algo que pode ser
 acrescentado ao modelo em um ponto específico.
 
-Sua notação gráfica é uma nuvem com contorno tracejado, como mostra a _figura 3_.
+Sua notação gráfica é uma nuvem com contorno tracejado, como mostra a _imagem 3_.
 
+<center>
+![image](https://user-images.githubusercontent.com/70032505/182744070-681f32d2-05f6-40e6-b9f1-4dc9682f43f0.png)
+<figcaption>Imagem 3: Representação gráfica de um softgoal NFR - Elaboração Própria</figcaption>
+</center>
+  
 ## Decomposição
 
 Existem quatro tipos de decompoições no Framework NFR.
@@ -126,7 +141,7 @@ Tipos de contribuição utilizadas pelo framework:
 O procedimento de Avaliação é responsável por dizer o grau que os requisitos não funcionais são satisfeitos por um conjunto de decisões. Assim, é determinado se cada softgoal ou interdependência do SIG foi satisfeito. Para isso, são utilizados rótulos para os softgoals, que são nomeados como satisfeito, fracamente satisfeito, negado, fracamente negado, conflitante e indeterminado.
 
 ![rotulos_softgoals](https://user-images.githubusercontent.com/56610229/182727377-db2f3c30-6c9e-413b-bfd6-16c061b51046.png)
-<figcaption>Imagem 1:  Tipos de rótulos utilizados pelos softgoals, retirado da dissertação "NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados", de Reinaldo Antônio da Silva.</figcaption>
+<figcaption>Imagem 4:  Tipos de rótulos utilizados pelos softgoals, retirado da dissertação "NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados", de Reinaldo Antônio da Silva.</figcaption>
 
 ## Metodologia
 
