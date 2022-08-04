@@ -50,7 +50,9 @@ X
 #### Transcrição
 
 [Entrevista para o Backlog - Exército Brasileiro](https://github.com/Requisitos-de-Software/2022.1-Exercito-Brasileiro/files/9253454/Entrevista.-.Backlog.-.Exercito.Brasileiro.pdf)
-
+	
+#### Backlog - Versão 1
+	
 A seguir, encontra-se a tabela em questão:
 <br>
 <table cellspacing="0" border="0" class="table table-striped table-bordered table-responsive-sm" style="font-size: 10px;">
@@ -261,6 +263,8 @@ A seguir, encontra-se a tabela em questão:
 	</tr>
 </table>
 <p align="center">Tabela 1: Product Backlog v1 - Exército Brasileiro<p/>
+
+#### Backlog - Versão 2
 
 Posteriormente, encontramos um modelo que faria mais sentido para o nosso projeto, por já englobar os épicos, as features e dividi-las de forma a facilitar o entendimento. Sendo assim, foi feita uma segunda versão para o backlog do projeto, que contém hyperlinks para as histórias de usuários definidas e para os épicos. Podemos visualiza-lo na _Tabela 2_
 <table cellspacing="" border="0" class="table table-striped table-bordered table-responsive-sm" style="font-size: 16px">
