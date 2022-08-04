@@ -145,27 +145,43 @@ O procedimento de Avaliação é responsável por dizer o grau que os requisitos
 
 ## Metodologia
 
-Para o projeto da disciplina, foram realizados diagramas que compõe alguns princípios da usabilidade, nesse caso Performance, Segurança e Disponibilidade, do aplicativo do exército brasileiro. A seguir, nas _imagens 4 a 7_, encontram-se os resultados desses diagramas, separados em quatro tópicos:
+Para o projeto da disciplina, foram realizados diagramas que compõe alguns princípios da usabilidade, nesse caso Performance, Segurança e Disponibilidade, do aplicativo do exército brasileiro. A seguir, nas _imagens 5 a 8_, encontram-se os resultados desses diagramas, separados em quatro tópicos:
 
 ### Geral
 
+<div align="center">
+
 ![geral](../assets/imagens/nfr/geral.png)
-<figcaption><center>Imagem 4:  Diagrama geral NFR - Exército Brasileiro (Autoria - Guilherme Puida)</figcaption>
+
+</div>
+<figcaption><center>Imagem 5:  Diagrama geral NFR - Exército Brasileiro (Autoria - Guilherme Puida)</figcaption>
 
 ### Performance
 
+<div align="center">
+
 ![performance](../assets/imagens/nfr/performance.png)
-<figcaption><center>Imagem 5:  Diagrama de performance NFR - Exército Brasileiro (Autoria - Guilherme Puida)</figcaption>
+
+</div>
+<figcaption><center>Imagem 6:  Diagrama de performance NFR - Exército Brasileiro (Autoria - Guilherme Puida)</figcaption>
 
 ### Segurança
 
+<div align="center">
+
 ![segurança](../assets/imagens/nfr/segurança.png)
-<figcaption><center>Imagem 6:  Diagrama de segurança NFR - Exército Brasileiro (Autoria - Guilherme Puida)</figcaption>
+
+</div>
+<figcaption><center>Imagem 7:  Diagrama de segurança NFR - Exército Brasileiro (Autoria - Guilherme Puida)</figcaption>
 
 ### Disponibilidade
 
+<div align="center">
+
 ![disponibilidade](../assets/imagens/nfr/disponibilidade.png)
-<figcaption><center>Imagem 7:  Diagrama de disponibilidade NFR - Exército Brasileiro (Autoria - Guilherme Puida)</figcaption>
+
+</div>
+<figcaption><center>Imagem 8:  Diagrama de disponibilidade NFR - Exército Brasileiro (Autoria - Guilherme Puida)</figcaption>
 
 ## Referências
 
@@ -175,7 +191,7 @@ Para o projeto da disciplina, foram realizados diagramas que compõe alguns prin
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-------|-----------| ------- |
-| 0.1 | 03/08/22 | Documento Inicial | Guilherme Puida e Vitor Eduardo | --
+| 0.1 | 03/08/22 | Documento Inicial | Guilherme Puida e Vitor Eduardo | Gabriel Moretti
 
 
 
