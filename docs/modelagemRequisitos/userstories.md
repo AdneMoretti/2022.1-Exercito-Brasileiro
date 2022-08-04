@@ -322,4 +322,4 @@ Sendo assim, as histórias de usuários obtidas para o aplicativo do Exército B
 
 | Versão | Data       | Descrição                                 | Autor        | Revisor |
 | ------ | ---------- | ----------------------------------------- | ------------ | -------- |
-| 0.1    | 24/07/2022 | Criação do documento                      | Adne Moretti | Gabriel Moretti
+| 0.1    | 1/8/2022 | Criação do documento                      | Adne Moretti | Gabriel Moretti
