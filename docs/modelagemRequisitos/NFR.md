@@ -28,6 +28,7 @@ alternativas, decisões e justificativas.
 
 Existem três tipos de softgoals, e cada um deles possui uma notação gráfica associada.
 
+
 ### Softgoals NFR
 
 Representam os Requisitos Não-Funcionais.
