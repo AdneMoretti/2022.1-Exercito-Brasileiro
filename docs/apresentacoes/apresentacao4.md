@@ -1,8 +1,8 @@
 ## Apresentação 4
 
-[![LINK APRESENTAÇÃO 4](http://img.youtube.com/vi/LoZOG0bEqKs/0.jpg)]()
+[![LINK APRESENTAÇÃO 4](http://img.youtube.com/vi/uLXo79MLO90/0.jpg)](https://www.youtube.com/watch?v=uLXo79MLO90)
 
-[Link do Vídeo]()
+[Link do Vídeo](https://www.youtube.com/watch?v=uLXo79MLO90)
 
 ## Histórico de Versão
 
