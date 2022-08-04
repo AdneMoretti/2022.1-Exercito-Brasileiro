@@ -80,7 +80,7 @@ Sendo assim, as histórias de usuários obtidas para o aplicativo do Exército B
 * O usuário deve poder selecionar o concurso que deseja visualizar
 * O usuário deve ser redirecionado para a página do concurso de resultados.
 
-## US06
+### US06
 
 **ID:** US06
 
