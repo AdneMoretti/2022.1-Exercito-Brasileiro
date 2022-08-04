@@ -62,7 +62,7 @@ Histórias de usuário :
 
 ## Épico 06 - Utilidade
 Épico que abrange tudo sobre **Utilidade**.
-Exemplo : Acessar Postagens do Exército que abrange a utilidade total do app.
+Exemplo : Acessar funcionalidades do Exército que abrange a utilidade total do app e disponibilidade do aplicativo para os usuários.
 
 Histórias de usuário :
     - US022
@@ -72,4 +72,4 @@ Histórias de usuário :
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-------|-----------| ------- |
-| 0.1 | 2/8/2022 | Criação do Documento | Luan Vasco| Gustavo Martins |
+| 0.1 | 2/8/2022 | Criação do Documento | Luan Vasco| Adne Moretti|
