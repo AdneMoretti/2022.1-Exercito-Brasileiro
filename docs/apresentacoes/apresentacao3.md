@@ -1,6 +1,8 @@
 ## Apresentação 3
 
-[Link do Vídeo](https://youtu.be/eI7DzjrKVU4)
+[![LINK APRESENTAÇÃO 3](http://img.youtube.com/vi/LoZOG0bEqKs/0.jpg)](https://www.youtube.com/watch?v=LoZOG0bEqKs)
+
+[Link do Vídeo](https://www.youtube.com/watch?v=LoZOG0bEqKs)
 
 ## Histórico de Versão
 

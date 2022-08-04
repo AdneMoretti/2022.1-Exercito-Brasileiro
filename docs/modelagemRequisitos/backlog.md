@@ -45,7 +45,10 @@
 
 #### Vídeo
 
-X
+[![LINK ENTREVISTA BACKLOG](http://img.youtube.com/vi/33XM100vzRE/0.jpg)](https://www.youtube.com/watch?v=33XM100vzRE)
+
+[Link do Vídeo](https://www.youtube.com/watch?v=33XM100vzRE)
+
 
 #### Transcrição
 
