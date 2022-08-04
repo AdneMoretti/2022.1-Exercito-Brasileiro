@@ -88,7 +88,7 @@ O aplicativo deve ser compatível aos seguintes dispositivos e suas versões:
 - Android (5.0 e versões mais recentes);
 - Iphone (IOS 12.0 ou versão posterior);
 - Ipad (IPadOS 12.0 ou posterior);
-
+- 
 ## __Performance__
 
 ### Armazenamento 
