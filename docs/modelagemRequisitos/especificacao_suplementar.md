@@ -88,12 +88,12 @@ O aplicativo deve ser compatível aos seguintes dispositivos e suas versões:
 - Android (5.0 e versões mais recentes);
 - Iphone (IOS 12.0 ou versão posterior);
 - Ipad (IPadOS 12.0 ou posterior);
-- MacOS(MacOS 11.0 ou ppsterior e um mac com o chip M1 da apple ou superior)
+- MacOS(MacOS 11.0 ou posterior e um mac com o chip M1 da apple ou superior)
 
 ## __Performance__
 
 ### Armazenamento 
-Para baixar o aplicativo, deve estar disponível no dispositvido 52,5 MB, que é a quantidade de memória necessária para o armazenamento do aplicativo.
+Para baixar o aplicativo, deve estar disponível no dispositivo 52,5 MB, que é a quantidade de memória necessária para o armazenamento do aplicativo.
 
 ### Tempo de resposta
 O tempo de resposta do aplicativo deve ser de no máximo 1 segundo para que o usuário tenha uma experiência agradável com o aplicativo.
@@ -120,4 +120,4 @@ As cores padrões da interface utilizadas devem seguir o tema do exército brasi
 |--------|------|-------|-----------| ------- |
 | 0.1 | 18/07/22 | Documento Inicial | Adne Moretti | Gabriel Moretti |
 | 0.2 | 19/07/22 | Adição de elementos aos requisitos | Gabriel Moretti | Adne Moretti |
-| 0.2 | 19/07/22 | Adição de exemplos de avaliações | Adne Moretti | Gabriel Moretti |
+| 0.3 | 19/07/22 | Adição de exemplos de avaliações | Adne Moretti | Gabriel Moretti |
