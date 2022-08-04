@@ -128,9 +128,33 @@ O procedimento de Avaliação é responsável por dizer o grau que os requisitos
 ![rotulos_softgoals](https://user-images.githubusercontent.com/56610229/182727377-db2f3c30-6c9e-413b-bfd6-16c061b51046.png)
 <figcaption>Imagem 1:  Tipos de rótulos utilizados pelos softgoals, retirado da dissertação "NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados", de Reinaldo Antônio da Silva.</figcaption>
 
+## Metodologia
+
+Para o projeto da disciplina, foram realizados diagramas que compõe alguns princípios da usabilidade, nesse caso Performance, Segurança e Disponibilidade, do aplicativo do exército brasileiro. A seguir, nas _imagens 4 a 7_, encontram-se os resultados desses diagramas, separados em quatro tópicos:
+
+### Geral
+
+![geral](../assets/imagens/nfr/geral.png)
+<figcaption><center>Imagem 4:  Diagrama geral NFR - Exército Brasileiro (Autoria - Guilherme Puida)</figcaption>
+
+### Performance
+
+![performance](../assets/imagens/nfr/performance.png)
+<figcaption><center>Imagem 5:  Diagrama de performance NFR - Exército Brasileiro (Autoria - Guilherme Puida)</figcaption>
+
+### Segurança
+
+![segurança](../assets/imagens/nfr/segurança.png)
+<figcaption><center>Imagem 6:  Diagrama de segurança NFR - Exército Brasileiro (Autoria - Guilherme Puida)</figcaption>
+
+### Disponibilidade
+
+![disponibilidade](../assets/imagens/nfr/disponibilidade.png)
+<figcaption><center>Imagem 7:  Diagrama de disponibilidade NFR - Exército Brasileiro (Autoria - Guilherme Puida)</figcaption>
+
 ## Referências
 
-> Reinaldo Antônio da Silva. "NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados". Universidade Federal de Pernambuco, 2019.<br><br>
+> Reinaldo Antônio da Silva. "NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados". Universidade Federal de Pernambuco, 2019.
 
 ## Histórico de Versão
 
