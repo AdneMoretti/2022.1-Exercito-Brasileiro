@@ -86,7 +86,7 @@ Refina um softgoal em outro com o mesmo tipo e tópicos, mas com uma prioridade 
 
 ## Interdependências
 
-As interdependências são responsáveis por definir as relações entre os sofgoals e os tipos de interdependências usadas pelo NFR framework são os refinamentos e contribuições.
+As interdependências são responsáveis por definir as relações entre os softgoals. Os tipos de interdependências usadas pelo NFR framework são os refinamentos e contribuições.
 
 ### Refinamentos
 
