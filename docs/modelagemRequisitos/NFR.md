@@ -36,9 +36,11 @@ de forma hierárquica durante o desenvolvimento do projeto.
 
 Sua notação gráfica é uma nuvem com contorno simples, como mostra a _figura 1_.
 
+<center>
 ![image](https://user-images.githubusercontent.com/70032505/182743834-bfb19598-571d-4fb9-85c3-466c81b5b622.png)
-<figcaption><center>Imagem 1: Representação gráfica de um softgoal NFR - Elaboração Própria</center></figcaption>
-
+<figcaption>Imagem 1: Representação gráfica de um softgoal NFR - Elaboração Própria</figcaption>
+</center>
+  
 ### Softgoals de Operacionalização
 
 Representam as soluções de implementação que satisfazem os softgoals NFR
@@ -48,9 +50,11 @@ e restrições no sistema alvo para atender às necessidades indicadas pelos sof
 
 Sua notação gráfica é uma nuvem com contorno em negrito, como mostra a _imagem 2_.
 
+<center>
 ![image](https://user-images.githubusercontent.com/70032505/182744039-0b0f9ee7-7505-4cc2-809b-660830f67969.png)
-<figcaption><center>Imagem 2: Representação gráfica de um softgoal NFR - Elaboração Própria</center></figcaption>
-
+<figcaption>Imagem 2: Representação gráfica de um softgoal NFR - Elaboração Própria</figcaption>
+</center>
+  
 ### Softgoals de Afirmação
 
 Representam as características de domínio de forma que elas possam ser
@@ -62,9 +66,11 @@ acrescentado ao modelo em um ponto específico.
 
 Sua notação gráfica é uma nuvem com contorno tracejado, como mostra a _imagem 3_.
 
+<center>
 ![image](https://user-images.githubusercontent.com/70032505/182744070-681f32d2-05f6-40e6-b9f1-4dc9682f43f0.png)
-<figcaption><center>Imagem 3: Representação gráfica de um softgoal NFR - Elaboração Própria</center></figcaption>
-
+<figcaption>Imagem 3: Representação gráfica de um softgoal NFR - Elaboração Própria</figcaption>
+</center>
+  
 ## Decomposição
 
 Existem quatro tipos de decompoições no Framework NFR.
