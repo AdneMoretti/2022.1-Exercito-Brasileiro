@@ -30,9 +30,15 @@ O Visual Studio Code (VsCode) será utilizado para manipulação dos arquivos do
 
 A ferramenta Telegram será utilizada como fonte de comunicação primária, visto a facilidade e velocidade da comunicação, além de permitir o compartilhamento de mídias de maneira eficaz e eficiente.
 
+## [LucidChart](https://www.lucidchart.com/pages/pt?gclid=Cj0KCQjwlK-WBhDjARIsAO2sErTOnvJ9H9PbwhSoKd94tl-0pXXEf0EewTIkg039ZwnYmxLVAdLs01saArRZEALw_wcB&km_CPC_AdGroupID=57888677956&km_CPC_AdPosition=&km_CPC_CampaignId=1500131479&km_CPC_Country=1001541&km_CPC_Creative=286634000599&km_CPC_Device=c&km_CPC_ExtensionID=&km_CPC_Keyword=%2Blucidcharts&km_CPC_MatchType=b&km_CPC_Network=g&km_CPC_TargetID=kwd-334618660008&km_CPC_placement=&km_CPC_target=&utm_campaign=_chart_pt_allcountries_mixed_search_brand_bmm_&utm_medium=cpc&utm_source=google)
+
+![image](https://user-images.githubusercontent.com/72039007/178374882-f5391562-d629-43c9-b67a-af4c4381d345.png)
+
+A ferramenta LucidChart será utilizada para diagramação e construção de esquemáticos de maneira barata, eficaz e colaborativa.
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |--------|------|-----------|-------| -------
 | 0.1 | 29/06/22 | Documento Inicial | Gustavo Martins | Adne Moretti
-| 0.1 | 29/06/22 | Adicionando introdução | Adne Moretti | 
+| 0.1 | 29/06/22 | Adicionando introdução | Adne Moretti | Gabriel Moretti
