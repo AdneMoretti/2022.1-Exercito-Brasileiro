@@ -72,4 +72,4 @@ Histórias de usuário :
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-------|-----------| ------- |
-| 0.1 | 2/8/2022 | Criação do Documento | Luan Vasco| Adne Moretti|
+| 0.1 | 2/8/2022 | Criação do Documento | Luan Vasco| Gustavo Martins|
