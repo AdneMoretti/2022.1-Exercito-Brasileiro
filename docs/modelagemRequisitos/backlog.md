@@ -38,9 +38,9 @@
 ## Metodologia
 	
 <div align="justify">&emsp;&emsp; 
-	A tabela 1 expressa a primeira versão do backlog do aplicativo Exército Brasileiro. Observe que tal artefato leva em consideração histórias dos usuários com eventuais comentários que auxiliam seu entendimento, assim como um identificador único denominado ID, o tipo do requisito modelado e sua prioridade.
+	A _tabela 1_ expressa a primeira versão do backlog do aplicativo Exército Brasileiro. Observe que tal artefato leva em consideração histórias dos usuários com eventuais comentários que auxiliam seu entendimento, assim como um identificador único denominado ID, o tipo do requisito modelado e sua prioridade.
         <br>&emsp;&emsp;
-        Para realizar a confecção dessa tabela, foi utilizado o método da entrevista, levando em conta a <b>Persona 1</b> criada nesse mesmo projeto. Podemos encontrar o vídeo dessa entrevista a seguir, juntamente com um arquivo que representa a transcrição dessa entrevista.
+        Para realizar a confecção _dessa tabela_ e da _tabela 2_, foi utilizado o método da entrevista, levando em conta a <b>Persona 1</b> criada nesse mesmo projeto. Podemos encontrar o vídeo dessa entrevista a seguir, juntamente com um arquivo que representa a transcrição dessa entrevista.
 </div>
 
 #### Vídeo
