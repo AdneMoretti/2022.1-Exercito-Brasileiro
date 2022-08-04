@@ -277,7 +277,7 @@ Posteriormente, encontramos um modelo que faria mais sentido para o nosso projet
     <tbody>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2"><a
-                    href="">Épico 01 - Notícias </a></td>
+                    href="./#/modelagemRequisitos/epicos?id=Épico-01-notícias">Épico 01 - Notícias </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Notíciário</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
                     href="./#/modelagemRequisitos/userstories?id=us01">US01</a></td>
@@ -300,7 +300,7 @@ Posteriormente, encontramos um modelo que faria mais sentido para o nosso projet
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="11"><a
-                    href="">Épico 02 - Informações </a></td>
+                    href="./#/modelagemRequisitos/epicos?id=Épico-02-informações">Épico 02 - Informações </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">
                 Concursos</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
@@ -412,7 +412,7 @@ Posteriormente, encontramos um modelo que faria mais sentido para o nosso projet
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3"><a
-                    href="../Epicos/EP02/">Épico 03 - Entretenimento </a></td>
+                    href="./#/modelagemRequisitos/epicos?id=Épico-03-entretenimento">Épico 03 - Entretenimento </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">Rádio
             </td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
@@ -446,7 +446,7 @@ Posteriormente, encontramos um modelo que faria mais sentido para o nosso projet
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2"><a
-                    href="../Epicos/EP03/">Épico 04 - Alistamento </a></td>
+                    href="./#/modelagemRequisitos/epicos?id=Épico-04-alistamento">Épico 04 - Alistamento </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="1">
                 Realizar alistamento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
@@ -469,7 +469,7 @@ Posteriormente, encontramos um modelo que faria mais sentido para o nosso projet
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3"><a
-                    href="../Epicos/EP03/">Épico 05 - Carteira de Identificação de militar </a></td>
+                    href="./#/modelagemRequisitos/epicos?id=Épico-05-carteira-de-identificação-de-militar">Épico 05 - Carteira de Identificação de militar </a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">
                 Autenticar</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
@@ -499,7 +499,7 @@ Posteriormente, encontramos um modelo que faria mais sentido para o nosso projet
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5"><a
-                    href="../Epicos/EP03/">Épico 06 - Utilidade</a></td>
+                    href="./#/modelagemRequisitos/epicos?id=Épico-06-utilidade">Épico 06 - Utilidade</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5">
                 Disponibilidade</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a
