@@ -6,7 +6,7 @@
 </p>
 
 ## Equipe
-Alunos | Github |
+Alunos | Github | 
 ------- | -------- |
 Gustavo Martins | gustavomartins-github|
 Adne Moretti | AdneMoretti |
