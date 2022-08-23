@@ -82,6 +82,46 @@ Entrega do vídeo | 03/07/2022 | Gustavo Martins| Todos | 03/07/2022
 <br>
 
 
+### Quinta entrega - 17/08/2022
+### Modelagem de requisitos - Análise
+<p> Tabela 6 - Cronograma detalhado para quinta entrega</p>
+
+Atividade(s) | Data  | Responsável | Revisor | Data de revisão
+------------ | ------- | ----------| ------- | ---------------
+ | 24/07/2022 | Gustavo Martins, Gabriel Moretti | Adne Moretti | 25/07/2022 |
+ | 24/07/2022 | Luan Vasco | Gustavo Martins | 25/07/2022 |
+ | 24/07/2022 | Adne Moretti | Gabriel Moretti | 25/07/2022
+ | 26/07/2022 | Guilherme Puida,  Vitor Eduardo| Luan Vasco | 27/07/2022
+ | 01/07/2022 | Guilherme Puida | Todos | 01/07/2022
+ | 03/07/2022 | Gustavo Martins| Todos | 03/07/2022
+<br>
+
+
+### Quinta entrega - 24/08/2022
+### Pós rastreabilidade - Gerência II
+<p> Tabela 7 - Cronograma detalhado para sexta entrega</p>
+
+Atividade(s) | Data  | Responsável | Revisor | Data de revisão
+------------ | ------- | ----------| ------- | ---------------
+Backward from  | 23/08/2022 | Guilherme Puida, Gabriel Moretti e Vitor Eduardo | Adne Moretti | 24/08/2022 |
+Foward from  | 23/07/2022 | Luan Vasco, Adne Moretti e Gustavo Martins | Gustavo Martins | 24/07/2022 |
+Gravação do vídeo | 24/08/2022 | Todos | Todos | 24/08/2022
+Edição do vídeo| 24/08/2022 | Guilherme Puida | Todos | 24/08/2022
+Entrega do arquivo | 24/08/2022 | Gustavo Martins| Todos | 24/08/2022
+<br>
+
+### Última entrega - 12/09/2022
+### Projeto final
+<p> Tabela 7 - Cronograma detalhado para sexta entrega</p>
+
+Atividade(s) | Data  | Responsável | Revisor | Data de revisão
+------------ | ------- | ----------| ------- | ---------------
+  | 23/08/2022 | Guilherme Puida, Gabriel Moretti e Vitor Eduardo | Adne Moretti | 24/08/2022 |
+  | 23/07/2022 | Luan Vasco, Adne Moretti e Gustavo Martins | Gustavo Martins | 24/07/2022 |
+Gravação do vídeo | 24/08/2022 | Todos | Todos | 24/08/2022
+Edição do vídeo| 24/08/2022 | Guilherme Puida | Todos | 24/08/2022
+Entrega do arquivo | 24/08/2022 | Gustavo Martins| Todos | 24/08/2022
+<br>
 
 ## Histórico de Versão
 
