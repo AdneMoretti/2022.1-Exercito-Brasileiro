@@ -13,7 +13,7 @@
   
 <div align="center">
 <img width="700px" height="200px" src="https://i.ibb.co/QjbWwKX/storytelling1.jpg">
-  <p>Storyboard 1: potencial usuário interessado em solicitar secunda vida de sua carteira de identidade militar de maneira mais facil<p/>
+  <p>Storyboard 1: potencial usuário interessado em solicitar segunda via de sua carteira de identidade militar de maneira mais fácil<p/>
 </div>
 
 #### Storyboard 2 
@@ -39,7 +39,7 @@
 |:--:|:--:|:--:|
 |ST01| A pessoa física usuária do aplicativo deve conseguir obter informações sobre como obter a segunda via do Certão de Identidade Militar | RNF |
 |ST02| A pessoa física usuária do aplicativo deve conseguir obter notícias e informações sobre o Exército Brasileiro  | RNF |
-|ST03| A pessoa física usuária do aplicativo deve conseguir obter informações sobre os diverços uniformes disponíveis pelo Exército Brasileiro | RNF |
+|ST03| A pessoa física usuária do aplicativo deve conseguir obter informações sobre os diversos uniformes disponíveis pelo Exército Brasileiro | RNF |
 
 ## Referências
 > [1] - SERRANO, Maurício; SERRANO, Milene;
